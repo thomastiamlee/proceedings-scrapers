@@ -1,0 +1,654 @@
+[
+    {
+        "paper_title": "NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search",
+        "author_names": "Yijian Qin, Ziwei Zhang, Xin Wang, Zeyang Zhang, Wenwu Zhu"
+    },
+    {
+        "paper_title": "Why do tree-based models still outperform deep learning on typical tabular data?",
+        "author_names": "Leo Grinsztajn, Edouard Oyallon, Gael Varoquaux"
+    },
+    {
+        "paper_title": "VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation",
+        "author_names": "Kaizhi Zheng, Xiaotong Chen, Odest Chadwicke Jenkins, Xin Wang"
+    },
+    {
+        "paper_title": "DC-BENCH: Dataset Condensation Benchmark",
+        "author_names": "Justin CUI, Ruochen Wang, Si Si, Cho-Jui Hsieh"
+    },
+    {
+        "paper_title": "A Large Scale Search Dataset for Unbiased Learning to Rank",
+        "author_names": "Lixin Zou, Haitao Mao, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin"
+    },
+    {
+        "paper_title": "TweetNERD - End to End Entity Linking Benchmark for Tweets",
+        "author_names": "Shubhanshu Mishra, Aman Saini, Raheleh Makki, Sneha Mehta, Aria Haghighi, Ali Mollahosseini"
+    },
+    {
+        "paper_title": "OccGen: Selection of Real-world Multilingual Parallel Data Balanced in Gender within Occupations",
+        "author_names": "Marta Costa-juss\u00e0, Christine Basta, Oriol Domingo, Andr\u00e9 Rubungo"
+    },
+    {
+        "paper_title": "PDEBench: An Extensive Benchmark for Scientific Machine Learning",
+        "author_names": "Makoto Takamoto, Timothy Praditia, Raphael Leiteritz, Daniel MacKinlay, Francesco Alesiani, Dirk Pfl\u00fcger, Mathias Niepert"
+    },
+    {
+        "paper_title": "StrokeRehab: A Benchmark Dataset for Sub-second Action Identification",
+        "author_names": "Aakash Kaku, Kangning Liu, Avinash Parnandi, Haresh Rengaraj Rajamohan, Kannan Venkataramanan, Anita Venkatesan, Audre Wirtanen, Natasha Pandit, Heidi Schambra, Carlos Fernandez-Granda"
+    },
+    {
+        "paper_title": "FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning",
+        "author_names": "Xiao-Yang Liu, Ziyi Xia, Jingyang Rui, Jiechao Gao, Hongyang Yang, Ming Zhu, Christina Wang, Zhaoran Wang, Jian Guo"
+    },
+    {
+        "paper_title": "TempEL: Linking Dynamically Evolving and Newly Emerging Entities",
+        "author_names": "Klim Zaporojets, Lucie-Aim\u00e9e Kaffee, Johannes Deleu, Thomas Demeester, Chris Develder, Isabelle Augenstein"
+    },
+    {
+        "paper_title": "GOOD: A Graph Out-of-Distribution Benchmark",
+        "author_names": "Shurui Gui, Xiner Li, Limei Wang, Shuiwang Ji"
+    },
+    {
+        "paper_title": "Ambiguous Images With Human Judgments for Robust Visual Event Classification",
+        "author_names": "Kate Sanders, Reno Kriz, Anqi Liu, Benjamin Van Durme"
+    },
+    {
+        "paper_title": "MBW: Multi-view Bootstrapping in the Wild",
+        "author_names": "Mosam Dabhi, Chaoyang Wang, Tim Clifford, L\u00e1szl\u00f3 Jeni, Ian Fasel, Simon Lucey"
+    },
+    {
+        "paper_title": "Meta-Album: Multi-domain Meta-Dataset for Few-Shot Image Classification",
+        "author_names": "Ihsan Ullah, Dustin Carri\u00f3n-Ojeda, Sergio Escalera, Isabelle Guyon, Mike Huisman, Felix Mohr, Jan N. van Rijn, Haozhe Sun, Joaquin Vanschoren, Phan Anh Vu"
+    },
+    {
+        "paper_title": "EgoTaskQA: Understanding Human Tasks in Egocentric Videos",
+        "author_names": "Baoxiong Jia, Ting Lei, Song-Chun Zhu, Siyuan Huang"
+    },
+    {
+        "paper_title": "Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems",
+        "author_names": "Abishek Thangamuthu, Gunjan Kumar, Suresh Bishnoi, Ravinder Bhattoo, N M Anoop Krishnan, Sayan Ranu"
+    },
+    {
+        "paper_title": "Communicating Natural Programs to Humans and Machines",
+        "author_names": "Sam Acquaviva, Yewen Pu, Marta Kryven, Theodoros Sechopoulos, Catherine Wong, Gabrielle Ecanow, Maxwell Nye, Michael Tessler, Josh Tenenbaum"
+    },
+    {
+        "paper_title": "SCAMPS: Synthetics for Camera Measurement of Physiological Signals",
+        "author_names": "Daniel McDuff, Miah Wander, Xin Liu, Brian Hill, Javier Hernandez, Jonathan Lester, Tadas Baltrusaitis"
+    },
+    {
+        "paper_title": "K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions",
+        "author_names": "Dong-Hee Paek, SEUNG-HYUN KONG, Kevin Tirta Wijaya"
+    },
+    {
+        "paper_title": "Flare7K: A Phenomenological Nighttime Flare Removal Dataset",
+        "author_names": "Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Chen Change Loy"
+    },
+    {
+        "paper_title": "USB: A Unified Semi-supervised Learning Benchmark for Classification",
+        "author_names": "Yidong Wang, Hao Chen, Yue Fan, Wang SUN, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang"
+    },
+    {
+        "paper_title": "Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world",
+        "author_names": "Eugene Vinitsky, Nathan Lichtl\u00e9, Xiaomeng Yang, Brandon Amos, Jakob Foerster"
+    },
+    {
+        "paper_title": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+        "author_names": "Bonifaz Stuhr, Johann Haselberger, Julian Gebele"
+    },
+    {
+        "paper_title": "A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks",
+        "author_names": "Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, Maosong Sun"
+    },
+    {
+        "paper_title": "Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning",
+        "author_names": "Yuanpei Chen, Tianhao Wu, Shengjie Wang, Xidong Feng, Jiechuan Jiang, Zongqing Lu, Stephen McAleer, Hao Dong, Song-Chun Zhu, Yaodong Yang"
+    },
+    {
+        "paper_title": "MOMA-LRG: Language-Refined Graphs for Multi-Object Multi-Actor Activity Parsing",
+        "author_names": "Zelun Luo, Zane Durante, Linden Li, Wanze Xie, Ruochen Liu, Emily Jin, Zhuoyi Huang, Lun Yu Li, Jiajun Wu, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li"
+    },
+    {
+        "paper_title": "MTNeuro:  A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction",
+        "author_names": "Jorge Quesada, Lakshmi Sathidevi, Ran Liu, Nauman Ahad, Joy Jackson, Mehdi Azabou, Jingyun Xiao, Christopher Liding, Matthew Jin, Carolina Urzay, William Gray-Roncal, Erik Johnson, Eva Dyer"
+    },
+    {
+        "paper_title": "FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings",
+        "author_names": "Jean Ogier du Terrail, Samy-Safwan Ayed, Edwige Cyffers, Felix Grimberg, Chaoyang He, Regis Loeb, Paul Mangold, Tanguy Marchand, Othmane Marfoq, Erum Mushtaq, Boris Muzellec, Constantin Philippenko, Santiago Silva, Maria Tele\u0144czuk, Shadi Albarqouni, Salman Avestimehr, Aur\u00e9lien Bellet, Aymeric Dieuleveut, Martin Jaggi, Sai Praneeth Karimireddy, Marco Lorenzi, Giovanni Neglia, Marc Tommasi, Mathieu Andreux"
+    },
+    {
+        "paper_title": "A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking",
+        "author_names": "Keyu Duan, Zirui Liu, Peihao Wang, Wenqing Zheng, Kaixiong Zhou, Tianlong Chen, Xia Hu, Zhangyang Wang"
+    },
+    {
+        "paper_title": "Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs",
+        "author_names": "Seiji Maekawa, Koki Noda, Yuya Sasaki, makoto onizuka"
+    },
+    {
+        "paper_title": "OpenFWI: Large-scale Multi-structural Benchmark Datasets for Full Waveform Inversion",
+        "author_names": "Chengyuan Deng, Shihang Feng, Hanchen Wang, Xitong Zhang, Peng Jin, Yinan Feng, Qili Zeng, Yinpeng Chen, Youzuo Lin"
+    },
+    {
+        "paper_title": "M4Singer: A Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus",
+        "author_names": "Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao"
+    },
+    {
+        "paper_title": "CLEVRER-Humans: Describing Physical and Causal Events the Human Way",
+        "author_names": "Jiayuan Mao, Xuelin Yang, Xikun Zhang, Noah Goodman, Jiajun Wu"
+    },
+    {
+        "paper_title": "Touch and Go: Learning from Human-Collected Vision and Touch",
+        "author_names": "Fengyu Yang, Chenyang Ma, Jiacheng Zhang, Jing Zhu, Wenzhen Yuan, Andrew Owens"
+    },
+    {
+        "paper_title": "SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning",
+        "author_names": "Changan Chen, Carl Schissler, Sanchit Garg, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip Robinson, Kristen Grauman"
+    },
+    {
+        "paper_title": "AutoWS-Bench-101: Benchmarking Automated Weak Supervision with 100 Labels",
+        "author_names": "Nicholas Roberts, Xintong Li, Tzu-Heng Huang, Dyah Adila, Spencer Schoenberg, Cheng-Yu Liu, Lauren Pick, Haotian Ma, Aws Albarghouthi, Frederic Sala"
+    },
+    {
+        "paper_title": "OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics",
+        "author_names": "Mohit Prabhushankar, Kiran Kokilepersaud, Yash-yee Logan, Stephanie Trejo Corona, Ghassan AlRegib, Charles Wykoff"
+    },
+    {
+        "paper_title": "ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models",
+        "author_names": "Chunyuan Li, Haotian Liu, Liunian Li, Pengchuan Zhang, Jyoti Aneja, Jianwei Yang, Ping Jin, Houdong Hu, Zicheng Liu, Yong Jae Lee, Jianfeng Gao"
+    },
+    {
+        "paper_title": "pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning",
+        "author_names": "Daoyuan Chen, Dawei Gao, Weirui Kuang, Yaliang Li, Bolin Ding"
+    },
+    {
+        "paper_title": "Hard ImageNet: Segmentations for Objects with Strong Spurious Cues",
+        "author_names": "Mazda Moayeri, Sahil Singla, Soheil Feizi"
+    },
+    {
+        "paper_title": "Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time",
+        "author_names": "Huaxiu Yao, Caroline Choi, Bochuan Cao, Yoonho Lee, Pang Wei W. Koh, Chelsea Finn"
+    },
+    {
+        "paper_title": "BackdoorBench: A Comprehensive Benchmark of Backdoor Learning",
+        "author_names": "Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen"
+    },
+    {
+        "paper_title": "Learning Long-Term Crop Management Strategies with CyclesGym",
+        "author_names": "Matteo Turchetta, Luca Corinzia, Scott Sussex, Amanda Burton, Juan Herrera, Ioannis Athanasiadis, Joachim M Buhmann, Andreas Krause"
+    },
+    {
+        "paper_title": "Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems",
+        "author_names": "Guanghu Yuan, Fajie Yuan, Yudong Li, Beibei Kong, Shujie Li, Lei Chen, Min Yang, Chenyun YU, Bo Hu, Zang Li, Yu Xu, Xiaohu Qie"
+    },
+    {
+        "paper_title": "Evaluating Out-of-Distribution Performance on Document Image Classifiers",
+        "author_names": "Stefan Larson, Yi Yang Gordon Lim, Yutong Ai, David Kuang, Kevin Leach"
+    },
+    {
+        "paper_title": "Honor of Kings Arena: an Environment for Generalization in Competitive Reinforcement Learning",
+        "author_names": "Hua Wei, Jingxiao Chen, Xiyang Ji, Hongyang Qin, Minwen Deng, Siqin Li, Liang Wang, Weinan Zhang, Yong Yu, Liu Linc, Lanxiao Huang, Deheng Ye, Qiang Fu, Wei Yang"
+    },
+    {
+        "paper_title": "ViSioNS: Visual Search in Natural Scenes Benchmark",
+        "author_names": "Ferm\u00edn Travi, Gonzalo Ruarte, Gaston Bujia, Juan Esteban Kamienkowski"
+    },
+    {
+        "paper_title": "HandMeThat: Human-Robot Communication in Physical and Social Environments",
+        "author_names": "Yanming Wan, Jiayuan Mao, Josh Tenenbaum"
+    },
+    {
+        "paper_title": "Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability",
+        "author_names": "Jonathan Crabb\u00e9, Alicia Curth, Ioana Bica, Mihaela van der Schaar"
+    },
+    {
+        "paper_title": "NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks",
+        "author_names": "Renbo Tu, Nicholas Roberts, Misha Khodak, Junhong Shen, Frederic Sala, Ameet Talwalkar"
+    },
+    {
+        "paper_title": "OpenFilter: A Framework to Democratize Research Access to Social Media AR Filters",
+        "author_names": "Piera Riccio, Bill Psomas, Francesco Galati, Francisco Escolano, Thomas Hofmann, Nuria Oliver"
+    },
+    {
+        "paper_title": "Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds",
+        "author_names": "Joshua Albrecht, Abraham Fetterman, Bryden Fogelman, Ellie Kitanidis, Bartosz Wr\u00f3blewski, Nicole Seo, Michael Rosenthal, Maksis Knutins, Zack Polizzi, James Simon, Kanjun Qiu"
+    },
+    {
+        "paper_title": "The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World",
+        "author_names": "William Gaviria Rojas, Sudnya Diamos, Keertan Kini, David Kanter, Vijay Janapa Reddi, Cody Coleman"
+    },
+    {
+        "paper_title": "CGLB: Benchmark Tasks for Continual Graph Learning",
+        "author_names": "Xikun Zhang, Dongjin Song, Dacheng Tao"
+    },
+    {
+        "paper_title": "Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities",
+        "author_names": "Zejiang Shen, Kyle Lo, Lauren Yu, Nathan Dahlberg, Margo Schlanger, Doug Downey"
+    },
+    {
+        "paper_title": "TAP-Vid: A Benchmark for Tracking Any Point in a Video",
+        "author_names": "Carl Doersch, Ankush Gupta, Larisa Markeeva, Adria Recasens, Lucas Smaira, Yusuf Aytar, Joao Carreira, Andrew Zisserman, Yi Yang"
+    },
+    {
+        "paper_title": "EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations",
+        "author_names": "Ahmad Darkhalil, Dandan Shan, Bin Zhu, Jian Ma, Amlan Kar, Richard Higgins, Sanja Fidler, David Fouhey, Dima Damen"
+    },
+    {
+        "paper_title": "ActionSense: A Multimodal Dataset and Recording Framework for Human Activities Using Wearable Sensors in a Kitchen Environment",
+        "author_names": "Joseph DelPreto, Chao Liu, Yiyue Luo, Michael Foshey, Yunzhu Li, Antonio Torralba, Wojciech Matusik, Daniela Rus"
+    },
+    {
+        "paper_title": "Video compression dataset and benchmark of learning-based video-quality metrics",
+        "author_names": "Anastasia Antsiferova, Sergey Lavrushkin, Maksim Smirnov, Aleksandr Gushchin, Dmitriy Vatolin, Dmitriy Kulikov"
+    },
+    {
+        "paper_title": "Kantorovich Strikes Back! Wasserstein GANs are not Optimal Transport?",
+        "author_names": "Alexander Korotin, Alexander Kolesov, Evgeny Burnaev"
+    },
+    {
+        "paper_title": "GriddlyJS: A Web IDE for Reinforcement Learning",
+        "author_names": "Christopher Bamford, Minqi Jiang, Mikayel Samvelyan, Tim Rockt\u00e4schel"
+    },
+    {
+        "paper_title": "VeriDark: A Large-Scale Benchmark for Authorship Verification on the Dark Web",
+        "author_names": "Andrei Manolache, Florin Brad, Antonio Barbalau, Radu Tudor Ionescu, Marius Popescu"
+    },
+    {
+        "paper_title": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+        "author_names": "Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jong-Yeup Kim, Edward Choi"
+    },
+    {
+        "paper_title": "OpenXAI: Towards a Transparent Evaluation of Model Explanations",
+        "author_names": "Chirag Agarwal, Satyapriya Krishna, Eshika Saxena, Martin Pawelczyk, Nari Johnson, Isha Puri, Marinka Zitnik, Himabindu Lakkaraju"
+    },
+    {
+        "paper_title": "TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training",
+        "author_names": "Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, Haoran Chen, GuanHui Qiao, Ru Peng, Lingxiang Wu, Jinqiao Wang"
+    },
+    {
+        "paper_title": "APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking",
+        "author_names": "Yuxiang Yang, Junjie Yang, Yufei Xu, Jing Zhang, Long Lan, Dacheng Tao"
+    },
+    {
+        "paper_title": "FACT: Learning Governing Abstractions Behind Integer Sequences",
+        "author_names": "Peter Belcak, Ard Kastrati, Flavio Schenker, Roger Wattenhofer"
+    },
+    {
+        "paper_title": "SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained debugging and analysis",
+        "author_names": "Roxana Daneshjou, Mert Yuksekgonul, Zhuo Ran Cai, Roberto Novoa, James Y. Zou"
+    },
+    {
+        "paper_title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+        "author_names": "Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar"
+    },
+    {
+        "paper_title": "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models",
+        "author_names": "Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo"
+    },
+    {
+        "paper_title": "How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios",
+        "author_names": "Mantas Mazeika, Eric Tang, Andy Zou, Steven Basart, Jun Shern Chan, Dawn Song, David Forsyth, Jacob Steinhardt, Dan Hendrycks"
+    },
+    {
+        "paper_title": "AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies",
+        "author_names": "Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy"
+    },
+    {
+        "paper_title": "ETAB: A Benchmark Suite for Visual Representation Learning in Echocardiography",
+        "author_names": "Ahmed M. Alaa, Anthony Philippakis, David Sontag"
+    },
+    {
+        "paper_title": "MVP-N: A Dataset and Benchmark for Real-World Multi-View Object Classification",
+        "author_names": "REN WANG, Jiayue Wang, Tae Sung Kim, JINSUNG KIM, Hyuk-Jae Lee"
+    },
+    {
+        "paper_title": "CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets",
+        "author_names": "Md Mofijul Islam, Reza Mirzaiee, Alexi Gladstone, Haley Green, Tariq Iqbal"
+    },
+    {
+        "paper_title": "3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds",
+        "author_names": "Antonio Alliegro, Francesco Cappio Borlino, Tatiana Tommasi"
+    },
+    {
+        "paper_title": "Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization",
+        "author_names": "Wenhao Gao, Tianfan Fu, Jimeng Sun, Connor Coley"
+    },
+    {
+        "paper_title": "Pythae: Unifying Generative Autoencoders in Python - A Benchmarking Use Case",
+        "author_names": "Cl\u00e9ment Chadebec, Louis Vincent, Stephanie Allassonniere"
+    },
+    {
+        "paper_title": "This is the way: designing and compiling LEPISZCZE, a comprehensive NLP benchmark for Polish",
+        "author_names": "Lukasz Augustyniak, Kamil Tagowski, Albert Sawczyn, Denis Janiak, Roman Bartusiak, Adrian Szymczak, Arkadiusz Janz, Piotr Szyma\u0144ski, Marcin W\u0105troba, Miko\u0142aj Morzy, Tomasz Kajdanowicz, Maciej Piasecki"
+    },
+    {
+        "paper_title": "METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets",
+        "author_names": "Peilin Zhou, Zeqiang Wang, Dading Chong, Zhijiang Guo, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang"
+    },
+    {
+        "paper_title": "ENS-10: A Dataset For Post-Processing Ensemble Weather Forecasts",
+        "author_names": "Saleh Ashkboos, Langwen Huang, Nikoli Dryden, Tal Ben-Nun, Peter Dueben, Lukas Gianinazzi, Luca Kummer, Torsten Hoefler"
+    },
+    {
+        "paper_title": "Finding Naturally Occurring Physical Backdoors in Image Datasets",
+        "author_names": "Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Heather Zheng, Ben Zhao"
+    },
+    {
+        "paper_title": "Long Range Graph Benchmark",
+        "author_names": "Vijay Prakash Dwivedi, Ladislav Ramp\u00e1\u0161ek, Michael Galkin, Ali Parviz, Guy Wolf, Anh Tuan Luu, Dominique Beaini"
+    },
+    {
+        "paper_title": "EnvPool: A Highly Parallel Reinforcement Learning Environment Execution Engine",
+        "author_names": "Jiayi Weng, Min Lin, Shengyi Huang, Bo Liu, Denys Makoviichuk, Viktor Makoviychuk, Zichen Liu, Yufan Song, Ting Luo, Yukun Jiang, Zhongwen Xu, Shuicheng Yan"
+    },
+    {
+        "paper_title": "Ontologue: Declarative Benchmark Construction for Ontological Multi-Label Classification",
+        "author_names": "Sean Yang, Bernease Herman, Bill Howe"
+    },
+    {
+        "paper_title": "How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?",
+        "author_names": "Chengxu Zhuang, Ziyu Xiang, Yoon Bai, Xiaoxuan Jia, Nicholas Turk-Browne, Kenneth Norman, James J DiCarlo, Dan Yamins"
+    },
+    {
+        "paper_title": "DGraph: A Large-Scale Financial Dataset for Graph Anomaly Detection",
+        "author_names": "Xuanwen Huang, Yang Yang, Yang Wang, Chunping Wang, Zhisheng Zhang, Jiarong Xu, Lei Chen, Michalis Vazirgiannis"
+    },
+    {
+        "paper_title": "A Dataset for Efforts Towards Achieving the Sustainable Development Goal of Safe Working Environments",
+        "author_names": "Eirik Lund Flogard, Ole Jakob Mengshoel"
+    },
+    {
+        "paper_title": "AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier\u2013Stokes Solutions",
+        "author_names": "Florent Bonnet, Jocelyn Mazari, Paola Cinnella, Patrick Gallinari"
+    },
+    {
+        "paper_title": "ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild",
+        "author_names": "Chirag Raman, Jose Vargas Quiros, Stephanie Tan, Ashraful Islam, Ekin Gedik, Hayley Hung"
+    },
+    {
+        "paper_title": "SurDis: A Surface Discontinuity Dataset for Wearable Technology to Assist Blind Navigation in Urban Environments",
+        "author_names": "Kuan Yew Leong, Siew Mooi Lim"
+    },
+    {
+        "paper_title": "HAPI: A Large-scale Longitudinal Dataset of Commercial ML API Predictions",
+        "author_names": "Lingjiao Chen, Zhihua Jin, Evan Sabri Eyuboglu, Christopher R\u00e9, Matei Zaharia, James Y. Zou"
+    },
+    {
+        "paper_title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games",
+        "author_names": "Chao Yu, Akash Velu, Eugene Vinitsky, Jiaxuan Gao, Yu Wang, Alexandre Bayen, YI WU"
+    },
+    {
+        "paper_title": "GLOBEM Dataset: Multi-Year Datasets for Longitudinal Human Behavior Modeling Generalization",
+        "author_names": "Xuhai Xu, Han Zhang, Yasaman Sefidgar, Yiyi Ren, Xin Liu, Woosuk Seo, Jennifer Brown, Kevin Kuehn, Mike Merrill, Paula Nurius, Shwetak Patel, Tim Althoff, Margaret Morris, Eve Riskin, Jennifer Mankoff, Anind Dey"
+    },
+    {
+        "paper_title": "Characteristics of Harmful Text: Towards Rigorous Benchmarking of Language Models",
+        "author_names": "Maribeth Rauh, John Mellor, Jonathan Uesato, Po-Sen Huang, Johannes Welbl, Laura Weidinger, Sumanth Dathathri, Amelia Glaese, Geoffrey Irving, Iason Gabriel, William Isaac, Lisa Anne Hendricks"
+    },
+    {
+        "paper_title": "NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning",
+        "author_names": "Rong-Jun Qin, Xingyuan Zhang, Songyi Gao, Xiong-Hui Chen, Zewen Li, Weinan Zhang, Yang Yu"
+    },
+    {
+        "paper_title": "Dungeons and Data: A Large-Scale NetHack Dataset",
+        "author_names": "Eric Hambro, Roberta Raileanu, Danielle Rothermel, Vegard Mella, Tim Rockt\u00e4schel, Heinrich K\u00fcttler, Naila Murray"
+    },
+    {
+        "paper_title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+        "author_names": "Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, Patrick Schramowski, Srivatsa Kundurthy, Katherine Crowson, Ludwig Schmidt, Robert Kaczmarczyk, Jenia Jitsev"
+    },
+    {
+        "paper_title": "SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles",
+        "author_names": "Chejian Xu, Wenhao Ding, Weijie Lyu, ZUXIN LIU, Shuai Wang, Yihan He, Hanjiang Hu, DING ZHAO, Bo Li"
+    },
+    {
+        "paper_title": "BigBio: A Framework for Data-Centric Biomedical Natural Language Processing",
+        "author_names": "Jason Fries, Leon Weber, Natasha Seelam, Gabriel Altay, Debajyoti Datta, Samuele Garda, Sunny Kang, Rosaline Su, Wojciech Kusa, Samuel Cahyawijaya, Fabio Barth, Simon Ott, Matthias Samwald, Stephen Bach, Stella Biderman, Mario S\u00e4nger, Bo Wang, Alison Callahan, Daniel Le\u00f3n Peri\u00f1\u00e1n, Th\u00e9o Gigant, Patrick Haller, Jenny Chim, Jose Posada, John Giorgi, Karthik Rangasai Sivaraman, Marc P\u00e0mies, Marianna Nezhurina, Robert Martin, Michael Cullan, Moritz Freidank, Nathan Dahlberg, Shubhanshu Mishra, Shamik Bose, Nicholas Broad, Yanis Labrak, Shlok Deshmukh, Sid Kiblawi, Ayush Singh, Minh Chien Vu, Trishala Neeraj, Jonas Golde, Albert Villanova del Moral, Benjamin Beilharz"
+    },
+    {
+        "paper_title": "Open High-Resolution Satellite Imagery: The WorldStrat Dataset \u2013 With Application to Super-Resolution",
+        "author_names": "Julien Cornebise, Ivan Or\u0161oli\u0107, Freddie Kalaitzis"
+    },
+    {
+        "paper_title": "Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms",
+        "author_names": "Hui En Pang, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu"
+    },
+    {
+        "paper_title": "PeRFception: Perception using Radiance Fields",
+        "author_names": "Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Chris Choy, Anima Anandkumar, Minsu Cho, Jaesik Park"
+    },
+    {
+        "paper_title": "Multilingual Abusive Comment Detection at Scale for Indic Languages",
+        "author_names": "Vikram Gupta, Sumegh Roychowdhury, Mithun Das, Somnath Banerjee, Punyajoy Saha, Binny Mathew, hastagiri prakash vanchinathan, Animesh Mukherjee"
+    },
+    {
+        "paper_title": "Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark",
+        "author_names": "Jiaxi Gu, Xiaojun Meng, Guansong Lu, Lu Hou, Niu Minzhe, Xiaodan Liang, Lewei Yao, Runhui Huang, Wei Zhang, Xin Jiang, Chunjing XU, Hang Xu"
+    },
+    {
+        "paper_title": "WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models",
+        "author_names": "Yonatan Bitton, Nitzan Bitton Guetta, Ron Yosef, Yuval Elovici, Mohit Bansal, Gabriel Stanovsky, Roy Schwartz"
+    },
+    {
+        "paper_title": "SMPL: Simulated Industrial Manufacturing and Process Control Learning Environments",
+        "author_names": "Mohan Zhang, Xiaozhou Wang, Benjamin Decardi-Nelson, Bo Song, An Zhang, Jinfeng Liu, Sile Tao, Jiayi Cheng, Xiaohong Liu, Dengdeng Yu, Matthew Poon, Animesh Garg"
+    },
+    {
+        "paper_title": "PulseImpute: A Novel Benchmark Task for Pulsative Physiological Signal Imputation",
+        "author_names": "Maxwell Xu, Alexander Moreno, Supriya Nagesh, Varol Aydemir, David Wetter, Santosh Kumar, James M. Rehg"
+    },
+    {
+        "paper_title": "BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs",
+        "author_names": "Kay Liu, Yingtong Dou, Yue Zhao, Xueying Ding, Xiyang Hu, Ruitong Zhang, Kaize Ding, Canyu Chen, Hao Peng, Kai Shu, Lichao Sun, Jundong Li, George H Chen, Zhihao Jia, Philip S Yu"
+    },
+    {
+        "paper_title": "CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition",
+        "author_names": "Rodrigo Hormazabal, Changyoung Park, Soonyoung Lee, Sehui Han, Yeonsik Jo, Jaewan Lee, Ahra Jo, Seung Hwan Kim, Jaegul Choo, Moontae Lee, Honglak Lee"
+    },
+    {
+        "paper_title": "Forecasting Future World Events With Neural Networks",
+        "author_names": "Andy Zou, Tristan Xiao, Ryan Jia, Joe Kwon, Mantas Mazeika, Richard Li, Dawn Song, Jacob Steinhardt, Owain Evans, Dan Hendrycks"
+    },
+    {
+        "paper_title": "mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors",
+        "author_names": "Sizhe An, Yin Li, Umit Ogras"
+    },
+    {
+        "paper_title": "Change Event Dataset for Discovery from Spatio-temporal Remote Sensing Imagery",
+        "author_names": "Utkarsh Mall, Bharath Hariharan, Kavita Bala"
+    },
+    {
+        "paper_title": "MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control",
+        "author_names": "Xuehai Pan, Mickel Liu, Fangwei Zhong, Yaodong Yang, Song-Chun Zhu, Yizhou Wang"
+    },
+    {
+        "paper_title": "A Survey and Datasheet Repository of Publicly Available US Criminal Justice Datasets",
+        "author_names": "Miri Zilka, Bradley Butcher, Adrian Weller"
+    },
+    {
+        "paper_title": "NAS-Bench-Suite-Zero: Accelerating Research on Zero Cost Proxies",
+        "author_names": "Arjun Krishnakumar, Colin White, Arber Zela, Renbo Tu, Mahmoud Safari, Frank Hutter"
+    },
+    {
+        "paper_title": "LIPS - Learning Industrial Physical Simulation benchmark suite",
+        "author_names": "Milad LEYLI ABADI, Antoine Marot, J\u00e9r\u00f4me Picault, David Danan, Mouadh Yagoubi, Benjamin Donnot, Seif Attoui, Pavel Dimitrov, Asma Farjallah, Clement Etienam"
+    },
+    {
+        "paper_title": "FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision",
+        "author_names": "Alix Leroy, Graham W. Taylor"
+    },
+    {
+        "paper_title": "IKEA-Manual: Seeing Shape Assembly Step by Step",
+        "author_names": "Ruocheng Wang, Yunzhi Zhang, Jiayuan Mao, Ran Zhang, Chin-Yi Cheng, Jiajun Wu"
+    },
+    {
+        "paper_title": "OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology",
+        "author_names": "Cheng Jiang, Asadur Chowdury, Xinhai Hou, Akhil Kondepudi, Christian Freudiger, Kyle Conway, Sandra Camelo-Piragua, Daniel Orringer, Honglak Lee, Todd Hollon"
+    },
+    {
+        "paper_title": "A Greek Parliament Proceedings Dataset for Computational Linguistics and Political Analysis",
+        "author_names": "Konstantina Dritsa, Aikaterini Thoma, Ioannis Pavlopoulos, Panos Louridas"
+    },
+    {
+        "paper_title": "Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset",
+        "author_names": "Peter Henderson, Mark Krass, Lucia Zheng, Neel Guha, Christopher D Manning, Dan Jurafsky, Daniel Ho"
+    },
+    {
+        "paper_title": "Active-Passive SimStereo - Benchmarking the Cross-Generalization Capabilities of Deep Learning-based Stereo Methods",
+        "author_names": "Laurent Jospin, Allen Antony, Lian Xu, Hamid Laga, Farid Boussaid, Mohammed Bennamoun"
+    },
+    {
+        "paper_title": "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks",
+        "author_names": "Tejas Srinivasan, Ting-Yun Chang, Leticia Pinto Alva, Georgios Chochlakis, Mohammad Rostami, Jesse Thomason"
+    },
+    {
+        "paper_title": "A Benchmark for Compositional Visual Reasoning",
+        "author_names": "Aimen Zerroug, Mohit Vaishnav, Julien Colin, Sebastian Musslick, Thomas Serre"
+    },
+    {
+        "paper_title": "Myriad: a real-world testbed to bridge trajectory optimization and deep learning",
+        "author_names": "Nikolaus Howe, Simon Dufort-Labb\u00e9, Nitarshan Rajkumar, Pierre-Luc Bacon"
+    },
+    {
+        "paper_title": "FETA: Towards Specializing Foundational Models for Expert Task Applications",
+        "author_names": "Amit Alfassy, Assaf Arbelle, Oshri Halimi, Sivan Harary, Roei Herzig, Eli Schwartz, Rameswar Panda, Michele Dolfi, Christoph Auer, Peter Staar, Kate Saenko, Rogerio Feris, Leonid Karlinsky"
+    },
+    {
+        "paper_title": "BLOX: Macro Neural Architecture Search Benchmark and Algorithms",
+        "author_names": "Thomas Chau, \u0141ukasz Dudziak, Hongkai Wen, Nicholas Lane, Mohamed Abdelfattah"
+    },
+    {
+        "paper_title": "DDXPlus: A New Dataset For Automatic Medical Diagnosis",
+        "author_names": "Arsene Fansi Tchango, Rishab Goel, Zhi Wen, Julien Martel, Joumana Ghosn"
+    },
+    {
+        "paper_title": "TGEA 2.0: A Large-Scale Diagnostically Annotated Dataset with Benchmark Tasks for Text Generation of Pretrained Language Models",
+        "author_names": "Huibin Ge, Xiaohu Zhao, Chuang Liu, Yulong Zeng, Qun Liu, Deyi Xiong"
+    },
+    {
+        "paper_title": "The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset",
+        "author_names": "Hugo Lauren\u00e7on, Lucile Saulnier, Thomas Wang, Christopher Akiki, Albert Villanova del Moral, Teven Le Scao, Leandro Von Werra, Chenghao Mou, Eduardo Gonz\u00e1lez Ponferrada, Huu Nguyen, J\u00f6rg Frohberg, Mario \u0160a\u0161ko, Quentin Lhoest, Angelina McMillan-Major, Gerard Dupont, Stella Biderman, Anna Rogers, Loubna Ben allal, Francesco De Toni, Giada Pistilli, Olivier Nguyen, Somaieh Nikpoor, Maraim Masoud, Pierre Colombo, Javier de la Rosa, Paulo Villegas, Tristan Thrush, Shayne Longpre, Sebastian Nagel, Leon Weber, Manuel Mu\u00f1oz, Jian Zhu, Daniel Van Strien, Zaid Alyafeai, Khalid Almubarak, Minh Chien Vu, Itziar Gonzalez-Dios, Aitor Soroa, Kyle Lo, Manan Dey, Pedro Ortiz Suarez, Aaron Gokaslan, Shamik Bose, David Adelani, Long Phan, Hieu Tran, Ian Yu, Suhas Pai, Jenny Chim, Violette Lepercq, Suzana Ilic, Margaret Mitchell, Sasha Alexandra Luccioni, Yacine Jernite"
+    },
+    {
+        "paper_title": "ADBench: Anomaly Detection Benchmark",
+        "author_names": "Songqiao Han, Xiyang Hu, Hailiang Huang, Minqi Jiang, Yue Zhao"
+    },
+    {
+        "paper_title": "A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction",
+        "author_names": "Wonseok Hwang, Dongjun Lee, Kyoungyeon Cho, Hanuhl Lee, Minjoon Seo"
+    },
+    {
+        "paper_title": "OpenOOD: Benchmarking Generalized Out-of-Distribution Detection",
+        "author_names": "Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, WENXUAN PENG, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, Ziwei Liu"
+    },
+    {
+        "paper_title": "AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection",
+        "author_names": "Marius Dragoi, Elena Burceanu, Emanuela Haller, Andrei Manolache, Florin Brad"
+    },
+    {
+        "paper_title": "PROSPECT: Labeled Tandem Mass Spectrometry Dataset for Machine Learning in Proteomics",
+        "author_names": "Omar Shouman, Wassim Gabriel, Victor-George Giurcoiu, Vitor Sternlicht, Mathias Wilhelm"
+    },
+    {
+        "paper_title": "Towards Better Evaluation for Dynamic Link Prediction",
+        "author_names": "Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Reihaneh Rabbany"
+    },
+    {
+        "paper_title": "Is one annotation enough? -  A data-centric image classification benchmark for noisy and ambiguous label estimation",
+        "author_names": "Lars Schmarje, Vasco Grossmann, Claudius Zelenka, Sabine Dippel, Rainer Kiko, Mariusz Oszust, Matti Pastell, Jenny Stracke, Anna Valros, Nina Volkmann, Reinhard Koch"
+    },
+    {
+        "paper_title": "Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation",
+        "author_names": "S\u00e9rgio Jesus, Jos\u00e9 Pombal, Duarte Alves, Andr\u00e9 Cruz, Pedro Saleiro, Rita Ribeiro, Jo\u00e3o Gama, Pedro Bizarro"
+    },
+    {
+        "paper_title": "Understanding Aesthetics with Language: A Photo Critique Dataset for Aesthetic Assessment",
+        "author_names": "Daniel Vera Nieto, Luigi Celona, Clara Fernandez Labrador"
+    },
+    {
+        "paper_title": "Robustness Analysis of Video-Language Models Against Visual and Language Perturbations",
+        "author_names": "Madeline Schiappa, Shruti Vyas, Hamid Palangi, Yogesh Rawat, Vibhav Vineet"
+    },
+    {
+        "paper_title": "Chartalist: Labeled Graph Datasets for UTXO and Account-based Blockchains",
+        "author_names": "Kiarash Shamsi, Friedhelm Victor, Murat Kantarcioglu, Yulia Gel, Cuneyt G Akcora"
+    },
+    {
+        "paper_title": "PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding",
+        "author_names": "Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Ma Chang, Runcheng Liu, Jian Tang"
+    },
+    {
+        "paper_title": "TwiBot-22: Towards Graph-Based Twitter Bot Detection",
+        "author_names": "Shangbin Feng, Zhaoxuan Tan, Herun Wan, Ningnan Wang, Zilong Chen, Binchi Zhang, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo"
+    },
+    {
+        "paper_title": "MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control",
+        "author_names": "Nolan Wagener, Andrey Kolobov, Felipe Vieira Frujeri, Ricky Loynd, Ching-An Cheng, Matthew Hausknecht"
+    },
+    {
+        "paper_title": "Towards Video Text Visual Question Answering: Benchmark and Baseline",
+        "author_names": "Minyi Zhao, Bingjia Li, Jie Wang, Wanqing Li, Wenjing Zhou, Lan Zhang, Shijie Xuyang, Zhihang Yu, Xinkun Yu, Guangze Li, Aobotao Dai, Shuigeng Zhou"
+    },
+    {
+        "paper_title": "How Transferable are Video Representations Based on Synthetic Data?",
+        "author_names": "Yo-whan Kim, Samarth Mishra, SouYoung Jin, Rameswar Panda, Hilde Kuehne, Leonid Karlinsky, Venkatesh Saligrama, Kate Saenko, Aude Oliva, Rogerio Feris"
+    },
+    {
+        "paper_title": "Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets",
+        "author_names": "Gokul NC, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh Khapra"
+    },
+    {
+        "paper_title": "MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification",
+        "author_names": "Peirong Zhang, Jiajia Jiang, Yuliang Liu, Lianwen Jin"
+    },
+    {
+        "paper_title": "AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation",
+        "author_names": "Yuanfeng Ji, Haotian Bai, Chongjian GE, Jie Yang, Ye Zhu, Ruimao Zhang, Zhen Li, Lingyan Zhanng, Wanling Ma, Xiang Wan, Ping Luo"
+    },
+    {
+        "paper_title": "DART: Articulated Hand Model with Diverse Accessories and Rich Textures",
+        "author_names": "Daiheng Gao, Yuliang Xiu, Kailin Li, Lixin Yang, Feng Wang, Peng Zhang, Bang Zhang, Cewu Lu, Ping Tan"
+    },
+    {
+        "paper_title": "xView3-SAR: Detecting Dark Fishing Activity Using Synthetic Aperture Radar Imagery",
+        "author_names": "Fernando Paolo, Tsu-ting Tim Lin, Ritwik Gupta, Bryce Goodman, Nirav Patel, Daniel Kuster, David Kroodsma, Jared Dunnmon"
+    },
+    {
+        "paper_title": "FLAIR: Federated Learning Annotated Image Repository",
+        "author_names": "Congzheng Song, Filip Granqvist, Kunal Talwar"
+    },
+    {
+        "paper_title": "A new dataset for multilingual keyphrase generation",
+        "author_names": "Fr\u00e9d\u00e9ric Piedboeuf, Philippe Langlais"
+    },
+    {
+        "paper_title": "Model Zoos: A Dataset of Diverse Populations of Neural Network Models",
+        "author_names": "Konstantin Sch\u00fcrholt, Diyar Taskiran, Boris Knyazev, Xavier Gir\u00f3-i-Nieto, Damian Borth"
+    },
+    {
+        "paper_title": "Robustness Disparities in Face Detection",
+        "author_names": "Samuel Dooley, George Z Wei, Tom Goldstein, John Dickerson"
+    },
+    {
+        "paper_title": "DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision",
+        "author_names": "Alex Tamkin, Gaurab Banerjee, Mohamed Owda, Vincent Liu, Shashank Rammoorthy, Noah Goodman"
+    },
+    {
+        "paper_title": "JAHS-Bench-201: A Foundation For Research On Joint Architecture And Hyperparameter Search",
+        "author_names": "Archit Bansal, Danny Stoll, Maciej Janowski, Arber Zela, Frank Hutter"
+    },
+    {
+        "paper_title": "Breaking Bad: A Dataset for Geometric Fracture and Reassembly",
+        "author_names": "Silvia Sell\u00e1n, Yun-Chun Chen, Ziyi Wu, Animesh Garg, Alec Jacobson"
+    },
+    {
+        "paper_title": "Geoclidean: Few-Shot Generalization in Euclidean Geometry",
+        "author_names": "Joy Hsu, Jiajun Wu, Noah Goodman"
+    },
+    {
+        "paper_title": "Enabling Detailed Action Recognition Evaluation Through Video Dataset Augmentation",
+        "author_names": "Jihoon Chung, Yu Wu, Olga Russakovsky"
+    },
+    {
+        "paper_title": "ComMU: Dataset for Combinatorial Music Generation",
+        "author_names": "Hyun Lee, Taehyun Kim, Hyolim Kang, Minjoo Ki, Hyeonchan Hwang, kwanho park, Sharang Han, Seon Joo Kim"
+    }
+]
