@@ -10,6 +10,7 @@ These scrapers are originally written for `STMETHD` class of De La Salle Univers
 3. [ICML '22](https://proceedings.mlr.press/v162/): scrapes all paper titles and authors from the main conference.
 4. [NeurIPS '22 Main Conference](https://papers.nips.cc/paper_files/paper/2022): scrapes all paper titles and authors from the main conference.
 5. [NeurIPS '22 Datasets and Benchmarks Track](https://papers.nips.cc/paper_files/paper/2022): scrapes all paper titles and authors from the datasets and benchmarks track.
+6. [ICLR '22](https://openreview.net/group?id=ICLR.cc/2022/Conference): scrapes all paper titles an authors from the main conference.
 
 ## Usage
 Use `pipenv install` to install requirements.

@@ -1,0 +1,222 @@
+[
+    {
+        "paper_title": "Domino: Discovering Systematic Errors with Cross-Modal Embeddings",
+        "author_names": "Sabri Eyuboglu, Maya Varma, Khaled Kamal Saab, Jean-Benoit Delbrouck, Christopher Lee-Messer, Jared Dunnmon, James Zou, Christopher Re"
+    },
+    {
+        "paper_title": "Natural Language Descriptions of Deep Visual Features",
+        "author_names": "Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio Torralba, Jacob Andreas"
+    },
+    {
+        "paper_title": "Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization",
+        "author_names": "Lixu Wang, Shichao Xu, Ruiqi Xu, Xiao Wang, Qi Zhu"
+    },
+    {
+        "paper_title": "Neural Structured Prediction for Inductive Node Classification",
+        "author_names": "Meng Qu, Huiyu Cai, Jian Tang"
+    },
+    {
+        "paper_title": "A New Perspective on \"How Graph Neural Networks Go Beyond Weisfeiler-Lehman?\"",
+        "author_names": "Asiri Wijesinghe, Qing Wang"
+    },
+    {
+        "paper_title": "Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond",
+        "author_names": "Chulhee Yun, Shashank Rajput, Suvrit Sra"
+    },
+    {
+        "paper_title": "The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions",
+        "author_names": "Yifei Wang, Jonathan Lacotte, Mert Pilanci"
+    },
+    {
+        "paper_title": "Provably Filtering Exogenous Distractors using Multistep Inverse Dynamics",
+        "author_names": "Yonathan Efroni, Dipendra Misra, Akshay Krishnamurthy, Alekh Agarwal, John Langford"
+    },
+    {
+        "paper_title": "Bootstrapped Meta-Learning",
+        "author_names": "Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh"
+    },
+    {
+        "paper_title": "Coordination Among Neural Modules Through a Shared Global Workspace",
+        "author_names": "Anirudh Goyal, Aniket Rajiv Didolkar, Alex Lamb, Kartikeya Badola, Nan Rosemary Ke, Nasim Rahaman, Jonathan Binas, Charles Blundell, Michael Curtis Mozer, Yoshua Bengio"
+    },
+    {
+        "paper_title": "Data-Efficient Graph Grammar Learning for Molecular Generation",
+        "author_names": "Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik"
+    },
+    {
+        "paper_title": "Poisoning and Backdooring Contrastive Learning",
+        "author_names": "Nicholas Carlini, Andreas Terzis"
+    },
+    {
+        "paper_title": "Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path",
+        "author_names": "X.Y. Han, Vardan Papyan, David L. Donoho"
+    },
+    {
+        "paper_title": "Weighted Training for Cross-Task Learning",
+        "author_names": "Shuxiao Chen, Koby Crammer, Hangfeng He, Dan Roth, Weijie J Su"
+    },
+    {
+        "paper_title": "iLQR-VAE : control-based learning of input-driven dynamics with applications to neural data",
+        "author_names": "Marine Schimel, Ta-Chu Kao, Kristopher T Jensen, Guillaume Hennequin"
+    },
+    {
+        "paper_title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+        "author_names": "Shiori Sagawa, Pang Wei Koh, Tony Lee, Irena Gao, Sang Michael Xie, Kendrick Shen, Ananya Kumar, Weihua Hu, Michihiro Yasunaga, Henrik Marklund, Sara Beery, Etienne David, Ian Stavness, Wei Guo, Jure Leskovec, Kate Saenko, Tatsunori Hashimoto, Sergey Levine, Chelsea Finn, Percy Liang"
+    },
+    {
+        "paper_title": "Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks",
+        "author_names": "S Chandra Mouli, Bruno Ribeiro"
+    },
+    {
+        "paper_title": "Comparing Distributions by Measuring Differences that Affect Decision Making",
+        "author_names": "Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon"
+    },
+    {
+        "paper_title": "MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling",
+        "author_names": "Yusong Wu, Ethan Manilow, Yi Deng, Rigel Swavely, Kyle Kastner, Tim Cooijmans, Aaron Courville, Cheng-Zhi Anna Huang, Jesse Engel"
+    },
+    {
+        "paper_title": "Unsupervised Vision-Language Grammar Induction with Shared Structure Modeling",
+        "author_names": "Bo Wan, Wenjuan Han, Zilong Zheng, Tinne Tuytelaars"
+    },
+    {
+        "paper_title": "PiCO: Contrastive Label Disambiguation for Partial Label Learning",
+        "author_names": "Haobo Wang, Ruixuan Xiao, Yixuan Li, Lei Feng, Gang Niu, Gang Chen, Junbo Zhao"
+    },
+    {
+        "paper_title": "Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting",
+        "author_names": "Shizhan Liu, Hang Yu, Cong Liao, Jianguo Li, Weiyao Lin, Alex X. Liu, Schahram Dustdar"
+    },
+    {
+        "paper_title": "Expressiveness and Approximation Properties of Graph Neural Networks",
+        "author_names": "Floris Geerts, Juan L Reutter"
+    },
+    {
+        "paper_title": "Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space",
+        "author_names": "Steeven JANNY, Fabien Baradel, Natalia Neverova, Madiha Nadri, Greg Mori, Christian Wolf"
+    },
+    {
+        "paper_title": "BEiT: BERT Pre-Training of Image Transformers",
+        "author_names": "Hangbo Bao, Li Dong, Songhao Piao, Furu Wei"
+    },
+    {
+        "paper_title": "Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution",
+        "author_names": "Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang"
+    },
+    {
+        "paper_title": "StyleAlign: Analysis and Applications of Aligned StyleGAN Models",
+        "author_names": "Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski"
+    },
+    {
+        "paper_title": "Variational Inference for Discriminative Learning with Generative Modeling of Feature Incompletion",
+        "author_names": "Kohei Miyaguchi, Takayuki Katsuki, Akira Koseki, Toshiya Iwamori"
+    },
+    {
+        "paper_title": "Efficiently Modeling Long Sequences with Structured State Spaces",
+        "author_names": "Albert Gu, Karan Goel, Christopher Re"
+    },
+    {
+        "paper_title": "Large Language Models Can Be Strong Differentially Private Learners",
+        "author_names": "Xuechen Li, Florian Tramer, Percy Liang, Tatsunori Hashimoto"
+    },
+    {
+        "paper_title": "GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation",
+        "author_names": "Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang"
+    },
+    {
+        "paper_title": "Frame Averaging for Invariant and Equivariant Network Design",
+        "author_names": "Omri Puny, Matan Atzmon, Edward J. Smith, Ishan Misra, Aditya Grover, Heli Ben-Hamu, Yaron Lipman"
+    },
+    {
+        "paper_title": "Einops: Clear and Reliable Tensor Manipulations with Einstein-like Notation",
+        "author_names": "Alex Rogozhnikov"
+    },
+    {
+        "paper_title": "A Fine-Grained Analysis on Distribution Shift",
+        "author_names": "Olivia Wiles, Sven Gowal, Florian Stimberg, Sylvestre-Alvise Rebuffi, Ira Ktena, Krishnamurthy Dj Dvijotham, Ali Taylan Cemgil"
+    },
+    {
+        "paper_title": "Open-Set Recognition: A Good Closed-Set Classifier is All You Need",
+        "author_names": "Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman"
+    },
+    {
+        "paper_title": "Learning Strides in Convolutional Neural Networks",
+        "author_names": "Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour"
+    },
+    {
+        "paper_title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "author_names": "Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein"
+    },
+    {
+        "paper_title": "Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme",
+        "author_names": "Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Sergeevich Kudinov, Jiansheng Wei"
+    },
+    {
+        "paper_title": "Resolving Training Biases via Influence-based Data Relabeling",
+        "author_names": "Shuming Kong, Yanyan Shen, Linpeng Huang"
+    },
+    {
+        "paper_title": "Representational Continuity for Unsupervised Continual Learning",
+        "author_names": "Divyam Madaan, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang"
+    },
+    {
+        "paper_title": "Vision-Based Manipulators Need to Also See from Their Hands",
+        "author_names": "Kyle Hsu, Moo Jin Kim, Rafael Rafailov, Jiajun Wu, Chelsea Finn"
+    },
+    {
+        "paper_title": "Meta-Learning with Fewer Tasks through Task Interpolation",
+        "author_names": "Huaxiu Yao, Linjun Zhang, Chelsea Finn"
+    },
+    {
+        "paper_title": "DISCOVERING AND EXPLAINING THE REPRESENTATION BOTTLENECK OF DNNS",
+        "author_names": "Huiqi Deng, Qihan Ren, Hao Zhang, Quanshi Zhang"
+    },
+    {
+        "paper_title": "Sparse Communication via Mixed Distributions",
+        "author_names": "Ant\u00f3nio Farinhas, Wilker Aziz, Vlad Niculae, Andre Martins"
+    },
+    {
+        "paper_title": "Finetuned Language Models are Zero-Shot Learners",
+        "author_names": "Jason Wei, Maarten Bosma, Vincent Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V Le"
+    },
+    {
+        "paper_title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
+        "author_names": "Qing Jin, Jian Ren, Richard Zhuang, Sumant Hanumante, Zhengang Li, Zhiyu Chen, Yanzhi Wang, Kaiyuan Yang, Sergey Tulyakov"
+    },
+    {
+        "paper_title": "Transform2Act: Learning a Transform-and-Control Policy for Efficient Agent Design",
+        "author_names": "Ye Yuan, Yuda Song, Zhengyi Luo, Wen Sun, Kris M. Kitani"
+    },
+    {
+        "paper_title": "ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics",
+        "author_names": "Boris N. Oreshkin, Florent Bocquelet, Felix G. Harvey, Bay Raitt, Dominic Laflamme"
+    },
+    {
+        "paper_title": "Hyperparameter Tuning with Renyi Differential Privacy",
+        "author_names": "Nicolas Papernot, Thomas Steinke"
+    },
+    {
+        "paper_title": "Real-Time Neural Voice Camouflage",
+        "author_names": "Mia Chiquier, Chengzhi Mao, Carl Vondrick"
+    },
+    {
+        "paper_title": "CycleMLP: A MLP-like Architecture for Dense Prediction",
+        "author_names": "Shoufa Chen, Enze Xie, Chongjian GE, Runjian Chen, Ding Liang, Ping Luo"
+    },
+    {
+        "paper_title": "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models",
+        "author_names": "Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang"
+    },
+    {
+        "paper_title": "RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation",
+        "author_names": "Pingchuan Ma, Tao Du, Joshua B. Tenenbaum, Wojciech Matusik, Chuang Gan"
+    },
+    {
+        "paper_title": "The Information Geometry of Unsupervised Reinforcement Learning",
+        "author_names": "Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine"
+    },
+    {
+        "paper_title": "Language modeling via stochastic processes",
+        "author_names": "Rose E Wang, Esin Durmus, Noah Goodman, Tatsunori Hashimoto"
+    }
+]
