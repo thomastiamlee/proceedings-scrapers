@@ -1,11 +1,15 @@
 from urllib.request import Request, urlopen
 
+import json
+
+results_path = '../results/'
+
 def log(message):
     print(message)
 
 def get_html(url):
     req = Request(
-        url='https://aaai.org/proceeding/01-aaai-22-technical-tracks-1/', 
+        url=url, 
         headers={'User-Agent': 'Mozilla/5.0'}
     )
     fp = urlopen(req)
@@ -13,3 +17,8 @@ def get_html(url):
     html = webpage.decode("utf8")
     fp.close()
     return html
+
+def write_result_to_file(results, file_name):
+    json_object = json.dumps(results, indent=4)
+    with open(results_path + file_name, "w") as outfile:
+        outfile.write(json_object)
