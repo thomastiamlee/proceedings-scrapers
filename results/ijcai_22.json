@@ -1,0 +1,3450 @@
+[
+    {
+        "paper_title": "Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search",
+        "author_names": "Kenshi Abe, Junpei Komiyama, Atsushi Iwasaki"
+    },
+    {
+        "paper_title": "Socially Intelligent Genetic Agents for the Emergence of Explicit Norms",
+        "author_names": "Rishabh Agrawal, Nirav Ajmeri, Munindar Singh"
+    },
+    {
+        "paper_title": "An EF2X Allocation Protocol for Restricted Additive Valuations",
+        "author_names": "Hannaneh Akrami, Rojin Rezvan, Masoud Seddighin"
+    },
+    {
+        "paper_title": "Better Collective Decisions via Uncertainty Reduction",
+        "author_names": "Shiri Alouf-Heffetz, Laurent Bulteau, Edith Elkind, Nimrod Talmon, Nicholas Teh"
+    },
+    {
+        "paper_title": "How Should We Vote? A Comparison of Voting Systems within Social Networks",
+        "author_names": "Shiri Alouf-Heffetz, Ben Armstrong, Kate Larson, Nimrod Talmon"
+    },
+    {
+        "paper_title": "Public Signaling in Bayesian Ad Auctions",
+        "author_names": "Francesco Bacchiocchi, Matteo Castiglioni, Alberto Marchesi, Giulia Romano, Nicola Gatti"
+    },
+    {
+        "paper_title": "Mixed Strategies for Security Games with General Defending Requirements",
+        "author_names": "Rufan Bai, Haoxing Lin, Xinyu Yang, Xiaowei Wu, Minming Li, Weijia Jia"
+    },
+    {
+        "paper_title": "Envy-Free and Pareto-Optimal Allocations for Agents with Asymmetric Random Valuations",
+        "author_names": "Yushi Bai, Paul G\u00f6lz"
+    },
+    {
+        "paper_title": "Achieving Envy-Freeness with Limited Subsidies under Dichotomous Valuations",
+        "author_names": "Siddharth Barman, Anand Krishna, Yadati Narahari, Soumyarup Sadhukhan"
+    },
+    {
+        "paper_title": "Transparency, Detection and Imitation in Strategic Classification",
+        "author_names": "Flavia Barsotti, Ruya Gokhan Kocer, Fernando P. Santos"
+    },
+    {
+        "paper_title": "Time-Constrained Participatory Budgeting Under Uncertain Project Costs",
+        "author_names": "Dorothea Baumeister, Linus Boes, Christian Lau\u00dfmann"
+    },
+    {
+        "paper_title": "Tolerance is Necessary for Stability: Single-Peaked Swap Schelling Games",
+        "author_names": "Davide Bil\u00f2, Vittorio Bil\u00f2, Pascal Lenzner, Louise Molitor"
+    },
+    {
+        "paper_title": "General Opinion Formation Games with Social Group Membership",
+        "author_names": "Vittorio Bil\u00f2, Diodato Ferraioli, Cosimo Vinci"
+    },
+    {
+        "paper_title": "Fair Equilibria in Sponsored Search Auctions: The Advertisers\u2019 Perspective",
+        "author_names": "Georgios Birmpas, Andrea Celli, Riccardo Colini-Baldeschi, Stefano Leonardi"
+    },
+    {
+        "paper_title": "Understanding Distance Measures Among Elections",
+        "author_names": "Niclas Boehmer, Piotr Faliszewski, Rolf Niedermeier, Stanis\u0142aw Szufa, Tomasz W\u0105s"
+    },
+    {
+        "paper_title": "Toward Policy Explanations for Multi-Agent Reinforcement Learning",
+        "author_names": "Kayla Boggess, Sarit Kraus, Lu Feng"
+    },
+    {
+        "paper_title": "Distortion in Voting with Top-t Preferences",
+        "author_names": "Allan Borodin, Daniel Halpern, Mohamad Latifian, Nisarg Shah"
+    },
+    {
+        "paper_title": "Let\u2019s Agree to Agree: Targeting Consensus for Incomplete Preferences through Majority Dynamics",
+        "author_names": "Sirin Botan, Simon Rey, Zoi Terzopoulou"
+    },
+    {
+        "paper_title": "Incentives in Social Decision Schemes with Pairwise Comparison Preferences",
+        "author_names": "Felix Brandt, Patrick Lederer, Warut Suksompong"
+    },
+    {
+        "paper_title": "Single-Peaked Opinion Updates",
+        "author_names": "Robert Bredereck, Anne-Marie George, Jonas Israel, Leon Kellerhals"
+    },
+    {
+        "paper_title": "When Votes Change and Committees Should (Not)",
+        "author_names": "Robert Bredereck, Till Fluschnik, Andrzej Kaczmarczyk"
+    },
+    {
+        "paper_title": "Network Creation with Homophilic Agents",
+        "author_names": "Martin Bullinger, Pascal Lenzner, Anna Melnichenko"
+    },
+    {
+        "paper_title": "VidyutVanika21: An Autonomous Intelligent Broker for Smart-grids",
+        "author_names": "Sanjay Chandlekar, Bala Suraj Pedasingu, Easwar Subramanian, Sanjay Bhat, Praveen Paruchuri, Sujit Gujar"
+    },
+    {
+        "paper_title": "Optimal Anonymous Independent Reward Scheme Design",
+        "author_names": "Mengjing Chen, Pingzhong Tang, Zihe Wang, Shenke Xiao, Xiwang Yang"
+    },
+    {
+        "paper_title": "Goal Consistency: An Effective Multi-Agent Cooperative Method for Multistage Tasks",
+        "author_names": "Xinning Chen, Xuan Liu, Shigeng Zhang, Bo Ding, Kenli Li"
+    },
+    {
+        "paper_title": "On the Convergence of Fictitious Play: A Decomposition Approach",
+        "author_names": "Yurong Chen, Xiaotie Deng, Chenchen Li, David Mguni, Jun Wang, Xiang Yan, Yaodong Yang"
+    },
+    {
+        "paper_title": "Two-Sided Matching over Social Networks",
+        "author_names": "Sung-Ho Cho, Taiki Todo, Makoto Yokoo"
+    },
+    {
+        "paper_title": "A Formal Model for Multiagent Q-Learning Dynamics on Regular Graphs",
+        "author_names": "Chen Chu, Yong Li, Jinzhuo Liu, Shuyue Hu, Xuelong Li, Zhen Wang"
+    },
+    {
+        "paper_title": "Preserving Consistency in Multi-Issue Liquid Democracy",
+        "author_names": "Rachael Colley, Umberto Grandi"
+    },
+    {
+        "paper_title": "Voting in Two-Crossing Elections",
+        "author_names": "Andrei Constantinescu, Roger Wattenhofer"
+    },
+    {
+        "paper_title": "Multi-Agent Intention Progression with Reward Machines",
+        "author_names": "Michael Dann, Yuan Yao, Natasha Alechina, Brian Logan, John Thangarajah"
+    },
+    {
+        "paper_title": "An Analysis of the Linear Bilateral ANAC Domains Using the MiCRO Benchmark Strategy",
+        "author_names": "Dave De Jonge"
+    },
+    {
+        "paper_title": "Approval with Runoff",
+        "author_names": "Th\u00e9o Delemazure, J\u00e9r\u00f4me Lang, Jean-Fran\u00e7ois Laslier, M. Remzi Sanver"
+    },
+    {
+        "paper_title": "The Complexity of Envy-Free Graph Cutting",
+        "author_names": "Argyrios Deligkas, Eduard Eiben, Robert Ganian, Thekla Hamm, Sebastian Ordyniak"
+    },
+    {
+        "paper_title": "Parameterized Complexity of Hotelling-Downs with Party Nominees",
+        "author_names": "Argyrios Deligkas, Eduard Eiben, Tiger-Lily Goldsmith"
+    },
+    {
+        "paper_title": "Online Approval Committee Elections",
+        "author_names": "Virginie Do, Matthieu Hervouin, J\u00e9r\u00f4me Lang, Piotr Skowron"
+    },
+    {
+        "paper_title": "On the Ordinal Invariance of Power Indices on Coalitional Games",
+        "author_names": "Jean-Paul Doignon, Stefano Moretti, Meltem Ozturk"
+    },
+    {
+        "paper_title": "Invasion Dynamics in the Biased Voter Process",
+        "author_names": "Loke Durocher, Panagiotis Karras, Andreas Pavlogiannis, Josef Tkadlec"
+    },
+    {
+        "paper_title": "Efficient Resource Allocation with Secretive Agents",
+        "author_names": "Soroush Ebadian, Rupert Freeman, Nisarg Shah"
+    },
+    {
+        "paper_title": "Contests to Incentivize a Target Group",
+        "author_names": "Edith Elkind, Abheek Ghosh, Paul W. Goldberg"
+    },
+    {
+        "paper_title": "Representation Matters: Characterisation and Impossibility Results for Interval Aggregation",
+        "author_names": "Ulle Endriss, Arianna Novaro, Zoi Terzopoulou"
+    },
+    {
+        "paper_title": "Insight into Voting Problem Complexity Using Randomized Classes",
+        "author_names": "Zack Fitzsimmons, Edith Hemaspaandra"
+    },
+    {
+        "paper_title": "Approximate Strategyproof Mechanisms for the Additively Separable Group Activity Selection Problem",
+        "author_names": "Michele Flammini, Giovanna Varricchio"
+    },
+    {
+        "paper_title": "Picking the Right Winner: Why Tie-Breaking  in Crowdsourcing Contests Matters",
+        "author_names": "Coral Haggiag, Sigal Oren, Ella Segev"
+    },
+    {
+        "paper_title": "Can Buyers Reveal for a Better Deal?",
+        "author_names": "Daniel Halpern, Gregory Kehne, Jamie Tucker-Foltz"
+    },
+    {
+        "paper_title": "Two for One & One for All: Two-Sided Manipulation in Matching Markets",
+        "author_names": "Hadi Hosseini, Fatima Umar, Rohit Vaish"
+    },
+    {
+        "paper_title": "Phragm\u00e9n Rules for Degressive and Regressive Proportionality",
+        "author_names": "Micha\u0142 Jaworski, Piotr Skowron"
+    },
+    {
+        "paper_title": "Forgiving Debt in Financial Network Games",
+        "author_names": "Panagiotis Kanellopoulos, Maria Kyropoulou, Hao Zhou"
+    },
+    {
+        "paper_title": "On Discrete Truthful Heterogeneous Two-Facility Location",
+        "author_names": "Panagiotis Kanellopoulos, Alexandros A. Voudouris, Rongsen Zhang"
+    },
+    {
+        "paper_title": "Plurality Veto: A Simple Voting Rule Achieving Optimal Metric Distortion",
+        "author_names": "Fatih Erdem Kizilkaya, David Kempe"
+    },
+    {
+        "paper_title": "The Dichotomous Affiliate Stable Matching Problem: Approval-Based Matching with Applicant-Employer Relations",
+        "author_names": "Marina Knittel, Samuel Dooley, John Dickerson"
+    },
+    {
+        "paper_title": "Light Agents Searching for Hot Information",
+        "author_names": "Dariusz R. Kowalski, Dominik Pajak"
+    },
+    {
+        "paper_title": "Explaining Preferences by Multiple Patterns in Voters\u2019 Behavior",
+        "author_names": "Sonja Kraiczy, Edith Elkind"
+    },
+    {
+        "paper_title": "Biased Majority Opinion Dynamics: Exploiting Graph k-domination",
+        "author_names": "Hicham Lesfari, Fr\u00e9d\u00e9ric Giroire, St\u00e9phane P\u00e9rennes"
+    },
+    {
+        "paper_title": "Modelling the Dynamics of Multi-Agent Q-learning: The Stochastic Effects of Local Interaction and Incomplete Information",
+        "author_names": "Chin-wing Leung, Shuyue Hu, Ho-fung Leung"
+    },
+    {
+        "paper_title": "Propositional Gossip Protocols under Fair Schedulers",
+        "author_names": "Joseph Livesey, Dominik Wojtczak"
+    },
+    {
+        "paper_title": "Proportional Budget Allocations: Towards a Systematization",
+        "author_names": "Maaike Los, Zo\u00e9 Christoff, Davide Grossi"
+    },
+    {
+        "paper_title": "Parameterized Algorithms for Kidney Exchange",
+        "author_names": "Arnab Maiti, Palash Dey"
+    },
+    {
+        "paper_title": "Fixing Knockout Tournaments With Seeds",
+        "author_names": "Pasin Manurangsi, Warut Suksompong"
+    },
+    {
+        "paper_title": "Group Wisdom at a Price: Jury Theorems with Costly Information",
+        "author_names": "Matteo Michelini, Adrian Haret, Davide Grossi"
+    },
+    {
+        "paper_title": "Automated Synthesis of Mechanisms ",
+        "author_names": "Munyque Mittelmann, Bastien Maubert, Aniello Murano, Laurent Perrussel"
+    },
+    {
+        "paper_title": "Robust Solutions for Multi-Defender Stackelberg Security Games",
+        "author_names": "Dolev Mutzari, Yonatan Aumann, Sarit Kraus"
+    },
+    {
+        "paper_title": "I Will Have Order! Optimizing Orders for Fair Reviewer Assignment",
+        "author_names": "Justin Payan, Yair Zick"
+    },
+    {
+        "paper_title": "Fair, Individually Rational and Cheap Adjustment",
+        "author_names": "Gleb Polevoy, Marcin Dziubi\u0144ski"
+    },
+    {
+        "paper_title": "Exploring the Benefits of Teams in Multiagent Learning",
+        "author_names": "David Radke, Kate Larson, Tim Brecht"
+    },
+    {
+        "paper_title": "The Power of Media Agencies in Ad Auctions: Improving Utility through Coordinated Bidding",
+        "author_names": "Giulia Romano, Matteo Castiglioni, Alberto Marchesi, Nicola Gatti"
+    },
+    {
+        "paper_title": "Transfer Learning Based Adaptive Automated Negotiating Agent Framework",
+        "author_names": "Ayan Sengupta, Shinji Nakadai, Yasser Mohammad"
+    },
+    {
+        "paper_title": "Multiwinner Elections under Minimax Chamberlin-Courant Rule in Euclidean Space",
+        "author_names": "Chinmay Sonar, Subhash Suri, Jie Xue"
+    },
+    {
+        "paper_title": "Near-Tight Algorithms for the Chamberlin-Courant and Thiele Voting Rules",
+        "author_names": "Krzysztof Sornat, Virginia Vassilevska Williams, Yinzhan Xu"
+    },
+    {
+        "paper_title": "Maxmin Participatory Budgeting",
+        "author_names": "Gogulapati Sreedurga, Mayank Ratan Bhardwaj, Yadati Narahari"
+    },
+    {
+        "paper_title": "How to Sample Approval Elections?",
+        "author_names": "Stanis\u0142aw Szufa, Piotr Faliszewski, \u0141ukasz Janeczko, Martin Lackner, Arkadii Slinko, Krzysztof Sornat, Nimrod Talmon"
+    },
+    {
+        "paper_title": "Search-Based Testing of Reinforcement Learning",
+        "author_names": "Martin Tappler, Filip Cano C\u00f3rdoba, Bernhard K. Aichernig, Bettina K\u00f6nighofer"
+    },
+    {
+        "paper_title": "Real-Time BDI Agents: A Model and Its Implementation",
+        "author_names": "Andrea Traldi, Francesco Bruschetti, Marco Robol, Marco Roveri, Paolo Giorgini"
+    },
+    {
+        "paper_title": "Max-Sum with Quadtrees for Decentralized Coordination in Continuous Domains",
+        "author_names": "Dimitrios Troullinos, Georgios Chalkiadakis, Vasilis Samoladas, Markos Papageorgiou"
+    },
+    {
+        "paper_title": "Strategy Proof Mechanisms for Facility Location with Capacity Limits",
+        "author_names": "Toby Walsh"
+    },
+    {
+        "paper_title": "Modelling the Dynamics of Regret Minimization in Large Agent Populations: a Master Equation Approach",
+        "author_names": "Zhen Wang, Chunjiang Mu, Shuyue Hu, Chen Chu, Xuelong Li"
+    },
+    {
+        "paper_title": "Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignment",
+        "author_names": "Jakob Weissteiner, Jakob Heiss, Julien Siems, Sven Seuken"
+    },
+    {
+        "paper_title": "Fourier Analysis-based Iterative Combinatorial Auctions",
+        "author_names": "Jakob Weissteiner, Chris Wendler, Sven Seuken, Ben Lubin, Markus P\u00fcschel"
+    },
+    {
+        "paper_title": "Manipulating Elections by Changing Voter Perceptions",
+        "author_names": "Junlin Wu, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik"
+    },
+    {
+        "paper_title": "Fast and Fine-grained Autoscaler for Streaming Jobs with Reinforcement Learning",
+        "author_names": "Mingzhe Xing, Hangyu Mao, Zhen Xiao"
+    },
+    {
+        "paper_title": "Mechanism Design with Predictions",
+        "author_names": "Chenyang Xu, Pinyan Lu"
+    },
+    {
+        "paper_title": "Efficient Multi-Agent Communication via Shapley Message Value",
+        "author_names": "Di Xue, Lei Yuan, Zongzhang Zhang, Yang Yu"
+    },
+    {
+        "paper_title": "On the Complexity of Calculating Approval-Based Winners in Candidates-Embedded Metrics",
+        "author_names": "Yongjie Yang"
+    },
+    {
+        "paper_title": "Environment Design for Biased Decision Makers",
+        "author_names": "Guanghui Yu, Chien-Ju Ho"
+    },
+    {
+        "paper_title": "Multi-Agent Concentrative Coordination with Decentralized Task Representation",
+        "author_names": "Lei Yuan, Chenghe Wang, Jianhao Wang, Fuxiang Zhang, Feng Chen, Cong Guan, Zongzhang Zhang, Chongjie Zhang, Yang Yu"
+    },
+    {
+        "paper_title": "Correlation-Based Algorithm for Team-Maxmin Equilibrium in Multiplayer Extensive-Form Games ",
+        "author_names": "Youzhi Zhang, Bo An, V. S. Subrahmanian"
+    },
+    {
+        "paper_title": "Strategyproof Mechanisms for Group-Fair Facility Location Problems",
+        "author_names": "Houyu Zhou, Minming Li, Hau Chan"
+    },
+    {
+        "paper_title": "Evolutionary Approach to Security Games with Signaling",
+        "author_names": "Adam \u017bychowski, Jacek Ma\u0144dziuk, Elizabeth Bondi, Aravind Venugopal, Milind Tambe, Balaraman Ravindran"
+    },
+    {
+        "paper_title": "Detecting Out-Of-Context Objects Using Graph Contextual Reasoning Network",
+        "author_names": "Manoj Acharya, Anirban Roy, Kaushik Koneripalli, Susmit Jha, Christopher Kanan, Ajay Divakaran"
+    },
+    {
+        "paper_title": "Axiomatic Foundations of Explainability",
+        "author_names": "Leila Amgoud, Jonathan Ben-Naim"
+    },
+    {
+        "paper_title": "On Preferred Abductive Explanations for Decision Trees and Random Forests",
+        "author_names": "Gilles Audemard, Steve Bellart, Louenas Bounia, Frederic Koriche, Jean-Marie Lagniez, Pierre Marquis"
+    },
+    {
+        "paper_title": "Individual Fairness Guarantees for Neural Networks",
+        "author_names": "Elias Benussi, Andrea Patane', Matthew Wicker, Luca Laurenti, Marta Kwiatkowska"
+    },
+    {
+        "paper_title": "How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?",
+        "author_names": "Alvin Chan, Yew Soon Ong, Clement Tan"
+    },
+    {
+        "paper_title": "Learn to Reverse DNNs from AI Programs Automatically",
+        "author_names": "Simin Chen, Hamed Khanpour, Cong Liu, Wei Yang"
+    },
+    {
+        "paper_title": "CAT: Customized Adversarial Training for Improved Robustness",
+        "author_names": "Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh"
+    },
+    {
+        "paper_title": "PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning",
+        "author_names": "Wei Du, Yichun Zhao, Boqun Li, Gongshen Liu, Shilin Wang"
+    },
+    {
+        "paper_title": "SoFaiR: Single Shot Fair Representation Learning",
+        "author_names": "Xavier Gitiaux, Huzefa Rangwala"
+    },
+    {
+        "paper_title": "Fairness without the Sensitive Attribute via Causal Variational Autoencoder",
+        "author_names": "Vincent Grari, Sylvain Lamprier, Marcin Detyniecki"
+    },
+    {
+        "paper_title": "Taking Situation-Based Privacy Decisions: Privacy Assistants Working with Humans",
+        "author_names": "Nadin K\u00f6kciyan, Pinar Yolum"
+    },
+    {
+        "paper_title": "Model Stealing Defense against Exploiting Information Leak through the Interpretation of Deep Neural Nets",
+        "author_names": "Jeonghyun Lee, Sungmin Han, Sangkyun Lee"
+    },
+    {
+        "paper_title": "Investigating and Explaining the Frequency Bias in Image Classification",
+        "author_names": "Zhiyu Lin, Yifei Gao, Jitao Sang"
+    },
+    {
+        "paper_title": "AttExplainer: Explain Transformer via Attention by Reinforcement Learning",
+        "author_names": "Runliang Niu, Zhepei Wei, Yan Wang, Qi Wang"
+    },
+    {
+        "paper_title": "Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN",
+        "author_names": "Yao Qiang, Chengyin Li, Marco Brocanelli, Dongxiao Zhu"
+    },
+    {
+        "paper_title": "BayCon: Model-agnostic Bayesian Counterfactual Generator",
+        "author_names": "Piotr Romashov, Martin Gjoreski, Kacper Sokol, Maria Vanina Martinez, Marc Langheinrich"
+    },
+    {
+        "paper_title": "What Does My GNN Really Capture? On Exploring Internal GNN Representations",
+        "author_names": "Luca Veyrin-Forrer, Ataollah Kamal, Stefan Duffner, Marc Plantevit, C\u00e9line Robardet"
+    },
+    {
+        "paper_title": "Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection",
+        "author_names": "Wei Wan, Shengshan Hu, jianrong Lu, Leo Yu Zhang, Hai Jin, Yuanyuan He"
+    },
+    {
+        "paper_title": "Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations",
+        "author_names": "Run Wang, Ziheng Huang, Zhikai Chen, Li Liu, Jing Chen, Lina Wang"
+    },
+    {
+        "paper_title": "Cluster Attack: Query-based Adversarial Attacks on Graph with Graph-Dependent Priors",
+        "author_names": "Zhengyi Wang, Zhongkai Hao, Ziqiao Wang, Hang Su, Jun Zhu"
+    },
+    {
+        "paper_title": "MetaFinger: Fingerprinting the Deep Neural Networks with Meta-training",
+        "author_names": "Kang Yang, Run Wang, Lina Wang"
+    },
+    {
+        "paper_title": "Approximately EFX Allocations for Indivisible Chores",
+        "author_names": "Shengwei Zhou, Xiaowei Wu"
+    },
+    {
+        "paper_title": "MotionMixer: MLP-based 3D Human Body Pose Forecasting",
+        "author_names": "Arij Bouazizi, Adrian Holzbock, Ulrich Kressel, Klaus Dietmayer, Vasileios Belagiannis"
+    },
+    {
+        "paper_title": "Event-driven Video Deblurring via Spatio-Temporal Relation-Aware Network",
+        "author_names": "Chengzhi Cao, Xueyang Fu, Yurui Zhu, Gege Shi, Zheng-Jun Zha"
+    },
+    {
+        "paper_title": "KPN-MFI: A Kernel Prediction Network with Multi-frame Interaction for Video Inverse Tone Mapping",
+        "author_names": "Gaofeng Cao, Fei Zhou, Han Yan, Anjie Wang, Leidong Fan"
+    },
+    {
+        "paper_title": "Zero-Shot Logit Adjustment",
+        "author_names": "Dubing Chen, Yuming Shen, Haofeng Zhang, Philip H.S. Torr"
+    },
+    {
+        "paper_title": "Uncertainty-Aware Representation Learning for Action Segmentation",
+        "author_names": "Lei Chen, Muheng Li, Yueqi Duan, Jie Zhou, Jiwen Lu"
+    },
+    {
+        "paper_title": "AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection",
+        "author_names": "Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao, Bolei Zhou, Hang Zhao"
+    },
+    {
+        "paper_title": "Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation",
+        "author_names": "Zekang Chen, Jia Wei, Rui Li"
+    },
+    {
+        "paper_title": "SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening",
+        "author_names": "Zhi-Xuan Chen, Cheng Jin, Tian-Jing Zhang, Xiao Wu, Liang-Jian Deng"
+    },
+    {
+        "paper_title": "Robust Single Image Dehazing Based on Consistent and Contrast-Assisted Reconstruction",
+        "author_names": "De Cheng, Yan Li, Dingwen Zhang, Nannan Wang, Xinbo Gao, Jiande Sun"
+    },
+    {
+        "paper_title": "I\u00b2R-Net: Intra- and Inter-Human Relation Network for Multi-Person Pose Estimation",
+        "author_names": "Yiwei Ding, Wenjin Deng, Yinglin Zheng, Pengfei Liu, Meihong Wang, Xuan Cheng, Jianmin Bao, Dong Chen, Ming Zeng"
+    },
+    {
+        "paper_title": "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation",
+        "author_names": "Hexin Dong, Zifan Chen, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang"
+    },
+    {
+        "paper_title": "MNet: Rethinking 2D/3D Networks for Anisotropic Medical Image Segmentation",
+        "author_names": "Zhangfu Dong, Yuting He, Xiaoming Qi, Yang Chen, Huazhong Shu, Jean-Louis Coatrieux, Guanyu Yang, Shuo Li"
+    },
+    {
+        "paper_title": "ICGNet: Integration Context-based Reverse-Contour Guidance Network  for Polyp Segmentation",
+        "author_names": "Xiuquan Du, Xuebin Xu, Kunpeng Ma"
+    },
+    {
+        "paper_title": "SVTR: Scene Text Recognition with a Single Visual Model",
+        "author_names": "Yongkun Du, Zhineng Chen, Caiyan Jia, Xiaoting Yin, Tianlun Zheng, Chenxia Li, Yuning Du, Yu-Gang Jiang"
+    },
+    {
+        "paper_title": "Learning Coated Adversarial Camouflages for Object Detectors",
+        "author_names": "Yexin Duan, Jialin Chen, Xingyu Zhou, Junhua Zou, Zhengyun He, Jin Zhang, Wu Zhang, Zhisong Pan"
+    },
+    {
+        "paper_title": "D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction",
+        "author_names": "Tingyu Fan, Linyao Gao, Yiling Xu, Zhu Li, Dong Wang"
+    },
+    {
+        "paper_title": "SparseTT: Visual Tracking with Sparse Transformers",
+        "author_names": "Zhihong Fu, Zehua Fu, Qingjie Liu, Wenrui Cai, Yunhong Wang"
+    },
+    {
+        "paper_title": "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer",
+        "author_names": "Guangwei Gao, Zhengxue Wang, Juncheng Li, Wenjie Li, Yi Yu, Tieyong Zeng"
+    },
+    {
+        "paper_title": "Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection",
+        "author_names": "Zhihao Gu, Taiping Yao, Yang Chen, Ran Yi, Shouhong Ding, Lizhuang Ma"
+    },
+    {
+        "paper_title": "Learning Target-aware Representation for Visual Tracking via Informative Interactions",
+        "author_names": "Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu"
+    },
+    {
+        "paper_title": "Exploring Fourier Prior for Single Image Rain Removal",
+        "author_names": "Xin Guo, Xueyang Fu, Man Zhou, Zhen Huang, Jialun Peng, Zheng-Jun Zha"
+    },
+    {
+        "paper_title": "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks",
+        "author_names": "Shuai He, Yongchang Zhang, Rui Xie, Dongxiang Jiang, Anlong Ming"
+    },
+    {
+        "paper_title": "Self-supervised Semantic Segmentation Grounded in Visual Concepts",
+        "author_names": "Wenbin He, William Surmeier, Arvind Kumar Shekar, Liang Gou, Liu Ren"
+    },
+    {
+        "paper_title": "Semantic Compression Embedding for Generative Zero-Shot Learning",
+        "author_names": "Ziming Hong, Shiming Chen, Guo-Sen Xie, Wenhan Yang, Jian Zhao, Yuanjie Shao, Qinmu Peng, Xinge You"
+    },
+    {
+        "paper_title": "ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise \u2028Perspective for Medical Image Segmentation",
+        "author_names": "Huimin Huang, Shiao Xie, Lanfen Lin, Yutaro Iwamoto, Xian-Hua Han, Yen-Wei Chen, Ruofeng Tong"
+    },
+    {
+        "paper_title": "AQT: Adversarial Query Transformers for Domain Adaptive Object Detection",
+        "author_names": "Wei-Jie Huang, Yu-Lin Lu, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin"
+    },
+    {
+        "paper_title": "DANet: Image Deraining via Dynamic Association Learning",
+        "author_names": "Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Junjun Jiang, Jinsheng Xiao, Chia-Wen Lin"
+    },
+    {
+        "paper_title": "SatFormer: Saliency-Guided Abnormality-Aware Transformer for Retinal Disease Classification in Fundus Image",
+        "author_names": "Yankai Jiang, Ke Xu, Xinyue Wang, Yuan Li, Hongguang Cui, Yubo Tao, Hai Lin"
+    },
+    {
+        "paper_title": "Domain Generalization through the Lens of Angular Invariance",
+        "author_names": "Yujie Jin, Xu Chu, Yasha Wang, Wenwu Zhu"
+    },
+    {
+        "paper_title": "Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking",
+        "author_names": "Ilchae Jung, Minji Kim, Eunhyeok Park, Bohyung Han"
+    },
+    {
+        "paper_title": "Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment",
+        "author_names": "Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa"
+    },
+    {
+        "paper_title": "Attention-guided Contrastive Hashing for Long-tailed Image Retrieval",
+        "author_names": "Xuan Kou, Chenghao Xu, Xu Yang, Cheng Deng"
+    },
+    {
+        "paper_title": "Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation",
+        "author_names": "Chunbo Lang, Binfei Tu, Gong Cheng, Junwei Han"
+    },
+    {
+        "paper_title": "PlaceNet: Neural Spatial Representation Learning with Multimodal Attention",
+        "author_names": "Chung-Yeon Lee, Youngjae Yoo, Byoung-Tak Zhang"
+    },
+    {
+        "paper_title": "What is Right for Me is Not Yet Right for You: A Dataset for Grounding Relative Directions via Multi-Task Learning",
+        "author_names": "Jae Hee Lee, Matthias Kerzel, Kyra Ahrens, Cornelius Weber, Stefan Wermter"
+    },
+    {
+        "paper_title": "Learning to Assemble Geometric Shapes",
+        "author_names": "Jinhwi Lee, Jungtaek Kim, Hyunsoo Chung, Jaesik Park, Minsu Cho"
+    },
+    {
+        "paper_title": "Iterative Geometry-Aware Cross Guidance Network for Stereo Image Inpainting",
+        "author_names": "Ang Li, Shanshan Zhao, Zhang Qingjie, Qiuhong Ke"
+    },
+    {
+        "paper_title": "Representation Learning for Compressed Video Action Recognition via Attentive Cross-modal Interaction with Motion Enhancement",
+        "author_names": "Bing Li, Jiaxin Chen, Dongming Zhang, Xiuguo Bao, Di Huang"
+    },
+    {
+        "paper_title": "Self-Guided Hard Negative Generation for Unsupervised Person Re-Identification",
+        "author_names": "Dongdong Li, Zhigang Wang, Jian Wang, Xinyu Zhang, Errui Ding, Jingdong Wang, Zhaoxiang Zhang"
+    },
+    {
+        "paper_title": "MMNet: Muscle Motion-Guided Network for Micro-Expression Recognition",
+        "author_names": "Hanting Li, Mingzhe Sui, Zhaoqing Zhu, Feng Zhao"
+    },
+    {
+        "paper_title": "ER-SAN: Enhanced-Adaptive Relation Self-Attention Network for Image Captioning",
+        "author_names": "Jingyu Li, Zhendong Mao, Shancheng Fang, Hao Li"
+    },
+    {
+        "paper_title": "RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection",
+        "author_names": "Jinpeng Li, Haibo Jin, Shengcai Liao, Ling Shao, Pheng-Ann Heng"
+    },
+    {
+        "paper_title": "Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation",
+        "author_names": "Qun Li, Ziyi Zhang, Fu Xiao, Feng Zhang, Bir Bhanu"
+    },
+    {
+        "paper_title": "Learning Graph-based Residual Aggregation Network for Group Activity Recognition",
+        "author_names": "Wei Li, Tianzhao Yang, Xiao Wu, Zhaoquan Yuan"
+    },
+    {
+        "paper_title": "TCCNet: Temporally Consistent Context-Free Network for Semi-supervised Video Polyp Segmentation",
+        "author_names": "Xiaotong Li, Jilan Xu, Yuejie Zhang, Rui Feng, Rui-Wei Zhao, Tao Zhang, Xuequan Lu, Shang Gao"
+    },
+    {
+        "paper_title": "PRNet: Point-Range Fusion Network for Real-Time LiDAR Semantic Segmentation",
+        "author_names": "Xiaoyan Li, Gang Zhang, Tao Jiang, Xufen Cai, Zhenhua Wang"
+    },
+    {
+        "paper_title": "Unsupervised Embedding and Association Network for Multi-Object Tracking",
+        "author_names": "Yu-Lei Li"
+    },
+    {
+        "paper_title": "Multi-View Visual Semantic Embedding",
+        "author_names": "Zheng Li, Caili Guo, Zerun Feng, Jenq-Neng Hwang, Xijun Xue"
+    },
+    {
+        "paper_title": "Self-supervised Learning and Adaptation for Single Image Dehazing",
+        "author_names": "Yudong Liang, Bin Wang, Wangmeng Zuo, Jiaying Liu, Wenqi Ren"
+    },
+    {
+        "paper_title": "Feature Dense Relevance Network for Single Image Dehazing",
+        "author_names": "Yun Liang, Enze Huang, Zifeng Zhang, Zhuo Su, Dong Wang"
+    },
+    {
+        "paper_title": "RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on",
+        "author_names": "Chao Lin, Zhao Li, Sheng Zhou, Shichang Hu, Jialun Zhang, Linhao Luo, Jiarun Zhang, Longtao Huang, Yuan He"
+    },
+    {
+        "paper_title": "Learning to Estimate Object Poses without Real Image Annotations",
+        "author_names": "Haotong Lin, Sida Peng, Zhize Zhou, Xiaowei Zhou"
+    },
+    {
+        "paper_title": "Intrinsic Image Decomposition by Pursuing Reflectance Image",
+        "author_names": "Tzu-Heng Lin, Pengxiao Wang, Yizhou Wang"
+    },
+    {
+        "paper_title": "FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer",
+        "author_names": "Yang Lin, Tianyu Zhang, Peiqin Sun, Zheng Li, Shuchang Zhou"
+    },
+    {
+        "paper_title": "MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing",
+        "author_names": "Ajian Liu, Yanyan Liang"
+    },
+    {
+        "paper_title": "Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention",
+        "author_names": "Kai Liu, Tianyi Wu, Cong Liu, Guodong Guo"
+    },
+    {
+        "paper_title": "Cost Ensemble with Gradient Selecting for GANs",
+        "author_names": "Minghui Liu, Jiali Deng, Meiyi Yang, Xuan Cheng, Nianbo Liu, Ming Liu, Xiaomin Wang"
+    },
+    {
+        "paper_title": "TopoSeg: Topology-aware Segmentation for Point Clouds",
+        "author_names": "Weiquan Liu, Hanyun Guo, Weini Zhang, Yu Zang, Cheng Wang, Jonathan Li"
+    },
+    {
+        "paper_title": "Biological Instance Segmentation with a Superpixel-Guided Graph",
+        "author_names": "Xiaoyu Liu, Wei Huang, Yueyi Zhang, Zhiwei Xiong"
+    },
+    {
+        "paper_title": "Vision Shared and Representation Isolated Network for Person Search",
+        "author_names": "Yang Liu, Yingping Li, Chengyu Kong, Yuqiu Kong, Shenglan Liu, Feilong Wang"
+    },
+    {
+        "paper_title": "Copy Motion From One to Another: Fake Motion Video Generation",
+        "author_names": "Zhenguang Liu, Sifan Wu, Chejian Xu, Xiang Wang, Lei Zhu, Shuang Wu, Fuli Feng"
+    },
+    {
+        "paper_title": "Deep Video Harmonization With Color Mapping Consistency",
+        "author_names": "Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang"
+    },
+    {
+        "paper_title": "Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition",
+        "author_names": "Cheng Luo, Siyang Song, Weicheng Xie, Linlin Shen, Hatice Gunes"
+    },
+    {
+        "paper_title": "Long-Short Term Cross-Transformer in Compressed Domain for Few-Shot Video Classification",
+        "author_names": "Wenyang Luo, Yufan Liu, Bing Li, Weiming Hu, Yanan Miao, Yangxi Li"
+    },
+    {
+        "paper_title": "Improved Deep Unsupervised Hashing with Fine-grained Semantic Similarity Mining for Multi-Label Image Retrieval",
+        "author_names": "Zeyu Ma, Xiao Luo, Yingjie Chen, Mixiao Hou, Jinxing Li, Minghua Deng, Guangming Lu"
+    },
+    {
+        "paper_title": "Learning Degradation Uncertainty for Unsupervised Real-world Image Super-resolution",
+        "author_names": "Qian Ning, Jingzhu Tang, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi"
+    },
+    {
+        "paper_title": "Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal",
+        "author_names": "Mathieu Pag\u00e9 Fortin, Brahim Chaib-draa"
+    },
+    {
+        "paper_title": "Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering",
+        "author_names": "Min Peng, Chongyang Wang, Yuan Gao, Yu Shi, Xiang-Dong Zhou"
+    },
+    {
+        "paper_title": "Source-Adaptive Discriminative Kernels based Network for Remote Sensing Pansharpening",
+        "author_names": "Siran Peng, Liang-Jian Deng, Jin-Fan Hu, Yuwei Zhuo"
+    },
+    {
+        "paper_title": "SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification",
+        "author_names": "Haocong Rao, Chunyan Miao"
+    },
+    {
+        "paper_title": "ChimeraMix: Image Classification on Small Datasets via Masked Feature Mixing",
+        "author_names": "Christoph Reinders, Frederik Schubert, Bodo Rosenhahn"
+    },
+    {
+        "paper_title": "IDPT: Interconnected Dual Pyramid Transformer for Face Super-Resolution",
+        "author_names": "Jingang Shi, Yusi Wang, Songlin Dong, Xiaopeng Hong, Zitong Yu, Fei Wang, Changxin Wang, Yihong Gong"
+    },
+    {
+        "paper_title": "A Unified Framework for Adversarial Attack and Defense in Constrained Feature Space",
+        "author_names": "Thibault Simonetto, Salijona Dyrmishi, Salah Ghamizi, Maxime Cordy, Yves Le Traon"
+    },
+    {
+        "paper_title": "Emotion-Controllable Generalized Talking Face Generation",
+        "author_names": "Sanjana Sinha, Sandika Biswas, Ravindra Yadav, Brojeshwar Bhowmick"
+    },
+    {
+        "paper_title": "Harnessing Fourier Isovists and Geodesic Interaction for Long-Term Crowd Flow Prediction",
+        "author_names": "Samuel S. Sohn, Seonghyeon Moon, Honglu Zhou, Mihee Lee, Sejong Yoon, Vladimir Pavlovic, Mubbasir Kapadia"
+    },
+    {
+        "paper_title": "Boundary-Guided Camouflaged Object Detection",
+        "author_names": "Yujia Sun, Shuo Wang, Chenglizhao Chen, Tian-Zhu Xiang"
+    },
+    {
+        "paper_title": "Dynamic Domain Generalization",
+        "author_names": "Zhishu Sun, Zhifeng Shen, Luojun Lin, Yuanlong Yu, Zhifeng Yang, Shicai Yang, Weijie Chen"
+    },
+    {
+        "paper_title": "Video Frame Interpolation Based on Deformable Kernel Region",
+        "author_names": "Haoyue Tian, Pan Gao, Xiaojiang Peng"
+    },
+    {
+        "paper_title": "Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting",
+        "author_names": "Yu Tian, Xingliang Huang, Ruigang Niu, Hongfeng Yu, Peijin Wang, Xian Sun"
+    },
+    {
+        "paper_title": "Automatic Recognition of Emotional Subgroups in Images",
+        "author_names": "Emmeke Veltmeijer, Charlotte Gerritsen, Koen Hindriks"
+    },
+    {
+        "paper_title": "Augmenting Anchors by the Detector Itself",
+        "author_names": "Xiaopei Wan, Guoqiu Li, Yujiu Yang, Zhenhua Guo"
+    },
+    {
+        "paper_title": "Absolute Wrong Makes Better: Boosting Weakly Supervised Object Detection via Negative Deterministic Information",
+        "author_names": "Guanchun Wang, Xiangrong Zhang, Zelin Peng, Xu Tang, Huiyu Zhou, Licheng Jiao"
+    },
+    {
+        "paper_title": "Iterative Few-shot Semantic Segmentation from Image Label Text",
+        "author_names": "Haohan Wang, Liang Liu, Wuhao Zhang, Jiangning Zhang, Zhenye Gan, Yabiao Wang, Chengjie Wang, Haoqian Wang"
+    },
+    {
+        "paper_title": "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds",
+        "author_names": "Heng Wang, Chaoyi Zhang, Jianhui Yu, Weidong Cai"
+    },
+    {
+        "paper_title": "Adaptive Convolutional Dictionary Network for CT Metal Artifact Reduction",
+        "author_names": "Hong Wang, Yuexiang Li, Deyu Meng, Yefeng Zheng"
+    },
+    {
+        "paper_title": "KUNet: Imaging Knowledge-Inspired Single HDR Image Reconstruction",
+        "author_names": "Hu Wang, Mao Ye, Xiatian Zhu, Shuai Li, Ce Zhu, Xue Li"
+    },
+    {
+        "paper_title": "I2CNet: An Intra- and Inter-Class Context Information Fusion Network for Blastocyst Segmentation",
+        "author_names": "Hua Wang, Linwei Qiu, Jingfei Hu, Jicong Zhang"
+    },
+    {
+        "paper_title": "PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation",
+        "author_names": "Jiahao Wang, Jie Qin, Yunhong Wang, Annan Li"
+    },
+    {
+        "paper_title": "Double-Check Soft Teacher for Semi-Supervised Object Detection",
+        "author_names": "Kuo Wang, Yuxiang Nie, Chaowei Fang, Chengzhi Han, Xuewen Wu, Xiaohui Wang Wang, Liang Lin, Fan Zhou, Guanbin Li"
+    },
+    {
+        "paper_title": "RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training",
+        "author_names": "Luya Wang, Feng Liang, Yangguang Li, Honggang Zhang, Wanli Ouyang, Jing Shao"
+    },
+    {
+        "paper_title": "Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation",
+        "author_names": "Tao Wang, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong"
+    },
+    {
+        "paper_title": "CARD: Semi-supervised Semantic Segmentation via Class-agnostic Relation based Denoising",
+        "author_names": "Xiaoyang Wang, Jimin Xiao, Bingfeng Zhang, Limin Yu"
+    },
+    {
+        "paper_title": "Corner Affinity: A Robust Grouping Algorithm  to Make Corner-guided Detector Great Again",
+        "author_names": "Haoran Wei, Chenglong Liu, Ping Guo, Yangguang Zhu, Jiamei Fu, Bing Wang, Peng Wang"
+    },
+    {
+        "paper_title": "Multi-scale Spatial Representation Learning via Recursive Hermite Polynomial Networks",
+        "author_names": "Lin (Yuanbo) Wu, Deyin Liu, Xiaojie Guo, Richang Hong, Liangchen Liu, Rui Zhang"
+    },
+    {
+        "paper_title": "A Decoder-free Transformer-like Architecture for High-efficiency Single Image Deraining",
+        "author_names": "Xiao Wu, Ting-Zhu Huang, Liang-Jian Deng, Tian-Jing Zhang"
+    },
+    {
+        "paper_title": "Eliminating Backdoor Triggers for Deep Neural Networks Using  Attention Relation Graph Distillation",
+        "author_names": "Jun Xia, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen"
+    },
+    {
+        "paper_title": "SCMT: Self-Correction Mean Teacher for Semi-supervised Object Detection",
+        "author_names": "Feng Xiong, Jiayi Tian, Zhihui Hao, Yulin He, Xiaofeng Ren"
+    },
+    {
+        "paper_title": "Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation",
+        "author_names": "Jiazhi Xu, Sheng Huang, Fengtao Zhou, Luwen Huangfu, Daniel Zeng, Bo Liu"
+    },
+    {
+        "paper_title": "Webly-Supervised Fine-Grained Recognition with Partial Label Learning",
+        "author_names": "Yu-Yan Xu, Yang Shen, Xiu-Shen Wei, Jian Yang"
+    },
+    {
+        "paper_title": "BiCo-Net: Regress Globally, Match Locally for Robust 6D Pose Estimation",
+        "author_names": "Zelin Xu, Yichen Zhang, Ke Chen, Kui Jia"
+    },
+    {
+        "paper_title": "Towards Adversarially Robust Deep Image Denoising",
+        "author_names": "Hanshu Yan, Jingfeng Zhang, Jiashi Feng, Masashi Sugiyama, Vincent Y. F. Tan"
+    },
+    {
+        "paper_title": "Weakening the Influence of Clothing: Universal Clothing Attribute Disentanglement for Person Re-Identification",
+        "author_names": "Yuming Yan, Huimin Yu, Shuzhao Li, Zhaohui Lu, Jianfeng He, Haozhuo Zhang, Runfa Wang"
+    },
+    {
+        "paper_title": "Multi-level Consistency Learning for Semi-supervised Domain Adaptation",
+        "author_names": "Zizheng Yan, Yushuang Wu, Guanbin Li, Yipeng Qin, Xiaoguang Han, Shuguang Cui"
+    },
+    {
+        "paper_title": "Perceptual Learned Video Compression with Recurrent Conditional GAN",
+        "author_names": "Ren Yang, Radu Timofte, Luc Van Gool"
+    },
+    {
+        "paper_title": "CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting",
+        "author_names": "Shaopeng Yang, Weiyu Guo, Yuheng Ren"
+    },
+    {
+        "paper_title": "Entity-aware and Motion-aware Transformers for Language-driven Action Localization",
+        "author_names": "Shuo Yang, Xinxiao Wu"
+    },
+    {
+        "paper_title": "Learning Prototype via Placeholder for Zero-shot Recognition",
+        "author_names": "Zaiquan Yang, Yang Liu, Wenjia Xu, Chong Huang, Lei Zhou, Chao Tong"
+    },
+    {
+        "paper_title": "Learning Implicit Body Representations from Double Diffusion Based Neural Radiance Fields",
+        "author_names": "Guangming Yao, Hongzhi Wu, Yi Yuan, Lincheng Li, Kun Zhou, Xin Yu"
+    },
+    {
+        "paper_title": "RAPQ: Rescuing Accuracy for Power-of-Two Low-bit  Post-training Quantization",
+        "author_names": "Hongyi Yao, Pu Li, Jian Cao, Xiangcheng Liu, Chenying Xie, Bingzhang Wang"
+    },
+    {
+        "paper_title": "Learning Sparse Interpretable Features For NAS Scoring From Liver Biopsy Images",
+        "author_names": "Chong Yin, Siqi Liu, Vincent Wai-Sun Wong, Pong C Yuen"
+    },
+    {
+        "paper_title": "Learning to Hash Naturally Sorts",
+        "author_names": "Jiaguo Yu, Yuming Shen, Menghan Wang, Haofeng Zhang, Philip H.S. Torr"
+    },
+    {
+        "paper_title": "Multi-Proxy Learning from an Entropy Optimization Perspective",
+        "author_names": "Yunlong Yu, Dingyi Zhang, Yingming Li, Zhongfei Zhang"
+    },
+    {
+        "paper_title": "To Fold or Not to Fold: a Necessary and Sufficient Condition on Batch-Normalization Layers Folding",
+        "author_names": "Edouard Yvinec, Arnaud Dapogny, Kevin Bailly"
+    },
+    {
+        "paper_title": "S2 Transformer for Image Captioning",
+        "author_names": "Pengpeng Zeng, Haonan Zhang, Jingkuan Song, Lianli Gao"
+    },
+    {
+        "paper_title": "Towards Universal Backward-Compatible Representation Learning",
+        "author_names": "Binjie Zhang, Yixiao Ge, Yantao Shen, Shupeng Su, Fanzi Wu, Chun Yuan, Xuyuan Xu, Yexin Wang, Ying Shan"
+    },
+    {
+        "paper_title": "Region-level Contrastive and Consistency Learning for Semi-Supervised Semantic Segmentation",
+        "author_names": "Jianrong Zhang, Tianyi Wu, Chuanghao Ding, Hongwei Zhao, Guodong Guo"
+    },
+    {
+        "paper_title": "Improving Transferability of Adversarial Examples with Virtual Step and Auxiliary Gradients",
+        "author_names": "Ming Zhang, Xiaohui Kuang, Hu Li, Zhendong Wu, Yuanping Nie, Gang Zhao"
+    },
+    {
+        "paper_title": "Plane Geometry Diagram Parsing",
+        "author_names": "Ming-Liang Zhang, Fei Yin, Yi-Han Hao, Cheng-Lin Liu"
+    },
+    {
+        "paper_title": "SAR-to-Optical Image Translation via Neural Partial Differential Equations",
+        "author_names": "Mingjin Zhang, Chengyu He, Jing Zhang, Yuxiang Yang, Xiaoqi Peng, Jie Guo"
+    },
+    {
+        "paper_title": "A Probabilistic Code Balance Constraint with Compactness and Informativeness Enhancement for Deep Supervised Hashing",
+        "author_names": "Qi Zhang, Liang Hu, Longbing Cao, Chongyang Shi, Shoujin Wang, Dora D. Liu"
+    },
+    {
+        "paper_title": "CATrans: Context and Affinity Transformer for Few-Shot Segmentation",
+        "author_names": "Shan Zhang, Tianyi Wu, Sitong Wu, Guodong Guo"
+    },
+    {
+        "paper_title": "Few-Shot Adaptation of Pre-Trained Networks for Domain Shift",
+        "author_names": "Wenyu Zhang, Li Shen, Wanyue Zhang, Chuan-Sheng Foo"
+    },
+    {
+        "paper_title": "Enhancing the Transferability of Adversarial Examples with Random Patch",
+        "author_names": "Yaoyuan Zhang, Yu-an Tan, Tian Chen, Xinrui Liu, Quanxin Zhang, Yuanzhang Li"
+    },
+    {
+        "paper_title": "Visual Emotion Representation Learning via Emotion-Aware Pre-training",
+        "author_names": "Yue Zhang, Wanying Ding, Ran Xu, Xiaohua Hu"
+    },
+    {
+        "paper_title": "Distilling Inter-Class Distance for Semantic Segmentation",
+        "author_names": "Zhengbo Zhang, Chunluan Zhou, Zhigang Tu"
+    },
+    {
+        "paper_title": "Domain Adversarial Learning for Color Constancy",
+        "author_names": "Zhifeng Zhang, Xuejing Kang, Anlong Ming"
+    },
+    {
+        "paper_title": "Domain Adaptation via Maximizing Surrogate Mutual Information",
+        "author_names": "Haiteng Zhao, Chang Ma, Qinyu Chen, Zhi-Hong Deng"
+    },
+    {
+        "paper_title": "C3-STISR: Scene Text Image Super-resolution with Triple Clues",
+        "author_names": "Minyi Zhao, Miao Wang, Fan Bai, Bingjia Li, Jie Wang, Shuigeng Zhou"
+    },
+    {
+        "paper_title": "Learning to Generate Image Source-Agnostic Universal Adversarial Perturbations",
+        "author_names": "Pu Zhao, Parikshit Ram, Songtao Lu, Yuguang Yao, Djallel Bouneffouf, Xue Lin, Sijia Liu"
+    },
+    {
+        "paper_title": "Test-time Fourier Style Calibration for Domain Generalization",
+        "author_names": "Xingchen Zhao, Chang Liu, Anthony Sicilia, Seong Jae Hwang, Yun Fu"
+    },
+    {
+        "paper_title": "Visual Similarity Attention",
+        "author_names": "Meng Zheng, Srikrishna Karanam, Terrence Chen, Richard J. Radke, Ziyan Wu"
+    },
+    {
+        "paper_title": "Imperceptible Backdoor Attack: From Input Space to Feature Representation",
+        "author_names": "Nan Zhong, Zhenxing Qian, Xinpeng Zhang"
+    },
+    {
+        "paper_title": "Rainy WCity: A Real Rainfall Dataset with Diverse Conditions for Semantic Driving Scene Understanding",
+        "author_names": "Xian Zhong, Shidong Tu, Xianzheng Ma, Kui Jiang, Wenxin Huang, Zheng Wang"
+    },
+    {
+        "paper_title": "HifiHead: One-Shot High Fidelity Neural Head Synthesis with 3D Control",
+        "author_names": "Feida Zhu, Junwei Zhu, Wenqing Chu, Ying Tai, Zhifeng Xie, Xiaoming Huang, Chengjie Wang"
+    },
+    {
+        "paper_title": "Hierarchical Bilevel Learning with Architecture and Loss Search for Hadamard-based Image Restoration",
+        "author_names": "Guijing Zhu, Long Ma, Xin Fan, Risheng Liu"
+    },
+    {
+        "paper_title": "A Solver + Gradient Descent Training Algorithm for Deep Neural Networks",
+        "author_names": "Dhananjay Ashok, Vineel Nagisetty, Christopher Srinivasa, Vijay Ganesh"
+    },
+    {
+        "paper_title": "Fine-grained Complexity of Partial Minimum Satisfiability",
+        "author_names": "Ivan Bliznets, Danil Sagunov, Kirill Simonov"
+    },
+    {
+        "paper_title": "QCDCL with Cube Learning or Pure Literal Elimination - What is Best?",
+        "author_names": "Benjamin B\u00f6hm, Tom\u00e1\u0161 Peitl, Olaf Beyersdorff"
+    },
+    {
+        "paper_title": "Combining Constraint Solving and Bayesian Techniques for System Optimization",
+        "author_names": "Franz Brau\u00dfe, Zurab Khasidashvili, Konstantin Korovin"
+    },
+    {
+        "paper_title": "DPSampler: Exact Weighted Sampling Using Dynamic Programming",
+        "author_names": "Jeffrey M. Dudek, Aditya A. Shrotri, Moshe Y. Vardi"
+    },
+    {
+        "paper_title": "A Multivariate Complexity Analysis of Qualitative Reasoning Problems",
+        "author_names": "Leif Eriksson, Victor Lagerkvist"
+    },
+    {
+        "paper_title": "Accelerated Multiplicative Weights Update Avoids Saddle Points Almost Always",
+        "author_names": "Yi Feng, Ioannis Panageas, Xiao Wang"
+    },
+    {
+        "paper_title": "Large Neighbourhood Search for Anytime MaxSAT Solving",
+        "author_names": "Randy Hickey, Fahiem Bacchus"
+    },
+    {
+        "paper_title": "Online Matching with Controllable Rewards and Arrival Probabilities",
+        "author_names": "Yuya Hikima, Yasunori Akagi, Naoki Marumo, Hideaki Kim"
+    },
+    {
+        "paper_title": "Encoding Probabilistic Graphical Models into Stochastic Boolean Satisfiability",
+        "author_names": "Cheng-Han Hsieh, Jie-Hong R. Jiang"
+    },
+    {
+        "paper_title": "Degradation Accordant Plug-and-Play for Low-Rank Tensor Completion",
+        "author_names": "Yexun Hu, Tai-Xiang Jiang, Xi-Le Zhao"
+    },
+    {
+        "paper_title": "Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies",
+        "author_names": "Mikhail Kazdagli, Mohit Tiwari, Akshat Kumar"
+    },
+    {
+        "paper_title": "Best Heuristic Identification for Constraint Satisfaction",
+        "author_names": "Frederic Koriche, Christophe Lecoutre, Anastasia Paparrizou, Hugues Wattez"
+    },
+    {
+        "paper_title": "AllSATCC: Boosting AllSAT Solving with Efficient Component Analysis",
+        "author_names": "Jiaxin Liang, Feifei Ma, Junping Zhou, Minghao Yin"
+    },
+    {
+        "paper_title": "Automated Program Analysis: Revisiting Precondition Inference through Constraint Acquisition",
+        "author_names": "Gr\u00e9goire Menguy, S\u00e9bastien Bardin, Nadjib Lazaar, Arnaud Gotlieb"
+    },
+    {
+        "paper_title": "Threshold-free Pattern Mining Meets Multi-Objective Optimization: Application to Association Rules",
+        "author_names": "Charles Vernerey, Samir Loudni, Noureddine Aribi, Yahia Lebbah"
+    },
+    {
+        "paper_title": "An Exact MaxSAT Algorithm: Further Observations and Further Improvements",
+        "author_names": "Mingyu Xiao"
+    },
+    {
+        "paper_title": "Inverting 43-step MD4 via Cube-and-Conquer",
+        "author_names": "Oleg Zaikin"
+    },
+    {
+        "paper_title": "BandMaxSAT: A Local Search MaxSAT Solver with Multi-armed Bandit",
+        "author_names": "Jiongzhi Zheng, Kun He, Jianrong Zhou, Yan Jin, Chu-Min Li, Felip Many\u00e0"
+    },
+    {
+        "paper_title": "A Strengthened Branch and Bound Algorithm for the Maximum Common (Connected) Subgraph Problem",
+        "author_names": "Jianrong Zhou, Kun He, Jiongzhi Zheng, Chu-Min Li, Yanli Liu"
+    },
+    {
+        "paper_title": "Doubly Sparse Asynchronous Learning for Stochastic Composite Optimization",
+        "author_names": "Runxue Bao, Xidong Wu, Wenhan Xian, Heng Huang"
+    },
+    {
+        "paper_title": "Hypergraph Structure Learning for Hypergraph Neural Networks",
+        "author_names": "Derun Cai, Moxian Song, Chenxi Sun, Baofeng Zhang, Shenda Hong, Hongyan Li"
+    },
+    {
+        "paper_title": "Entity Alignment with Reliable Path Reasoning and Relation-aware Heterogeneous Graph Transformer",
+        "author_names": "Weishan Cai, Wenjun Ma, Jieyu Zhan, Yuncheng Jiang"
+    },
+    {
+        "paper_title": "Non-Euclidean Self-Organizing Maps",
+        "author_names": "Dorota Celi\u0144ska-Kopczy\u0144ska, Eryk Kopczy\u0144ski"
+    },
+    {
+        "paper_title": "Can Abnormality be Detected by Graph Neural Networks?",
+        "author_names": "Ziwei Chai, Siqi You, Yang Yang, Shiliang Pu, Jiarong Xu, Haoyang Cai, Weihao Jiang"
+    },
+    {
+        "paper_title": "Robust High-Dimensional Classification From Few Positive Examples",
+        "author_names": "Deepayan Chakrabarti, Benjamin Fauber"
+    },
+    {
+        "paper_title": "Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification",
+        "author_names": "Chaochao Chen, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia Wu, Bingzhe Wu, Ziqi Liu, Li Wang, Xiaolin Zheng"
+    },
+    {
+        "paper_title": "Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting",
+        "author_names": "Mingyang Chen, Wen Zhang, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei Huang, Huajun Chen"
+    },
+    {
+        "paper_title": "Mutual Distillation Learning Network for Trajectory-User Linking",
+        "author_names": "Wei Chen, ShuZhe Li, Chao Huang, Yanwei Yu, Yongguo Jiang, Junyu Dong"
+    },
+    {
+        "paper_title": "Towards Robust Dense Retrieval via Local Ranking Alignment",
+        "author_names": "Xuanang Chen, Jian Luo, Ben He, Le Sun, Yingfei Sun"
+    },
+    {
+        "paper_title": "Filtration-Enhanced Graph Transformation",
+        "author_names": "Zijian Chen, Rong-Hua Li, Hongchao Qin, Huanzhong Duan, Yanxiong Lu, Qiangqiang Dai, Guoren Wang"
+    },
+    {
+        "paper_title": "Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting",
+        "author_names": "Razvan-Gabriel Cirstea, Chenjuan Guo, Bin Yang, Tung Kieu, Xuanyi Dong, Shirui Pan"
+    },
+    {
+        "paper_title": "CADET: Calibrated Anomaly Detection for Mitigating Hardness Bias",
+        "author_names": "Ailin Deng, Adam Goodge, Lang Yi Ang, Bryan Hooi"
+    },
+    {
+        "paper_title": "Private Semi-Supervised Federated Learning",
+        "author_names": "Chenyou Fan, Junjie Hu, Jianwei Huang"
+    },
+    {
+        "paper_title": "Feature and Instance Joint Selection: A Reinforcement Learning Perspective",
+        "author_names": "Wei Fan, Kunpeng Liu, Hao Liu, Hengshu Zhu, Hui Xiong, Yanjie Fu"
+    },
+    {
+        "paper_title": "MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation",
+        "author_names": "Yu Fan, Jiajie Xu, Rui Zhou, Jianxin Li, Kai Zheng, Lu Chen, Chengfei Liu"
+    },
+    {
+        "paper_title": "When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal Adaptation Matters",
+        "author_names": "Ziquan Fang, Dongen Wu, Lu Pan, Lu Chen, Yunjun Gao"
+    },
+    {
+        "paper_title": "Disentangling the Computational Complexity of Network Untangling",
+        "author_names": "Vincent Froese, Pascal Kunz, Philipp Zschoche"
+    },
+    {
+        "paper_title": "Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure",
+        "author_names": "Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li"
+    },
+    {
+        "paper_title": "Self-supervised Graph Neural Networks for Multi-behavior Recommendation",
+        "author_names": "Shuyun Gu, Xiao Wang, Chuan Shi, Ding Xiao"
+    },
+    {
+        "paper_title": "Constrained Adaptive Projection with Pretrained Features for Anomaly Detection",
+        "author_names": "Xingtai Gui, Di Wu, Yang Chang, Shicai Fan"
+    },
+    {
+        "paper_title": "Quaternion Ordinal Embedding",
+        "author_names": "Wenzheng Hou, Qianqian Xu, Ke Ma, Qianxiu Hao, Qingming Huang"
+    },
+    {
+        "paper_title": "MERIT: Learning Multi-level Representations on Temporal Graphs",
+        "author_names": "Binbin Hu, Zhengwei Wu, Jun Zhou, Ziqi Liu, Zhigang Huangfu, Zhiqiang Zhang, Chaochao Chen"
+    },
+    {
+        "paper_title": "GraphDIVE: Graph Classification by Mixture of Diverse Experts",
+        "author_names": "Fenyu Hu, Liping Wang, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan"
+    },
+    {
+        "paper_title": "End-to-End Open-Set Semi-Supervised Node Classification with Out-of-Distribution Detection",
+        "author_names": "Tiancheng Huang, Donglin Wang, Yuan Fang, Zhengyu Chen"
+    },
+    {
+        "paper_title": "A Sparse-Motif Ensemble Graph Convolutional Network against Over-smoothing",
+        "author_names": "Xuan Jiang, Zhiyong Yang, Peisong Wen, Li Su, Qingming Huang"
+    },
+    {
+        "paper_title": "CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning",
+        "author_names": "Di Jin, Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan"
+    },
+    {
+        "paper_title": "RAW-GNN: RAndom Walk Aggregation based Graph Neural Network",
+        "author_names": "Di Jin, Rui Wang, Meng Ge, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang"
+    },
+    {
+        "paper_title": "Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs",
+        "author_names": "Hongwei Jin, Xun Chen"
+    },
+    {
+        "paper_title": "TGNN: A Joint Semi-supervised Framework for Graph-level Classification",
+        "author_names": "Wei Ju, Xiao Luo, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang"
+    },
+    {
+        "paper_title": "HashNWalk: Hash and Random Walk Based Anomaly Detection in Hyperedge Streams",
+        "author_names": "Geon Lee, Minyoung Choe, Kijung Shin"
+    },
+    {
+        "paper_title": "MLP4Rec: A Pure MLP Architecture for Sequential Recommendations",
+        "author_names": "Muyang Li, Xiangyu Zhao, Chuan Lyu, Minghao Zhao, Runze Wu, Ruocheng Guo"
+    },
+    {
+        "paper_title": "Community Question Answering Entity Linking via Leveraging Auxiliary Data",
+        "author_names": "Yuhan Li, Wei Shen, Jianbo Gao, Yadong Wang"
+    },
+    {
+        "paper_title": "TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning",
+        "author_names": "Yujia Li, Shiliang Sun, Jing Zhao"
+    },
+    {
+        "paper_title": "Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback",
+        "author_names": "Fangyuan Luo, Jun Wu, Tao Wang"
+    },
+    {
+        "paper_title": "Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning",
+        "author_names": "Jun Luo, Shandong Wu"
+    },
+    {
+        "paper_title": "Reconciling Cognitive Modeling with Knowledge Forgetting: A Continuous Time-aware Neural Network Approach",
+        "author_names": "Haiping Ma, Jingyuan Wang, Hengshu Zhu, Xin Xia, Haifeng Zhang, Xingyi Zhang, Lei Zhang"
+    },
+    {
+        "paper_title": "Continual Federated Learning Based on Knowledge Distillation",
+        "author_names": "Yuhang Ma, Zhongle Xie, Jue Wang, Ke Chen, Lidan Shou"
+    },
+    {
+        "paper_title": "Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data",
+        "author_names": "Chuizheng Meng, Hao Niu, Guillaume Habault, Roberto Legaspi, Shinya Wada, Chihiro Ono, Yan Liu"
+    },
+    {
+        "paper_title": "Raising the Bar in Graph-level Anomaly Detection",
+        "author_names": "Chen Qiu, Marius Kloft, Stephan Mandt, Maja Rudolph"
+    },
+    {
+        "paper_title": "Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios",
+        "author_names": "Dazhong Rong, Qinming He, Jianhai Chen"
+    },
+    {
+        "paper_title": "Towards Resolving Propensity Contradiction in Offline Recommender Learning",
+        "author_names": "Yuta Saito, Masahiro Nomura"
+    },
+    {
+        "paper_title": "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features",
+        "author_names": "Xinyi Shang, Yang Lu, Gang Huang, Hanzi Wang"
+    },
+    {
+        "paper_title": "Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention",
+        "author_names": "Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, Flora Salim"
+    },
+    {
+        "paper_title": "Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network",
+        "author_names": "Yifei Sun, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, Lei Chen"
+    },
+    {
+        "paper_title": "Personalized Federated Learning with Contextualized Generalization",
+        "author_names": "Xueyang Tang, Song Guo, Jingcai Guo"
+    },
+    {
+        "paper_title": "Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion",
+        "author_names": "Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang"
+    },
+    {
+        "paper_title": "Anomaly Detection by Leveraging Incomplete Anomalous Knowledge with Anomaly-Aware Bidirectional GANs",
+        "author_names": "Bowen Tian, Qinliang Su, Jian Yin"
+    },
+    {
+        "paper_title": "MEIM: Multi-partition Embedding Interaction Beyond Block Term Format for Efficient and Expressive Link Prediction",
+        "author_names": "Hung-Nghiep Tran, Atsuhiro Takasu"
+    },
+    {
+        "paper_title": "HCFRec: Hash Collaborative Filtering via Normalized Flow with Structural Consensus for Efficient Recommendation",
+        "author_names": "Fan Wang, Weiming Liu, Chaochao Chen, Mengying Zhu, Xiaolin Zheng"
+    },
+    {
+        "paper_title": "Augmenting Knowledge Graphs for Better Link Prediction",
+        "author_names": "Jiang Wang, Filip Ilievski, Pedro Szekely, Ke-Thia Yao"
+    },
+    {
+        "paper_title": "FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs",
+        "author_names": "Song Wang, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li"
+    },
+    {
+        "paper_title": "Language Models as Knowledge Embeddings",
+        "author_names": "Xintao Wang, Qianyu He, Jiaqing Liang, Yanghua Xiao"
+    },
+    {
+        "paper_title": "Ensemble Multi-Relational Graph Neural Networks",
+        "author_names": "Yuling Wang, Hao Xu, Yanhua Yu, Mengdi Zhang, Zhenhao Li, Yuji Yang, Wei Wu"
+    },
+    {
+        "paper_title": "CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for Single-Corpus and Cross-Corpus Speech Emotion Recognition",
+        "author_names": "Xin-Cheng Wen, JiaXin Ye, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu"
+    },
+    {
+        "paper_title": "Multi-Graph Fusion Networks for Urban Region Embedding",
+        "author_names": "Shangbin Wu, Xu Yan, Xiaoliang Fan, Shirui Pan, Shichao Zhu, Chuanpan Zheng, Ming Cheng, Cheng Wang"
+    },
+    {
+        "paper_title": "Understanding and Mitigating Data Contamination in Deep Anomaly Detection: A Kernel-based Approach",
+        "author_names": "Shuang Wu, Jingyu Zhao, Guangjian Tian"
+    },
+    {
+        "paper_title": "Decentralized Unsupervised Learning of Visual Representations",
+        "author_names": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Meng Li, Yiyu Shi, Jingtong Hu"
+    },
+    {
+        "paper_title": "FedCG: Leverage Conditional GAN for Protecting Privacy and Maintaining Competitive Performance in Federated Learning",
+        "author_names": "Yuezhou Wu, Yan Kang, Jiahuan Luo, Yuanqin He, Lixin Fan, Rong Pan, Qiang Yang"
+    },
+    {
+        "paper_title": "Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs",
+        "author_names": "Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan"
+    },
+    {
+        "paper_title": "GOCPT: Generalized Online Canonical Polyadic Tensor Factorization and Completion",
+        "author_names": "Chaoqi Yang, Cheng Qian, Jimeng Sun"
+    },
+    {
+        "paper_title": "Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach",
+        "author_names": "Chenxiao Yang, Qitian Wu, Jipeng Jin, Xiaofeng Gao, Junwei Pan, Guihai Chen"
+    },
+    {
+        "paper_title": "Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting",
+        "author_names": "Hongyuan Yu, Ting Li, Weichen Yu, Jianguo Li, Yan Huang, Liang Wang, Alex Liu"
+    },
+    {
+        "paper_title": "CERT: Continual Pre-training on Sketches for Library-oriented Code Generation",
+        "author_names": "Daoguang Zan, Bei Chen, Dejian Yang, Zeqi Lin, Minsu Kim, Bei Guan, Yongji Wang, Weizhu Chen, Jian-Guang Lou"
+    },
+    {
+        "paper_title": "Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks",
+        "author_names": "Jiaqiang Zhang, Senzhang Wang, Songcan Chen"
+    },
+    {
+        "paper_title": "Dynamic Graph Learning Based on Hierarchical Memory for Origin-Destination Demand Prediction",
+        "author_names": "Ruixing Zhang, Liangzhe Han, Boyi Liu, Jiayuan Zeng, Leilei Sun"
+    },
+    {
+        "paper_title": "GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning",
+        "author_names": "Weiqi Zhang, Chen Zhang, Fugee Tsung"
+    },
+    {
+        "paper_title": "Enhancing Sequential Recommendation with Graph Contrastive Learning",
+        "author_names": "Yixin Zhang, Yong Liu, Yonghui Xu, Hao Xiong, Chenyi Lei, Wei He, Lizhen Cui, Chunyan Miao"
+    },
+    {
+        "paper_title": "T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification",
+        "author_names": "Pu Zhao, Chuan Luo, Bo Qiao, Lu Wang, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang"
+    },
+    {
+        "paper_title": "MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection",
+        "author_names": "Jiaqi Zheng, Xi Zhang, Sanchuan Guo, Quan Wang, Wenyu Zang, Yongdong Zhang"
+    },
+    {
+        "paper_title": "Table2Graph: Transforming Tabular Data to Unified Weighted Graph",
+        "author_names": "Kaixiong Zhou, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, Xia Hu"
+    },
+    {
+        "paper_title": "Bridging Differential Privacy and Byzantine-Robustness via Model Aggregation",
+        "author_names": "Heng Zhu, Qing Ling"
+    },
+    {
+        "paper_title": "Spiking Graph Convolutional Networks",
+        "author_names": "Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo"
+    },
+    {
+        "paper_title": "Data-Free Adversarial Knowledge Distillation for Graph Neural Networks",
+        "author_names": "Yuanxin Zhuang, Lingjuan Lyu, Chuan Shi, Carl Yang, Lichao Sun"
+    },
+    {
+        "paper_title": "Proximity Enhanced Graph Neural Networks with Channel Contrast",
+        "author_names": "Wei Zhuo, Guang Tan"
+    },
+    {
+        "paper_title": "On the Utility of Prediction Sets in Human-AI Teams",
+        "author_names": "Varun Babbar, Umang Bhatt, Adrian Weller"
+    },
+    {
+        "paper_title": "Multi-Tier Platform for Cognizing Massive Electroencephalogram",
+        "author_names": "Zheng Chen, Lingwei Zhu, Ziwei Yang, Renyuan Zhang"
+    },
+    {
+        "paper_title": "Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks",
+        "author_names": "Lang Feng, Qianhui Liu, Huajin Tang, De Ma, Gang Pan"
+    },
+    {
+        "paper_title": "Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts",
+        "author_names": "Patrick Hemmer, Sebastian Schellhammer, Michael V\u00f6ssing, Johannes Jakubik, Gerhard Satzger"
+    },
+    {
+        "paper_title": "Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes",
+        "author_names": "Yang Li, Yi Zeng"
+    },
+    {
+        "paper_title": "Semi-Supervised Imitation Learning of Team Policies from Suboptimal Demonstrations",
+        "author_names": "Sangwon Seo, Vaibhav V. Unhelkar"
+    },
+    {
+        "paper_title": "Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion",
+        "author_names": "Yuchen Wang, Malu Zhang, Yi Chen, Hong Qu"
+    },
+    {
+        "paper_title": "Rethinking InfoNCE: How Many Negative Samples Do You Need?",
+        "author_names": "Chuhan Wu, Fangzhao Wu, Yongfeng Huang"
+    },
+    {
+        "paper_title": "On Preferences and Priority Rules in Abstract Argumentation",
+        "author_names": "Gianvincenzo Alfano, Sergio Greco, Francesco Parisi, Irina Trubitsyna"
+    },
+    {
+        "paper_title": "Beyond Strong-Cyclic: Doing Your Best in Stochastic Environments",
+        "author_names": "Benjamin Aminof, Giuseppe De Giacomo, Sasha Rubin, Florian Zuleger"
+    },
+    {
+        "paper_title": "Annotated Sequent Calculi for Paraconsistent Reasoning and Their Relations to Logical Argumentation",
+        "author_names": "Ofer Arieli, Kees van Berkel, Christian Stra\u00dfer"
+    },
+    {
+        "paper_title": "Limits and Possibilities of Forgetting in Abstract Argumentation",
+        "author_names": "Ringo Baumann, Matti Berthold"
+    },
+    {
+        "paper_title": "Body-Decoupled Grounding via Solving: A Novel Approach on the ASP Bottleneck",
+        "author_names": "Viktor Besin, Markus Hecher, Stefan Woltran"
+    },
+    {
+        "paper_title": "Verification and Monitoring for First-Order LTL with Persistence-Preserving Quantification over Finite and Infinite Traces",
+        "author_names": "Diego Calvanese, Giuseppe De Giacomo, Marco Montali, Fabio Patrizi"
+    },
+    {
+        "paper_title": "The Limits of Morality in Strategic Games",
+        "author_names": "Rui Cao, Pavel Naumov"
+    },
+    {
+        "paper_title": "On Verifying Expectations and Observations of Intelligent Agents",
+        "author_names": "Sourav Chakraborty, Avijeet Ghosh, Sujata Ghosh, Fran\u00e7ois Schwarzentruber"
+    },
+    {
+        "paper_title": "Personalized Federated Learning With a Graph",
+        "author_names": "Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang"
+    },
+    {
+        "paper_title": "On the Complexity of Enumerating Prime Implicants from Decision-DNNF Circuits",
+        "author_names": "Alexis de Colnet, Pierre Marquis"
+    },
+    {
+        "paper_title": "LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work",
+        "author_names": "Giuseppe De Giacomo, Marco Favorito, Jianwen Li, Moshe Y. Vardi, Shengping Xiao, Shufang Zhu"
+    },
+    {
+        "paper_title": "Epistemic Logic of Likelihood and Belief",
+        "author_names": "James P. Delgrande, Joshua Sack, Gerhard Lakemeyer, Maurice Pagnucco"
+    },
+    {
+        "paper_title": "LTL on Weighted Finite Traces: Formal Foundations and Algorithms",
+        "author_names": "Carmine Dodaro, Valeria Fionda, Gianluigi Greco"
+    },
+    {
+        "paper_title": "Abstract Argumentation Frameworks with Marginal Probabilities",
+        "author_names": "Bettina Fazzinga, Sergio Flesca, Filippo Furfaro"
+    },
+    {
+        "paper_title": "Plausibility Reasoning via Projected Answer Set Counting - A Hybrid Approach",
+        "author_names": "Johannes K. Fichte, Markus Hecher, Mohamed A. Nadeem"
+    },
+    {
+        "paper_title": "Frontiers and Exact Learning of ELI Queries under DL-Lite Ontologies",
+        "author_names": "Maurice Funk, Jean Christoph Jung, Carsten Lutz"
+    },
+    {
+        "paper_title": "Simulating Sets in Answer Set Programming",
+        "author_names": "Sarah Alice Gaggl, Philipp Hanisch, Markus Kr\u00f6tzsch"
+    },
+    {
+        "paper_title": "Linear Temporal Logic Modulo Theories over Finite Traces",
+        "author_names": "Luca Geatti, Alessandro Gianola, Nicola Gigante"
+    },
+    {
+        "paper_title": "A Computationally Grounded Logic of 'Seeing-to-it-that'",
+        "author_names": "Andreas Herzig, Emiliano Lorini, Elise Perrotin"
+    },
+    {
+        "paper_title": "Possibilistic Logic Underlies Abstract Dialectical Frameworks",
+        "author_names": "Jesse Heyninck, Gabriele Kern-Isberner, Tjitze Rienstra, Kenneth Skiba, Matthias Thimm"
+    },
+    {
+        "paper_title": "Lexicographic Entailment, Syntax Splitting and the Drowning Problem",
+        "author_names": "Jesse Heyninck, Gabriele Kern-Isberner, Thomas Meyer"
+    },
+    {
+        "paper_title": "Computing Concept Referring Expressions for Queries on Horn ALC Ontologies",
+        "author_names": "Moritz Illich, Birte Glimm"
+    },
+    {
+        "paper_title": "The Egocentric Logic of Preferences",
+        "author_names": "Junli Jiang, Pavel Naumov"
+    },
+    {
+        "paper_title": "In Data We Trust: The Logic of Trust-Based Beliefs",
+        "author_names": "Junli Jiang, Pavel Naumov"
+    },
+    {
+        "paper_title": "Conditional Independence for Iterated Belief Revision",
+        "author_names": "Gabriele Kern-Isberner, Jesse Heyninck, Christoph Beierle"
+    },
+    {
+        "paper_title": "Search Space Expansion for Efficient Incremental Inductive Logic Programming from Streamed Data",
+        "author_names": "Mark Law, Krysia Broda, Alessandra Russo"
+    },
+    {
+        "paper_title": "Explanations for Negative Query Answers under Inconsistency-Tolerant Semantics",
+        "author_names": "Thomas Lukasiewicz, Enrico Malizia, Cristian Molinaro"
+    },
+    {
+        "paper_title": "Causes of Effects: Learning Individual Responses from Population Data",
+        "author_names": "Scott Mueller, Ang Li, Judea Pearl"
+    },
+    {
+        "paper_title": "Inverse Problems for Gradual Semantics",
+        "author_names": "Nir Oren, Bruno Yun, Srdjan Vesic, Murilo Baptista"
+    },
+    {
+        "paper_title": "Learning Higher-Order Logic Programs From Failures",
+        "author_names": "Stanis\u0142aw J. Purga\u0142, David M. Cerna, Cezary Kaliszyk"
+    },
+    {
+        "paper_title": "Revision by Comparison for Ranking Functions",
+        "author_names": "Meliha Sezgin, Gabriele Kern-Isberner"
+    },
+    {
+        "paper_title": "Considering  Constraint Monotonicity and Foundedness in Answer Set Programming",
+        "author_names": "Yi-Dong Shen, Thomas Eiter"
+    },
+    {
+        "paper_title": "Updating Probability Intervals with Uncertain Inputs",
+        "author_names": "Karim Tabia"
+    },
+    {
+        "paper_title": "Simple and Effective Relation-based Embedding Propagation for Knowledge Representation Learning",
+        "author_names": "Huijuan Wang, Siming Dai, Weiyue Su, Hui Zhong, Zeyang Fang, Zhengjie Huang, Shikun Feng, Zeyu Chen, Yu Sun, Dianhai Yu"
+    },
+    {
+        "paper_title": "Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention",
+        "author_names": "Yichong Xu, Chenguang Zhu, Shuohang Wang, Siqi Sun, Hao Cheng, Xiaodong Liu, Jianfeng Gao, Pengcheng He, Michael Zeng, Xuedong Huang"
+    },
+    {
+        "paper_title": "GL-RG: Global-Local Representation Granularity for Video Captioning",
+        "author_names": "Liqi Yan, Qifan Wang, Yiming Cui, Fuli Feng, Xiaojun Quan, Xiangyu Zhang, Dongfang Liu"
+    },
+    {
+        "paper_title": "FedDUAP: Federated Learning with Dynamic Update and Adaptive Pruning Using Shared Data on the Server",
+        "author_names": "Hong Zhang, Ji Liu, Juncheng Jia, Yang Zhou, Huaiyu Dai, Dejing Dou"
+    },
+    {
+        "paper_title": "Synthesis of Maximally Permissive Strategies for LTLf Specifications",
+        "author_names": "Shufang Zhu, Giuseppe De Giacomo"
+    },
+    {
+        "paper_title": "Learning Label Initialization for Time-Dependent Harmonic Extension.",
+        "author_names": "Amitoz Azad"
+    },
+    {
+        "paper_title": "Fixed-Budget Best-Arm Identification in Structured Bandits",
+        "author_names": "MohammadJavad Azizi, Branislav Kveton, Mohammad Ghavamzadeh"
+    },
+    {
+        "paper_title": "One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model",
+        "author_names": "Wonho Bae, Junhyug Noh, Milad Jalali Asadabadi, Danica J. Sutherland"
+    },
+    {
+        "paper_title": "Logit Mixing Training for More Reliable and Accurate Prediction",
+        "author_names": "Duhyeon Bang, Kyungjune Baek, Jiwoo Kim, Yunho Jeon, Jin-Hwa Kim, Jiwon Kim, Jongwuk Lee, Hyunjung Shim"
+    },
+    {
+        "paper_title": "Adversarial Explanations for Knowledge Graph Embeddings",
+        "author_names": "Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt"
+    },
+    {
+        "paper_title": "Not a Number: Identifying Instance Features for Capability-Oriented Evaluation",
+        "author_names": "Ryan Burnell, John Burden, Danaja Rutar, Konstantinos Voudouris, Lucy Cheke, Jos\u00e9 Hern\u00e1ndez-Orallo"
+    },
+    {
+        "paper_title": "Posistive-Unlabeled Learning via Optimal Transport and Margin Distribution",
+        "author_names": "Nan Cao, Teng Zhang, Xuanhua Shi, Hai Jin"
+    },
+    {
+        "paper_title": "Neural Contextual Anomaly Detection for Time Series",
+        "author_names": "Chris U. Carmona, Fran\u00e7ois-Xavier Aubet, Valentin Flunkert, Jan Gasthaus"
+    },
+    {
+        "paper_title": "Rethinking the Promotion Brought by Contrastive Learning to Semi-Supervised Node Classification",
+        "author_names": "Deli Chen, Yankai Lin, Lei Li, Xuancheng Ren, Peng Li, Jie Zhou, Xu Sun"
+    },
+    {
+        "paper_title": "Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera",
+        "author_names": "Shiyan Chen, Chaoteng Duan, Zhaofei Yu, Ruiqin Xiong, Tiejun Huang"
+    },
+    {
+        "paper_title": "DDDM: A Brain-Inspired Framework for Robust Classification",
+        "author_names": "Xiyuan Chen, Xingyu Li, Yi Zhou, Tianming Yang"
+    },
+    {
+        "paper_title": "Better Embedding and More Shots for Few-shot Learning",
+        "author_names": "Ziqiu Chi, Zhe Wang, Mengping Yang, Wei Guo, Xinlei Xu"
+    },
+    {
+        "paper_title": "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning",
+        "author_names": "Yae Jee Cho, Andre Manoel, Gauri Joshi, Robert Sim, Dimitrios Dimitriadis"
+    },
+    {
+        "paper_title": "Can We Find Neurons that Cause Unrealistic Images in Deep Generative Networks?",
+        "author_names": "Hwanil Choi, Wonjoon Chang, Jaesik Choi"
+    },
+    {
+        "paper_title": "Geometric Transformer for End-to-End Molecule Properties Prediction",
+        "author_names": "Yoni Choukroun, Lior Wolf"
+    },
+    {
+        "paper_title": "Multiband VAE: Latent Space Alignment for Knowledge Consolidation in Continual Learning",
+        "author_names": "Kamil Deja, Pawe\u0142 Wawrzy\u0144ski, Wojciech Masarczyk, Daniel Marczak, Tomasz Trzci\u0144ski"
+    },
+    {
+        "paper_title": "Reinforcement Learning with Option Machines",
+        "author_names": "Floris den Hengst, Vincent Francois-Lavet, Mark Hoogendoorn, Frank van Harmelen"
+    },
+    {
+        "paper_title": "Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts",
+        "author_names": "Prathamesh Deshpande, Sunita Sarawagi"
+    },
+    {
+        "paper_title": "Taylor-Lagrange Neural Ordinary Differential Equations: Toward Fast Training and Evaluation of Neural ODEs",
+        "author_names": "Franck Djeumou, Cyrus Neary, Eric Goubault, Sylvie Putot, Ufuk Topcu"
+    },
+    {
+        "paper_title": "Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images",
+        "author_names": "Nanqing Dong, Matteo Maggioni, Yongxin Yang, Eduardo P\u00e9rez-Pellitero, Ales Leonardis, Steven McDonagh"
+    },
+    {
+        "paper_title": "Function-words Adaptively Enhanced Attention Networks for Few-Shot Inverse Relation Classification",
+        "author_names": "Chunliu Dou, Shaojuan Wu, Xiaowang Zhang, Zhiyong Feng, Kewen Wang"
+    },
+    {
+        "paper_title": "Multi-Vector Embedding on Networks with Taxonomies",
+        "author_names": "Yue Fan, Xiuli Ma"
+    },
+    {
+        "paper_title": "Learning Unforgotten Domain-Invariant Representations for Online Unsupervised Domain Adaptation",
+        "author_names": "Cheng Feng, Chaoliang Zhong, Jie Wang, Ying Zhang, Jun Sun, Yasuto Yokota"
+    },
+    {
+        "paper_title": "Comparison Knowledge Translation for Generalizable Image Classification",
+        "author_names": "Zunlei Feng, Tian Qiu, Sai Wu, Xiaotuan Jin, Zengliang He, Mingli Song, Huiqiong Wang"
+    },
+    {
+        "paper_title": "Non-Cheating Teaching Revisited: A New Probabilistic Machine Teaching Model",
+        "author_names": "C\u00e8sar Ferri, Jos\u00e9 Hern\u00e1ndez-Orallo, Jan Arne Telle"
+    },
+    {
+        "paper_title": "DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data",
+        "author_names": "Asadullah Hill Galib, Andrew McDonald, Tyler Wilson, Lifeng Luo, Pang-Ning Tan"
+    },
+    {
+        "paper_title": "Multi-view Unsupervised Graph Representation Learning",
+        "author_names": "Jiangzhang Gan, Rongyao Hu, Mengmeng Zhan, Yujie Mo, Yingying Wan, Xiaofeng Zhu"
+    },
+    {
+        "paper_title": "A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification",
+        "author_names": "Ge Gao, Qitong Gao, Xi Yang, Miroslav Pajic, Min Chi"
+    },
+    {
+        "paper_title": "Bootstrapping Informative Graph Augmentation via A Meta Learning Approach",
+        "author_names": "Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Fuchun Sun, Changwen Zheng"
+    },
+    {
+        "paper_title": "Learning First-Order Rules with Differentiable Logic Program Semantics",
+        "author_names": "Kun Gao, Katsumi Inoue, Yongzhi Cao, Hanpin Wang"
+    },
+    {
+        "paper_title": "Attributed Graph Clustering with Dual Redundancy Reduction",
+        "author_names": "Lei Gong, Sihang Zhou, Wenxuan Tu, Xinwang Liu"
+    },
+    {
+        "paper_title": "Sample Complexity Bounds for Robustly Learning Decision Lists against Evasion Attacks",
+        "author_names": "Pascale Gourdeau, Varun Kanade, Marta Kwiatkowska, James Worrell"
+    },
+    {
+        "paper_title": "RoboGNN:  Robustifying Node Classification under Link Perturbation",
+        "author_names": "Sheng Guan, Hanchao Ma, Yinghui Wu"
+    },
+    {
+        "paper_title": "Option Transfer and SMDP Abstraction with Successor Features",
+        "author_names": "Dongge Han, Sebastian Tschiatschek"
+    },
+    {
+        "paper_title": "To Trust or Not To Trust Prediction Scores for Membership Inference Attacks",
+        "author_names": "Dominik Hintersdorf, Lukas Struppek, Kristian Kersting"
+    },
+    {
+        "paper_title": "Leveraging Class Abstraction for Commonsense Reinforcement Learning via Residual Policy Gradient Methods",
+        "author_names": "Niklas Hopner, Ilaria Tiddi, Herke van Hoof"
+    },
+    {
+        "paper_title": "Learning Continuous Graph Structure with Bilevel Programming for Graph Neural Networks",
+        "author_names": "Minyang Hu, Hong Chang, Bingpeng Ma, Shiguang Shan"
+    },
+    {
+        "paper_title": "SHAPE: An Unified Approach to Evaluate the Contribution and Cooperation of Individual Modalities",
+        "author_names": "Pengbo Hu, Xingyu Li, Yi Zhou"
+    },
+    {
+        "paper_title": "Enhancing Unsupervised Domain Adaptation via Semantic Similarity Constraint for Medical Image Segmentation",
+        "author_names": "Tao Hu, Shiliang Sun, Jing Zhao, Dongyu Shi"
+    },
+    {
+        "paper_title": "Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs",
+        "author_names": "Zhiwei Hu, Victor Gutierrez Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan"
+    },
+    {
+        "paper_title": "Reconstructing Diffusion Networks from Incomplete Data",
+        "author_names": "Hao Huang, Keqi Han, Beicheng Xu, Ting Gan"
+    },
+    {
+        "paper_title": "FLS: A New Local Search Algorithm for K-means with Smaller Search Space",
+        "author_names": "Junyu Huang, Qilong Feng, Ziyun Huang, Jinhui Xu, Jianxin Wang"
+    },
+    {
+        "paper_title": "Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training",
+        "author_names": "Peide Huang, Mengdi Xu, Fei Fang, Ding Zhao"
+    },
+    {
+        "paper_title": "On the Channel Pruning using Graph Convolution Network for Convolutional Neural Network Acceleration ",
+        "author_names": "Di Jiang, Yuan Cao, Qiang Yang"
+    },
+    {
+        "paper_title": "Graph Masked Autoencoder Enhanced Predictor for Neural Architecture Search",
+        "author_names": "Kun Jing, Jungang Xu, Pengfei Li"
+    },
+    {
+        "paper_title": "Online Evasion Attacks on Recurrent Models:The Power of Hallucinating the Future",
+        "author_names": "Byunggill Joe, Insik Shin, Jihun Hamm"
+    },
+    {
+        "paper_title": "Set Interdependence Transformer: Set-to-Sequence Neural Networks for Permutation Learning and Structure Prediction",
+        "author_names": "Mateusz Jurewicz, Leon Derczynski"
+    },
+    {
+        "paper_title": "Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems",
+        "author_names": "Rushang Karia, Siddharth Srivastava"
+    },
+    {
+        "paper_title": "Data Augmentation for Learning to Play in Text-Based Games",
+        "author_names": "Jinhyeon Kim, Kee-Eung Kim"
+    },
+    {
+        "paper_title": "Self-Predictive Dynamics for Generalization of Vision-based Reinforcement Learning",
+        "author_names": "Kyungsoo Kim, Jeongsoo Ha, Yusung Kim"
+    },
+    {
+        "paper_title": "DyGRAIN: An Incremental Learning Framework for Dynamic Graphs",
+        "author_names": "Seoyoon Kim, Seongjun Yun, Jaewoo Kang"
+    },
+    {
+        "paper_title": "Thompson Sampling for Bandit Learning in Matching Markets",
+        "author_names": "Fang Kong, Junming Yin, Shuai Li"
+    },
+    {
+        "paper_title": "Multi-policy Grounding and Ensemble Policy Learning for Transfer Learning with Dynamics Mismatch",
+        "author_names": "Hyun-Rok Lee, Ram Ananth Sreenivasan, Yeonjeong Jeong, Jongseong Jang, Dongsub Shim, Chi-Guhn Lee"
+    },
+    {
+        "paper_title": "Pseudo-spherical Knowledge Distillation",
+        "author_names": "Kyungmin Lee, Hyeongkeun Lee"
+    },
+    {
+        "paper_title": "Libra-CAM: An Activation-Based Attribution Based on the Linear Approximation of Deep Neural Nets and Threshold Calibration",
+        "author_names": "Sangkyun Lee, Sungmin Han"
+    },
+    {
+        "paper_title": "SGAT: Simplicial Graph Attention Network",
+        "author_names": "See Hian Lee, Feng Ji, Wee Peng Tay"
+    },
+    {
+        "paper_title": "Learning General Gaussian Mixture Model with Integral Cosine Similarity",
+        "author_names": "Guanglin Li, Bin Li, Changsheng Chen, Shunquan Tan, Guoping Qiu"
+    },
+    {
+        "paper_title": "Ridgeless Regression with Random Features",
+        "author_names": "Jian Li, Yong Liu, Yingying Zhang"
+    },
+    {
+        "paper_title": "Learning from Students: Online Contrastive Distillation Network for General Continual Learning",
+        "author_names": "Jin Li, Zhong Ji, Gang Wang, Qiang Wang, Feng Gao"
+    },
+    {
+        "paper_title": "Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation",
+        "author_names": "Lei Li, Kai Fan, Chun Yuan"
+    },
+    {
+        "paper_title": "Neural PCA for Flow-Based Representation Learning",
+        "author_names": "Shen Li, Bryan Hooi"
+    },
+    {
+        "paper_title": "Pruning-as-Search: Efficient Neural Architecture Search via Channel Pruning and Structural Reparameterization",
+        "author_names": "Yanyu Li, Pu Zhao, Geng Yuan, Xue Lin, Yanzhi Wang, Xin Chen"
+    },
+    {
+        "paper_title": "Rethinking the Setting of Semi-supervised Learning on Graphs",
+        "author_names": "Ziang Li, Ming Ding, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang"
+    },
+    {
+        "paper_title": "Contrastive Multi-view Hyperbolic Hierarchical Clustering",
+        "author_names": "Fangfei Lin, Bing Bai, Kun Bai, Yazhou Ren, Peng Zhao, Zenglin Xu"
+    },
+    {
+        "paper_title": "JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning",
+        "author_names": "Zichuan Lin, Junyou Li, Jianing Shi, Deheng Ye, Qiang Fu, Wei Yang"
+    },
+    {
+        "paper_title": "Declaration-based Prompt Tuning for Visual Question Answering",
+        "author_names": "Yuhang Liu, Wei Wei, Daowan Peng, Feida Zhu"
+    },
+    {
+        "paper_title": "Projected Gradient Descent Algorithms for Solving Nonlinear Inverse Problems with Generative Priors",
+        "author_names": "Zhaoqiang Liu, Jun Han"
+    },
+    {
+        "paper_title": "SELC: Self-Ensemble Label Correction Improves Learning with Noisy Labels",
+        "author_names": "Yangdi Lu, Wenbo He"
+    },
+    {
+        "paper_title": "Exploring Binary Classification Hidden within Partial Label Learning",
+        "author_names": "Hengheng Luo, Yabin Zhang, Suyun Zhao, Hong Chen, Cuiping Li"
+    },
+    {
+        "paper_title": "Teaching LTLf Satisfiability Checking to Neural Networks",
+        "author_names": "Weilin Luo, Hai Wan, Jianfeng Du, Xiaoda Li, Yuze Fu, Rongzhen Ye, Delong Zhang"
+    },
+    {
+        "paper_title": "Towards Robust Unsupervised Disentanglement of Sequential Data \u2014 A Case Study Using Music Audio",
+        "author_names": "Yin-Jyun Luo, Sebastian Ewert, Simon Dixon"
+    },
+    {
+        "paper_title": "Deep Graph Matching for Partial Label Learning",
+        "author_names": "Gengyu Lyu, Yanan Wu, Songhe Feng"
+    },
+    {
+        "paper_title": "Locally Normalized Soft Contrastive Clustering for Compact Clusters",
+        "author_names": "Xin Ma, Won Hwa Kim"
+    },
+    {
+        "paper_title": "Game Redesign in No-regret Game Playing",
+        "author_names": "Yuzhe Ma, Young Wu, Xiaojin Zhu"
+    },
+    {
+        "paper_title": "COMET Flows: Towards Generative Modeling of Multivariate Extremes and Tail Dependence",
+        "author_names": "Andrew McDonald, Pang-Ning Tan, Lifeng Luo"
+    },
+    {
+        "paper_title": "Tessellation-Filtering ReLU Neural Networks",
+        "author_names": "Bernhard A. Moser, Michal Lewandowski, Somayeh Kargaran, Werner Zellinger, Battista Biggio, Christoph Koutschan"
+    },
+    {
+        "paper_title": "A Few Seconds Can Change Everything: Fast Decision-based Attacks against DNNs",
+        "author_names": "Ningping Mou, Baolin Zheng, Qian Wang, Yunjie Ge, Binqing Guo"
+    },
+    {
+        "paper_title": "Escaping Feature Twist: A Variational Graph Auto-Encoder for Node Clustering ",
+        "author_names": "Nairouz Mrabah, Mohamed Bouguessa, Riadh Ksantini"
+    },
+    {
+        "paper_title": "Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination",
+        "author_names": "Adithya Murali, Atharva Sehgal, Paul Krogmeier, P. Madhusudan"
+    },
+    {
+        "paper_title": "Certified Robustness via Randomized Smoothing over Multiplicative Parameters of Input Transformations",
+        "author_names": "Nikita Muravev, Aleksandr Petiushko"
+    },
+    {
+        "paper_title": "Weakly-supervised Text Classification with Wasserstein Barycenters Regularization",
+        "author_names": "Jihong Ouyang, Yiming Wang, Ximing Li, Changchun Li"
+    },
+    {
+        "paper_title": "Search-based Reinforcement Learning through Bandit Linear Optimization",
+        "author_names": "Milan Peelman, Antoon Bronselaer, Guy De Tr\u00e9"
+    },
+    {
+        "paper_title": "On the Optimization of Margin Distribution",
+        "author_names": "Meng-Zhang Qian, Zheng Ai, Teng Zhang, Wei Gao"
+    },
+    {
+        "paper_title": "Understanding the Limits of Poisoning Attacks in Episodic Reinforcement Learning",
+        "author_names": "Anshuka Rangi, Haifeng Xu, Long Tran-Thanh, Massimo Franceschetti"
+    },
+    {
+        "paper_title": "Multi-Armed Bandit Problem with Temporally-Partitioned Rewards: When Partial Feedback Counts",
+        "author_names": "Giulia Romano, Andrea Agostini, Francesco Trov\u00f2, Nicola Gatti, Marcello Restelli"
+    },
+    {
+        "paper_title": "Markov Abstractions for PAC Reinforcement Learning in Non-Markov Decision Processes",
+        "author_names": "Alessandro Ronca, Gabriel Paludo Licks, Giuseppe De Giacomo"
+    },
+    {
+        "paper_title": "PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations",
+        "author_names": "Tong Sang, Hongyao Tang, Yi Ma, Jianye Hao, Yan Zheng, Zhaopeng Meng, Boyan Li, Zhen Wang"
+    },
+    {
+        "paper_title": "Federated Multi-Task Attention for Cross-Individual Human Activity Recognition",
+        "author_names": "Qiang Shen, Haotian Feng, Rui Song, Stefano Teso, Fausto Giunchiglia, Hao Xu"
+    },
+    {
+        "paper_title": "Lexicographic Multi-Objective Reinforcement Learning",
+        "author_names": "Joar Skalse, Lewis Hammond, Charlie Griffin, Alessandro Abate"
+    },
+    {
+        "paper_title": "Dynamic Sparse Training for Deep Reinforcement Learning",
+        "author_names": "Ghada Sokar, Elena Mocanu, Decebal Constantin Mocanu, Mykola Pechenizkiy, Peter Stone"
+    },
+    {
+        "paper_title": "CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning",
+        "author_names": "Chenyu Sun, Hangwei Qian, Chunyan Miao"
+    },
+    {
+        "paper_title": "Memory Augmented State Space Model for Time Series Forecasting",
+        "author_names": "Yinbo Sun, Lintao Ma, Yu Liu, Shijun Wang, James Zhang, YangFei Zheng, Hu Yun, Lei Lei, Yulin Kang, Llinbao Ye"
+    },
+    {
+        "paper_title": "MMT: Multi-way Multi-modal Transformer for Multimodal Learning",
+        "author_names": "Jiajia Tang, Kang Li, Ming Hou, Xuanyu Jin, Wanzeng Kong, Yu Ding, Qibin Zhao"
+    },
+    {
+        "paper_title": "RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation",
+        "author_names": "Yijun Tian, Chuxu Zhang, Zhichun Guo, Chao Huang, Ronald Metoyer, Nitesh V. Chawla"
+    },
+    {
+        "paper_title": "Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks",
+        "author_names": "Yijun Tian, Chuxu Zhang, Zhichun Guo, Yihong Ma, Ronald Metoyer, Nitesh V. Chawla"
+    },
+    {
+        "paper_title": "Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams",
+        "author_names": "Matteo Tiezzi, Simone Marullo, Lapo Faggi, Enrico Meloni, Alessandro Betti, Stefano Melacci"
+    },
+    {
+        "paper_title": "Approximate Exploitability: Learning a Best Response",
+        "author_names": "Finbarr Timbers, Nolan Bard, Edward Lockhart, Marc Lanctot, Martin Schmid, Neil Burch, Julian Schrittwieser, Thomas Hubert, Michael Bowling"
+    },
+    {
+        "paper_title": "Initializing Then Refining: A Simple Graph Attribute Imputation Network",
+        "author_names": "Wenxuan Tu, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng"
+    },
+    {
+        "paper_title": "Bounded Memory Adversarial Bandits with Composite Anonymous Delayed Feedback",
+        "author_names": "Zongqi Wan, Xiaoming Sun, Jialin Zhang"
+    },
+    {
+        "paper_title": "Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration",
+        "author_names": "Di Wang, Jinyuan Liu, Xin Fan, Risheng Liu"
+    },
+    {
+        "paper_title": "Multi-Task Personalized Learning with Sparse Network Lasso",
+        "author_names": "Jiankun Wang, Lu Sun"
+    },
+    {
+        "paper_title": "IMO^3: Interactive Multi-Objective Off-Policy Optimization",
+        "author_names": "Nan Wang, Hongning Wang, Maryam Karimzadehgan, Branislav Kveton, Craig Boutilier"
+    },
+    {
+        "paper_title": "Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation",
+        "author_names": "Xiaolin Wang, Guohao Sun, Xiu Fang, Jian Yang, Shoujin Wang"
+    },
+    {
+        "paper_title": "Multi-Player Multi-Armed Bandits with Finite Shareable Resources Arms: Learning Algorithms & Applications",
+        "author_names": "Xuchuang Wang, Hong Xie, John C. S. Lui"
+    },
+    {
+        "paper_title": "Estimation and Comparison of Linear Regions for ReLU Networks",
+        "author_names": "Yuan Wang"
+    },
+    {
+        "paper_title": "Self-paced Supervision for Multi-source Domain Adaptation",
+        "author_names": "Zengmao Wang, Chaoyang Zhou, Bo Du, Fengxiang He"
+    },
+    {
+        "paper_title": "Value Refinement Network (VRN)",
+        "author_names": "Jan W\u00f6hlke, Felix Schmitt, Herke van Hoof"
+    },
+    {
+        "paper_title": "EMGC\u00b2F: Efficient Multi-view Graph Clustering with Comprehensive Fusion",
+        "author_names": "Danyang Wu, Jitao Lu, Feiping Nie, Rong Wang, Yuan Yuan"
+    },
+    {
+        "paper_title": "A Unified Meta-Learning Framework for Dynamic Transfer Learning",
+        "author_names": "Jun Wu, Jingrui He"
+    },
+    {
+        "paper_title": "A Simple yet Effective Method for Graph Classification",
+        "author_names": "Junran Wu, Shangzhe Li, Jianhao Li, Yicheng Pan, Ke Xu"
+    },
+    {
+        "paper_title": "Stabilizing and Enhancing Link Prediction through Deepened Graph Auto-Encoders",
+        "author_names": "Xinxing wu, Qiang Cheng"
+    },
+    {
+        "paper_title": "Automatically Gating Multi-Frequency Patterns through Rectified Continuous Bernoulli Units with Theoretical Principles",
+        "author_names": "Zheng-Fan Wu, Yi-Nan Feng, Hui Xue"
+    },
+    {
+        "paper_title": "Information Augmentation for Few-shot Node Classification",
+        "author_names": "Zongqian Wu, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu"
+    },
+    {
+        "paper_title": "Adversarial Bi-Regressor Network for Domain Adaptive Regression",
+        "author_names": "Haifeng Xia, Pu Wang, Toshiaki Koike-Akino, Ye Wang, Philip Orlik, Zhengming Ding"
+    },
+    {
+        "paper_title": "Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning",
+        "author_names": "Shi-Yu Xia, Jiaqi Lv, Ning Xu, Xin Geng"
+    },
+    {
+        "paper_title": "Neuro-Symbolic Verification of Deep Neural Networks",
+        "author_names": "Xuan Xie, Kristian Kersting, Daniel Neider"
+    },
+    {
+        "paper_title": "MultiQuant: Training Once for Multi-bit Quantization of Neural Networks",
+        "author_names": "Ke Xu, Qiantai Feng, Xingyi Zhang, Dong Wang"
+    },
+    {
+        "paper_title": "MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning",
+        "author_names": "Yi Xu, Lichen Wang, Yizhou Wang, Can Qin, Yulun Zhang, Yun Fu"
+    },
+    {
+        "paper_title": "Active Contrastive Set Mining for Robust Audio-Visual Instance Discrimination",
+        "author_names": "Hanyu Xuan, Yihong Xu, Shuo Chen, Zhiliang Wu, Jian Yang, Yan Yan, Xavier Alameda-Pineda"
+    },
+    {
+        "paper_title": "On the (In)Tractability of Reinforcement Learning for LTL Objectives",
+        "author_names": "Cambridge Yang, Michael L. Littman, Michael Carbin"
+    },
+    {
+        "paper_title": "Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble",
+        "author_names": "Zhengyu Yang, Kan Ren, Xufang Luo, Minghuan Liu, Weiqing Liu, Jiang Bian, Weinan Zhang, Dongsheng Li"
+    },
+    {
+        "paper_title": "Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning",
+        "author_names": "Yalan Ye, Tongjie Pan, Qianhe Meng, Jingjing Li, Li Lu"
+    },
+    {
+        "paper_title": "Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk",
+        "author_names": "ChengYang Ying, Xinning Zhou, Hang Su, Dong Yan, Ning Chen, Jun Zhu"
+    },
+    {
+        "paper_title": "EGCN: An Ensemble-based Learning Framework for Exploring Effective Skeleton-based Rehabilitation Exercise Assessment",
+        "author_names": "Bruce X.B. Yu, Yan Liu, Xiang Zhang, Gong Chen, Keith C.C. Chan"
+    },
+    {
+        "paper_title": "Robust Weight Perturbation for Adversarial Training",
+        "author_names": "Chaojian Yu, Bo Han, Mingming Gong, Li Shen, Shiming Ge, Du Bo, Tongliang Liu"
+    },
+    {
+        "paper_title": "Masked Feature Generation Network for Few-Shot Learning",
+        "author_names": "Yunlong Yu, Dingyi Zhang, Zhong Ji"
+    },
+    {
+        "paper_title": "Don\u2019t Touch What Matters: Task-Aware Lipschitz Data Augmentation for Visual Reinforcement Learning",
+        "author_names": "Zhecheng Yuan, Guozheng Ma, Yao Mu, Bo Xia, Bo Yuan, Xueqian Wang, Ping Luo, Huazhe Xu"
+    },
+    {
+        "paper_title": "Improved Pure Exploration in Linear Bandits with No-Regret Learning",
+        "author_names": "Mohammadi Zaki, Avi Mohan, Aditya Gopalan"
+    },
+    {
+        "paper_title": "Model-Based Offline Planning with Trajectory Pruning",
+        "author_names": "Xianyuan Zhan, Xiangyu Zhu, Haoran Xu"
+    },
+    {
+        "paper_title": "Hyperbolic Knowledge Transfer with Class Hierarchy for Few-Shot Learning",
+        "author_names": "Baoquan Zhang, Hao Jiang, Shanshan Feng, Xutao Li, Yunming Ye, Rui Ye"
+    },
+    {
+        "paper_title": "Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport",
+        "author_names": "Jiying Zhang, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian"
+    },
+    {
+        "paper_title": "Hierarchical Diffusion Scattering Graph Neural Network",
+        "author_names": "Ke Zhang, Xinyan Pu, Jiaxing Li, Jiasong Wu, Huazhong Shu, Youyong Kong"
+    },
+    {
+        "paper_title": "Penalized  Proximal Policy Optimization for Safe Reinforcement Learning",
+        "author_names": "Linrui Zhang, Li Shen, Long Yang, Shixiang Chen, Xueqian Wang, Bo Yuan, Dacheng Tao"
+    },
+    {
+        "paper_title": "Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences",
+        "author_names": "Lu Zhang, Zhu Sun, Ziqing Wu, Jie Zhang, Yew Soon Ong, Xinghua Qu"
+    },
+    {
+        "paper_title": "Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering",
+        "author_names": "Yiqun Zhang, Yiu-ming Cheung, An Zeng"
+    },
+    {
+        "paper_title": "Learning Mixture of Neural Temporal Point Processes for Multi-dimensional Event Sequence Clustering",
+        "author_names": "Yunhao Zhang, Junchi Yan, Xiaolu Zhang, Jun Zhou, Xiaokang Yang"
+    },
+    {
+        "paper_title": "Fusion Label Enhancement for Multi-Label Learning",
+        "author_names": "Xingyu Zhao, Yuexuan An, Ning Xu, Xin Geng"
+    },
+    {
+        "paper_title": "Learning Mixtures of Random Utility Models with Features from Incomplete Preferences",
+        "author_names": "Zhibing Zhao, Ao Liu, Lirong Xia"
+    },
+    {
+        "paper_title": "Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast",
+        "author_names": "Boqing Zhu, Kele Xu, Changjian Wang, Zheng Qin, Tao Sun, Huaimin Wang, Yuxing Peng"
+    },
+    {
+        "paper_title": "RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning",
+        "author_names": "Yun Zhu, Jianhao Guo, Fei Wu, Siliang Tang"
+    },
+    {
+        "paper_title": "Multi-Constraint Deep Reinforcement Learning for Smooth Action Control",
+        "author_names": "Guangyuan Zou, Ying He, F. Richard Yu, Longquan Chen, Weike Pan, Zhong Ming"
+    },
+    {
+        "paper_title": "Subsequence-based Graph Routing Network for Capturing Multiple Risk Propagation Processes",
+        "author_names": "Rui Cheng, Qing Li"
+    },
+    {
+        "paper_title": "3E-Solver: An Effortless, Easy-to-Update, and End-to-End Solver with Semi-Supervised Learning for Breaking Text-Based Captchas",
+        "author_names": "Xianwen Deng, Ruijie Zhao, Yanhao Wang, Libo Chen, Yijun Wang, Zhi Xue"
+    },
+    {
+        "paper_title": "Placing Green Bridges Optimally, with Habitats Inducing Cycles",
+        "author_names": "Maike Herkenrath, Till Fluschnik, Francesco Grothe, Leon Kellerhals"
+    },
+    {
+        "paper_title": "Membership Inference via Backdooring",
+        "author_names": "Hongsheng Hu, Zoran Sal\u010di\u0107, Gillian Dobbie, Jinjun Chen, Lichao Sun, Xuyun Zhang"
+    },
+    {
+        "paper_title": "A Universal PINNs Method for Solving Partial Differential Equations with a Point Source",
+        "author_names": "Xiang Huang, Hongsheng Liu, Beiji Shi, Zidong Wang, Kang Yang, Yang Li, Min Wang, Haotian Chu, Jing Zhou, Fan Yu, Bei Hua, Bin Dong, Lei Chen"
+    },
+    {
+        "paper_title": "A Polynomial-time Decentralised Algorithm for Coordinated Management of Multiple Intersections",
+        "author_names": "Tatsuya Iwase, Sebastian Stein, Enrico H. Gerding, Archie Chapman"
+    },
+    {
+        "paper_title": "Multi-Agent Reinforcement Learning for Traffic Signal Control through Universal Communication Method",
+        "author_names": "Qize Jiang, Minhao Qin, Shengmin Shi, Weiwei Sun, Baihua Zheng"
+    },
+    {
+        "paper_title": "Cumulative Stay-time Representation for Electronic Health Records in Medical Event Time Prediction",
+        "author_names": "Takayuki Katsuki, Kohei Miyaguchi, Akira Koseki, Toshiya Iwamori, Ryosuke Yanagiya, Atsushi Suzuki"
+    },
+    {
+        "paper_title": "Self-Supervised Learning with Attention-based Latent Signal Augmentation for Sleep Staging with Limited Labeled Data",
+        "author_names": "Harim Lee, Eunseon Seong, Dong-Kyu Chae"
+    },
+    {
+        "paper_title": "Learning Curricula for Humans: An Empirical Study with Puzzles from The Witness",
+        "author_names": "Levi H.S. Lelis, Jo\u00e3o G.G.V. Nova, Eugene Chen, Nathan R. Sturtevant, Carrie Demmans Epp, Michael Bowling"
+    },
+    {
+        "paper_title": "Transformer-based Objective-reinforced Generative Adversarial Network to Generate Desired Molecules",
+        "author_names": "Chen Li, Chikashige Yamanaka, Kazuma Kaitoh, Yoshihiro Yamanishi"
+    },
+    {
+        "paper_title": "Towards Controlling the Transmission of Diseases: Continuous Exposure Discovery over Massive-Scale Moving Objects",
+        "author_names": "Ke Li, Lisi Chen, Shuo Shang, Haiyan Wang, Yang Liu, Panos Kalnis, Bin Yao"
+    },
+    {
+        "paper_title": "Distilling Governing Laws and Source Input for Dynamical Systems from Videos",
+        "author_names": "Lele Luan, Yang Liu, Hao Sun"
+    },
+    {
+        "paper_title": "Monolith to Microservices: Representing Application Software through Heterogeneous Graph Neural Network",
+        "author_names": "Alex Mathai, Sambaran Bandyopadhyay, Utkarsh Desai, Srikanth Tamilselvam"
+    },
+    {
+        "paper_title": "Learn Continuously, Act Discretely: Hybrid Action-Space Reinforcement Learning For Optimal Execution",
+        "author_names": "Feiyang Pan, Tongzhe Zhang, Ling Luo, Jia He, Shuoling Liu"
+    },
+    {
+        "paper_title": "Communicative Subgraph Representation Learning for Multi-Relational Inductive Drug-Gene Interaction Prediction",
+        "author_names": "Jiahua Rao, Shuangjia Zheng, Sijie Mai, Yuedong Yang"
+    },
+    {
+        "paper_title": "FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting",
+        "author_names": "Xuan Rao, Hao Wang, Liang Zhang, Jing Li, Shuo Shang, Peng Han"
+    },
+    {
+        "paper_title": "Offline Vehicle Routing Problem with Online Bookings: A Novel Problem Formulation with Applications to Paratransit",
+        "author_names": "Amutheezan Sivagnanam, Salah Uddin Kadir, Ayan Mukhopadhyay, Philip Pugliese, Abhishek Dubey, Samitha Samaranayake, Aron Laszka"
+    },
+    {
+        "paper_title": "Local Differential Privacy Meets Computational Social Choice - Resilience under Voter Deletion",
+        "author_names": "Liangde Tao, Lin Chen, Lei Xu, Weidong Shi"
+    },
+    {
+        "paper_title": "Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited",
+        "author_names": "Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang"
+    },
+    {
+        "paper_title": "Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems",
+        "author_names": "Xu Wan, Lanting Zeng, Mingyang Sun"
+    },
+    {
+        "paper_title": "Heterogeneous Interactive Snapshot Network for Review-Enhanced Stock Profiling and Recommendation",
+        "author_names": "Heyuan Wang, Tengjiao Wang, Shun Li, Shijie Guan, Jiayi Zheng, Wei Chen"
+    },
+    {
+        "paper_title": "Adaptive Long-Short Pattern Transformer for Stock Investment Selection",
+        "author_names": "Heyuan Wang, Tengjiao Wang, Shun Li, Jiayi Zheng, Shijie Guan, Wei Chen"
+    },
+    {
+        "paper_title": "Bridging the Gap between Reality and Ideality of Entity Matching: A Revisting and Benchmark Re-Constrcution",
+        "author_names": "Tianshu Wang, Hongyu Lin, Cheng Fu, Xianpei Han, Le Sun, Feiyu Xiong, Hui Chen, Minlong Lu, Xiuwen Zhu"
+    },
+    {
+        "paper_title": "Learnability of Competitive Threshold Models",
+        "author_names": "Yifan Wang, Guangmo Tong"
+    },
+    {
+        "paper_title": "Data-Efficient Backdoor Attacks",
+        "author_names": "Pengfei Xia, Ziqiang Li, Wei Zhang, Bin Li"
+    },
+    {
+        "paper_title": "TinyLight: Adaptive Traffic Signal Control on Devices with Extremely Limited Resources",
+        "author_names": "Dong Xing, Qian Zheng, Qianhui Liu, Gang Pan"
+    },
+    {
+        "paper_title": "ARCANE: An Efficient Architecture for Exact Machine Unlearning",
+        "author_names": "Haonan Yan, Xiaoguang Li, Ziyao Guo, Hui Li, Fenghua Li, Xiaodong Lin"
+    },
+    {
+        "paper_title": "A Smart Trader for Portfolio Management based on Normalizing Flows",
+        "author_names": "Mengyuan Yang, Xiaolin Zheng, Qianqiao Liang, Bing Han, Mengying Zhu"
+    },
+    {
+        "paper_title": "Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training",
+        "author_names": "Xianglin Yang, Yun Lin, Ruofan Liu, Jin Song Dong"
+    },
+    {
+        "paper_title": "Post-processing of Differentially Private Data: A Fairness Perspective",
+        "author_names": "Keyu Zhu, Ferdinando Fioretto, Pascal Van Hentenryck"
+    },
+    {
+        "paper_title": "Enhancing Entity Representations with Prompt Learning for Biomedical Entity Linking",
+        "author_names": "Tiantian Zhu, Yang Qin, Qingcai Chen, Baotian Hu, Yang Xiang"
+    },
+    {
+        "paper_title": "Aspect-based Sentiment Analysis with Opinion Tree Generation",
+        "author_names": "Xiaoyi Bao, Wang Zhongqing, Xiaotong Jiang, Rong Xiao, Shoushan Li"
+    },
+    {
+        "paper_title": "Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation",
+        "author_names": "Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu"
+    },
+    {
+        "paper_title": "Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings",
+        "author_names": "Danushka Bollegala"
+    },
+    {
+        "paper_title": "PCVAE: Generating Prior Context for Dialogue Response Generation",
+        "author_names": "Zefeng Cai, Zerui Cai"
+    },
+    {
+        "paper_title": "Towards Joint Intent Detection and Slot Filling via Higher-order Attention",
+        "author_names": "Dongsheng Chen, Zhiqi Huang, Xian Wu, Shen Ge, Yuexian Zou"
+    },
+    {
+        "paper_title": "Effective Graph Context Representation for Document-level Machine Translation",
+        "author_names": "Kehai Chen, Muyun Yang, Masao Utiyama, Eiichiro Sumita, Rui Wang, Min Zhang"
+    },
+    {
+        "paper_title": "DictBERT: Dictionary Description Knowledge Enhanced Language Model Pre-training via Contrastive Learning",
+        "author_names": "Qianglong Chen, Feng-Lin Li, Guohai Xu, Ming Yan, Ji Zhang, Yin Zhang"
+    },
+    {
+        "paper_title": "Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering",
+        "author_names": "Zhenyun Deng, Yonghua Zhu, Yang Chen, Michael Witbrock, Patricia Riddle"
+    },
+    {
+        "paper_title": "Interactive Information Extraction by Semantic Information Graph",
+        "author_names": "Siqi Fan, Yequan Wang, Jing Li, Zheng Zhang, Shuo Shang, Peng Han"
+    },
+    {
+        "paper_title": "Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction",
+        "author_names": "Hao Fei, Jingye Li, Shengqiong Wu, Chenliang Li, Donghong Ji, Fei Li"
+    },
+    {
+        "paper_title": "Conversational Semantic Role Labeling with Predicate-Oriented Latent Graph",
+        "author_names": "Hao Fei, Shengqiong Wu, Meishan Zhang, Yafeng Ren, Donghong Ji"
+    },
+    {
+        "paper_title": "Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis",
+        "author_names": "Hao Fei, Fei Li, Chenliang Li, Shengqiong Wu, Jingye Li, Donghong Ji"
+    },
+    {
+        "paper_title": "Logically Consistent Adversarial Attacks for Soft Theorem Provers",
+        "author_names": "Alexander Gaskell, Yishu Miao, Francesca Toni, Lucia Specia"
+    },
+    {
+        "paper_title": "Leveraging the Wikipedia Graph for Evaluating Word Embeddings",
+        "author_names": "Joachim Giesen, Paul Kahlmeyer, Frank Nussbaum, Sina Zarrie\u00df"
+    },
+    {
+        "paper_title": "Fallacious Argument Classification in Political Debates",
+        "author_names": "Pierpaolo Goffredo, Shohreh Haddadan, Vorakit Vorakitphan, Elena Cabrio, Serena Villata"
+    },
+    {
+        "paper_title": "Improving Few-Shot Text-to-SQL with Meta Self-Training via Column Specificity",
+        "author_names": "Xinnan Guo, Yongrui Chen, Guilin Qi, Tianxing Wu, Hao Xu"
+    },
+    {
+        "paper_title": "FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis",
+        "author_names": "Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, Zhou Zhao"
+    },
+    {
+        "paper_title": "MuiDial: Improving Dialogue Disentanglement with Intent-Based Mutual Learning",
+        "author_names": "Ziyou Jiang, Lin Shi, Celia Chen, Fangwen Mu, Yumin Zhang, Qing Wang"
+    },
+    {
+        "paper_title": "AdMix: A Mixed Sample Data Augmentation Method for Neural Machine Translation",
+        "author_names": "Chang Jin, Shigui Qiu, Nini Xiao, Hao Jia"
+    },
+    {
+        "paper_title": "Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation",
+        "author_names": "Pei Ke, Haozhe Ji, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang"
+    },
+    {
+        "paper_title": "Deexaggeration",
+        "author_names": "Li Kong, Chuanyi Li, Vincent Ng"
+    },
+    {
+        "paper_title": "Taylor, Can You Hear Me Now? A Taylor-Unfolding Framework for Monaural Speech Enhancement",
+        "author_names": "Andong Li, Shan You, Guochen Yu, Chengshi Zheng, Xiaodong Li"
+    },
+    {
+        "paper_title": "FastRE: Towards Fast Relation Extraction with Convolutional Encoder and Improved Cascade Binary Tagging Framework",
+        "author_names": "Guozheng Li, Xu Chen, Peng Wang, Jiafeng Xie, Qiqing Luo"
+    },
+    {
+        "paper_title": "Neutral Utterances are Also Causes: Enhancing Conversational Causal Emotion Entailment with Social Commonsense Knowledge",
+        "author_names": "Jiangnan Li, Fandong Meng, Zheng Lin, Rui Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou"
+    },
+    {
+        "paper_title": "Domain-Adaptive Text Classification with Structured Knowledge from Unlabeled Data",
+        "author_names": "Tian Li, Xiang Chen, Zhen Dong, Kurt Keutzer, Shanghang Zhang"
+    },
+    {
+        "paper_title": "Parameter-Efficient Sparsity for Large Language Models Fine-Tuning",
+        "author_names": "Yuchao Li, Fuli Luo, Chuanqi Tan, Mengdi Wang, Songfang Huang, Shen Li, Junjie Bai"
+    },
+    {
+        "paper_title": "Explicit Alignment Learning for Neural Machine Translation ",
+        "author_names": "Zuchao Li, Hai Zhao, Fengshun Xiao, Masao Utiyama, Eiichiro Sumita"
+    },
+    {
+        "paper_title": "Lyra: A Benchmark for Turducken-Style Code Generation",
+        "author_names": "Qingyuan Liang, Zeyu Sun, Qihao Zhu, Wenjie Zhang, Lian Yu, Yingfei Xiong, Lu Zhang"
+    },
+    {
+        "paper_title": "CUP: Curriculum Learning based Prompt Tuning for Implicit Event Argument Extraction",
+        "author_names": "Jiaju Lin, Qin Chen, Jie Zhou, Jian Jin, Liang He"
+    },
+    {
+        "paper_title": "Low-Resource NER by Data Augmentation With Prompting",
+        "author_names": "Jian Liu, Yufeng Chen, Jinan Xu"
+    },
+    {
+        "paper_title": "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method",
+        "author_names": "Shuaiqi LIU, Jiannong Cao, Ruosong Yang, Zhiyuan Wen"
+    },
+    {
+        "paper_title": "\u201cMy nose is running.\u201d \u201cAre you also coughing?\u201d: Building A Medical Diagnosis Agent with Interpretable Inquiry Logics",
+        "author_names": "Wenge Liu, Yi Cheng, Hao Wang, Jianheng Tang, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang"
+    },
+    {
+        "paper_title": "Abstract Rule Learning for Paraphrase Generation",
+        "author_names": "Xianggen Liu, Wenqiang Lei, Jiancheng Lv, Jizhe Zhou"
+    },
+    {
+        "paper_title": "Graph-based Dynamic Word Embeddings",
+        "author_names": "Yuyin Lu, Xin Cheng, Ziran Liang, Yanghui Rao"
+    },
+    {
+        "paper_title": "Searching for Optimal Subword Tokenization in Cross-domain NER",
+        "author_names": "Ruotian Ma, Yiding Tan, Xin Zhou, Xuanting Chen, Di Liang, Sirui Wang, Wei Wu, Tao Gui"
+    },
+    {
+        "paper_title": "Prompting to Distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt",
+        "author_names": "Xinyin Ma, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu"
+    },
+    {
+        "paper_title": "Variational Learning for Unsupervised Knowledge Grounded Dialogs",
+        "author_names": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor"
+    },
+    {
+        "paper_title": "Enhancing Text Generation via Multi-Level Knowledge Aware Reasoning",
+        "author_names": "Feiteng Mu, Wenjie Li"
+    },
+    {
+        "paper_title": "Automatic Noisy Label Correction for Fine-Grained Entity Typing",
+        "author_names": "Weiran Pan, Wei Wei, Feida Zhu"
+    },
+    {
+        "paper_title": "Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation",
+        "author_names": "Wei Peng, Yue Hu, Luxi Xing, Yuqiang Xie, Yajing Sun, Yunpeng Li"
+    },
+    {
+        "paper_title": "Document-level Relation Extraction via Subgraph Reasoning",
+        "author_names": "Xingyu Peng, Chong Zhang, Ke Xu"
+    },
+    {
+        "paper_title": "Document-level Event Factuality Identification via Reinforced Multi-Granularity Hierarchical Attention Networks",
+        "author_names": "Zhong Qian, Peifeng Li, Qiaoming Zhu, Guodong Zhou"
+    },
+    {
+        "paper_title": "BiFSMN: Binary Neural Network for Keyword Spotting",
+        "author_names": "Haotong Qin, Xudong Ma, Yifu Ding, Xiaoyang Li, Yang Zhang, Yao Tian, Zejun Ma, Jie Luo, Xianglong Liu"
+    },
+    {
+        "paper_title": "Training Naturalized Semantic Parsers with Very Little Data",
+        "author_names": "Subendhu Rongali, Konstantine Arkoudas, Melanie Rubino, Wael Hamza"
+    },
+    {
+        "paper_title": "Relational Triple Extraction: One Step is Enough",
+        "author_names": "Yu-Ming Shang, Heyan Huang, Xin Sun, Wei Wei, Xian-Ling Mao"
+    },
+    {
+        "paper_title": "A Unified Strategy for Multilingual Grammatical Error Correction with Pre-trained Cross-Lingual Language Model",
+        "author_names": "Xin Sun, Tao Ge, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang"
+    },
+    {
+        "paper_title": "On Tracking Dialogue State by Inheriting Slot Values in Mentioned Slot Pools",
+        "author_names": "Zhoujian Sun, Zhengxing Huang, Nai Ding"
+    },
+    {
+        "paper_title": "Towards Discourse-Aware Document-Level Neural Machine Translation",
+        "author_names": "Xin Tan, Longyin Zhang, Fang Kong, Guodong Zhou"
+    },
+    {
+        "paper_title": "Learning by Interpreting",
+        "author_names": "Xuting Tang, Abdul Rafae Khan, Shusen Wang, Jia Xu"
+    },
+    {
+        "paper_title": "Robust Fine-tuning via Perturbation and Interpolation from In-batch Instances",
+        "author_names": "Shoujie Tong, Qingxiu Dong, Damai Dai, Yifan Song, Tianyu Liu, Baobao Chang, Zhifang Sui"
+    },
+    {
+        "paper_title": "MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities",
+        "author_names": "Yuanzheng Wang, Xueqi Cheng, Yixing Fan, Xiaofei Zhu, Huasheng Liang, Qiang Yan, Jiafeng Guo"
+    },
+    {
+        "paper_title": "Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval",
+        "author_names": "Ning Wu, Yaobo Liang, Houxing Ren, Linjun Shou, Nan Duan, Ming Gong, Daxin Jiang"
+    },
+    {
+        "paper_title": "Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition",
+        "author_names": "Shuhui Wu, Yongliang Shen, Zeqi Tan, Weiming Lu"
+    },
+    {
+        "paper_title": "Neural Subgraph Explorer: Reducing Noisy Information via Target-oriented Syntax Graph Pruning",
+        "author_names": "Bowen Xing, Ivor Tsang"
+    },
+    {
+        "paper_title": "TaxoPrompt: A Prompt-based Generation Method with Taxonomic Context for Self-Supervised Taxonomy Expansion",
+        "author_names": "Hongyuan Xu, Yunong Chen, Zichen Liu, Yanlong Wen, Xiaojie Yuan"
+    },
+    {
+        "paper_title": "Robust Interpretable Text Classification against Spurious Correlations Using AND-rules with Negation",
+        "author_names": "Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, Morten Goodwin"
+    },
+    {
+        "paper_title": "Diversity Features Enhanced Prototypical Network for Few-shot Intent Detection",
+        "author_names": "Fengyi Yang, Xi Zhou, Yi Wang, Abibulla Atawulla, Ran Bi"
+    },
+    {
+        "paper_title": "UM4: Unified Multilingual Multiple Teacher-Student Model for Zero-Resource Neural Machine Translation",
+        "author_names": "Jian Yang, Yuwei Yin, Shuming Ma, Dongdong Zhang, Shuangzhi Wu, Hongcheng Guo, Zhoujun Li, Furu Wei"
+    },
+    {
+        "paper_title": "High-resource Language-specific Training for Multilingual Neural Machine Translation",
+        "author_names": "Jian Yang, Yuwei Yin, Shuming Ma, Dongdong Zhang, Zhoujun Li, Furu Wei"
+    },
+    {
+        "paper_title": "SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech",
+        "author_names": "Zhenhui Ye, Zhou Zhao, Yi Ren, Fei Wu"
+    },
+    {
+        "paper_title": "Clickbait Detection via Contrastive Variational Modelling of Text and Label",
+        "author_names": "Xiaoyuan Yi, Jiarui Zhang, Wenhao Li, Xiting Wang, Xing Xie"
+    },
+    {
+        "paper_title": "Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching",
+        "author_names": "Jianfei Yu, Jieming Wang, Rui Xia, Junjie Li"
+    },
+    {
+        "paper_title": "Stage-wise Stylistic Headline Generation: Style Generation and Summarized Content Insertion",
+        "author_names": "Jiaao Zhan, Yang Gao, Yu Bai, Qianhui Liu"
+    },
+    {
+        "paper_title": "Position-aware Joint Entity and Relation Extraction with Attention Mechanism",
+        "author_names": "Chenglong Zhang, Shuyong Gao, Haofen Wang, Wenqiang Zhang"
+    },
+    {
+        "paper_title": "EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling",
+        "author_names": "Lichao Zhang, Zhou Zhao, Yi Ren, Liqun Deng"
+    },
+    {
+        "paper_title": "\u201cThink Before You Speak\u201d: Improving Multi-Action Dialog Policy by Planning Single-Action Dialogs",
+        "author_names": "Shuo Zhang, Junzhou Zhao, Pinghui Wang, Yu Li, Yi Huang, Junlan Feng"
+    },
+    {
+        "paper_title": "Charge Prediction by Constitutive Elements Matching of Crimes",
+        "author_names": "Jie Zhao, Ziyu Guan, Cai Xu, Wei Zhao, Enze Chen"
+    },
+    {
+        "paper_title": "CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations",
+        "author_names": "Weixiang Zhao, Yanyan Zhao, Xin Lu"
+    },
+    {
+        "paper_title": "Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering ",
+        "author_names": "Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan"
+    },
+    {
+        "paper_title": "None Class Ranking Loss for Document-Level Relation Extraction",
+        "author_names": "Yang Zhou, Wee Sun Lee"
+    },
+    {
+        "paper_title": "Grape: Grammar-Preserving Rule Embedding",
+        "author_names": "Qihao Zhu, Zeyu Sun, Wenjie Zhang, Yingfei Xiong, Lu Zhang"
+    },
+    {
+        "paper_title": "Efficient Document-level Event Extraction via Pseudo-Trigger-aware Pruned Complete Graph",
+        "author_names": "Tong Zhu, Xiaoye Qu, Wenliang Chen, Zhefeng Wang, Baoxing Huai, Nicholas Yuan, Min Zhang"
+    },
+    {
+        "paper_title": "Contrastive Graph Transformer Network for Personality Detection",
+        "author_names": "Yangfu Zhu, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu"
+    },
+    {
+        "paper_title": "Explaining the Behaviour of Hybrid Systems with PDDL+ Planning",
+        "author_names": "Diego Aineto, Eva Onaindia, Miquel Ramirez, Enrico Scala, Ivan Serina"
+    },
+    {
+        "paper_title": "Online Bin Packing with Predictions",
+        "author_names": "Spyros Angelopoulos, Shahin Kamali, Kimia Shadkami"
+    },
+    {
+        "paper_title": "Scheduling with Untrusted Predictions",
+        "author_names": "Evripidis Bampis, Konstantinos Dogeas, Alexander Kononov, Giorgio Lucarelli, Fanny Pascual"
+    },
+    {
+        "paper_title": "Adaptive Information Belief Space Planning",
+        "author_names": "Moran Barenboim, Vadim Indelman"
+    },
+    {
+        "paper_title": "Tight Bounds for Hybrid Planning",
+        "author_names": "Pascal Bercher, Songtuan Lin, Ron Alford"
+    },
+    {
+        "paper_title": "Planning with Qualitative Action-Trajectory Constraints in PDDL",
+        "author_names": "Luigi Bonassi, Alfonso Emilio Gerevini, Enrico Scala"
+    },
+    {
+        "paper_title": "Shared Autonomy Systems with Stochastic Operator Models",
+        "author_names": "Clarissa Costen, Marc Rigter, Bruno Lacerda, Nick Hawes"
+    },
+    {
+        "paper_title": "Explaining Soft-Goal Conflicts through Constraint Relaxations",
+        "author_names": "Rebecca Eifler, Jeremy Frank, J\u00f6rg Hoffmann"
+    },
+    {
+        "paper_title": "Online Planning in POMDPs with Self-Improving Simulators",
+        "author_names": "Jinke He, Miguel Suau, Hendrik Baier, Michael Kaisers, Frans A. Oliehoek"
+    },
+    {
+        "paper_title": "An Efficient Approach to Data Transfer Scheduling for Long Range Space Exploration",
+        "author_names": "Emmanuel Hebrard, Christian Artigues, Pierre Lopez, Arnaud Lusson, Steve Chien, Adrien Maillard, Gregg Rabideau"
+    },
+    {
+        "paper_title": "General Optimization Framework for Recurrent Reachability Objectives",
+        "author_names": "David Klaska, Antonin Kucera, Vit Musil, Vojtech Rehak"
+    },
+    {
+        "paper_title": "Offline Time-Independent Multi-Agent Path Planning",
+        "author_names": "Keisuke Okumura, Fran\u00e7ois Bonnet, Yasumasa Tamura, Xavier D\u00e9fago"
+    },
+    {
+        "paper_title": "On the Computational Complexity of Model Reconciliations",
+        "author_names": "Sarath Sreedharan, Pascal Bercher, Subbarao Kambhampati"
+    },
+    {
+        "paper_title": "Landmark Heuristics for Lifted Classical Planning",
+        "author_names": "Julia Wichlacz, Daniel H\u00f6ller, J\u00f6rg Hoffmann"
+    },
+    {
+        "paper_title": "Competitive Analysis for Multi-Commodity Ski-Rental Problem",
+        "author_names": "Binghan Wu, Wei Bao, Dong Yuan, Bing Zhou"
+    },
+    {
+        "paper_title": "An Online Learning Approach towards Far-sighted Emergency Relief Planning under Intentional Attacks in Conflict Areas",
+        "author_names": "Haoyu Yang, Kaiming Xiao, Lihua Liu, Hongbin Huang, Weiming Zhang"
+    },
+    {
+        "paper_title": "PG3: Policy-Guided Planning for Generalized Policy Generation",
+        "author_names": "Ryan Yang, Tom Silver, Aidan Curtis, Tomas Lozano-Perez, Leslie Kaelbling"
+    },
+    {
+        "paper_title": "A Native Qualitative Numeric Planning Solver Based on AND/OR Graph Search",
+        "author_names": "Hemeng Zeng, Yikun Liang, Yongmei Liu"
+    },
+    {
+        "paper_title": "Dynamic Car Dispatching and Pricing: Revenue and Fairness for Ridesharing Platforms",
+        "author_names": "Zishuo Zhao, Xi Chen, Xuefeng Zhang, Yuan Zhou"
+    },
+    {
+        "paper_title": "Multi-robot Task Allocation in the Environment with Functional Tasks",
+        "author_names": "Fuhan Yan, Kai Di"
+    },
+    {
+        "paper_title": "A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation",
+        "author_names": "Wenqi Zhang, Kai Zhao, Peng Li, Xiao Zhu, Yongliang Shen, Yanna Ma, Yingfeng Chen, Weiming Lu"
+    },
+    {
+        "paper_title": "Robust Subset Selection by Greedy and Evolutionary Pareto Optimization",
+        "author_names": "Chao Bian, Yawen Zhou, Chao Qian"
+    },
+    {
+        "paper_title": "Budgeted Sequence Submodular Maximization",
+        "author_names": "Xuefeng Chen, Liang Feng, Xin Cao, Yifeng Zeng, Yaqing Hou"
+    },
+    {
+        "paper_title": "Learning and Exploiting Progress States in Greedy Best-First Search",
+        "author_names": "Patrick Ferber, Liat Cohen, Jendrik Seipp, Thomas Keller"
+    },
+    {
+        "paper_title": "Completeness and Diversity in Depth-First Proof-Number Search with Applications to Retrosynthesis",
+        "author_names": "Christopher Franz, Georg Mogk, Thomas Mrziglod, Kevin Schewior"
+    },
+    {
+        "paper_title": "Large Neighborhood Search with Decision Diagrams",
+        "author_names": "Xavier Gillard, Pierre Schaus"
+    },
+    {
+        "paper_title": "Efficient Budgeted Graph Search",
+        "author_names": "Jasmeet Kaur, Nathan R. Sturtevant"
+    },
+    {
+        "paper_title": "Generalisation of Alpha-Beta Search for AND-OR Graphs With Partially Ordered Values",
+        "author_names": "Junkang Li, Bruno Zanuttini, Tristan Cazenave, V\u00e9ronique Ventos"
+    },
+    {
+        "paper_title": "Efficient Neural Neighborhood Search for Pickup and Delivery Problems",
+        "author_names": "Yining Ma, Jingwen Li, Zhiguang Cao, Wen Song, Hongliang Guo, Yuejiao Gong, Yeow Meng Chee"
+    },
+    {
+        "paper_title": "Real-Time Heuristic Search with LTLf Goals",
+        "author_names": "Jaime Middleton, Rodrigo Toro Icarte, Jorge Baier"
+    },
+    {
+        "paper_title": "Reinforcement Learning for Cross-Domain Hyper-Heuristics",
+        "author_names": "Florian Mischek, Nysret Musliu"
+    },
+    {
+        "paper_title": "Runtime Analysis of Single- and Multi-Objective Evolutionary Algorithms for Chance Constrained Optimization Problems with Normally Distributed Random Variables",
+        "author_names": "Frank Neumann, Carsten Witt"
+    },
+    {
+        "paper_title": "Efficient Algorithms for Monotone Non-Submodular Maximization with Partition Matroid Constraint",
+        "author_names": "Lan N. Nguyen, My T. Thai"
+    },
+    {
+        "paper_title": "Neural Network Pruning by Cooperative Coevolution",
+        "author_names": "Haopu Shang, Jia-Liang Wu, Wenjing Hong, Chao Qian"
+    },
+    {
+        "paper_title": "HEA-D: A Hybrid Evolutionary Algorithm for Diversified Top-k Weight Clique Search Problem",
+        "author_names": "Jun Wu, Chu-Min Li, Yupeng Zhou, Minghao Yin, Xin Xu, Dangdang Niu"
+    },
+    {
+        "paper_title": "A Weighting-Based Tabu Search Algorithm for the p-Next Center Problem",
+        "author_names": "Qingyun Zhang, Zhouxing Su, Zhipeng L\u00fc, Lingxiao Yang"
+    },
+    {
+        "paper_title": "Summary Markov Models for Event Sequences",
+        "author_names": "Debarun Bhattacharjya, Saurabh Sihag, Oktie Hassanzadeh, Liza Bialik"
+    },
+    {
+        "paper_title": "Ancestral Instrument Method for Causal Inference without Complete Knowledge",
+        "author_names": "Debo Cheng, Jiuyong Li, Lin Liu, Jiji Zhang, Thuc Duy Le, Jixue Liu"
+    },
+    {
+        "paper_title": "Empirical Bayesian Approaches for Robust Constraint-based Causal Discovery under Insufficient Data",
+        "author_names": "Zijun Cui, Naiyu Yin, Yuru Wang, Qiang Ji"
+    },
+    {
+        "paper_title": "Hidden 1-Counter Markov Models and How to Learn Them",
+        "author_names": "Mehmet Kurucan, Mete \u00d6zbaltan, Sven Schewe, Dominik Wojtczak"
+    },
+    {
+        "paper_title": "Exchangeability-Aware Sum-Product Networks",
+        "author_names": "Stefan L\u00fcdtke, Christian Bartelt, Heiner Stuckenschmidt"
+    },
+    {
+        "paper_title": "Learning Cluster Causal Diagrams: An Information-Theoretic Approach",
+        "author_names": "Xueyan Niu, Xiaoyun Li, Ping Li"
+    },
+    {
+        "paper_title": "Linear Combinatorial Semi-Bandit with Causally Related Rewards",
+        "author_names": "Behzad Nourani-Koliji, Saeed Ghoorchian, Setareh Maghsudi"
+    },
+    {
+        "paper_title": "Robustness Guarantees for Credal Bayesian Networks via Constraint Relaxation over Probabilistic Circuits",
+        "author_names": "Hjalmar Wijk, Benjie Wang, Marta Kwiatkowska"
+    },
+    {
+        "paper_title": "On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks",
+        "author_names": "Huimin Zeng, Zhenrui Yue, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang"
+    },
+    {
+        "paper_title": "DPVI: A Dynamic-Weight Particle-Based Variational Inference Framework",
+        "author_names": "Chao Zhang, Zhijian Li, Xin Du, Hui Qian"
+    },
+    {
+        "paper_title": "Deep Interactive Surface Creation from 3D Sketch Strokes",
+        "author_names": "Sukanya Bhattacharjee, Parag Chaudhuri"
+    },
+    {
+        "paper_title": "Tradformer: A Transformer Model of Traditional Music Transcriptions",
+        "author_names": "Luca Casini, Bob L. T. Sturm"
+    },
+    {
+        "paper_title": "Sound2Synth: Interpreting Sound via FM Synthesizer Parameters Estimation",
+        "author_names": "Zui Chen, Yansen Jing, Shengcheng Yuan, Yifei Xu, Jian Wu, Hang Zhao"
+    },
+    {
+        "paper_title": "Towards Creativity Characterization of Generative Models via Group-Based Subset Scanning",
+        "author_names": "Celia Cintas, Payel Das, Brian Quanz, Girmaw Abebe Tadesse, Skyler Speakman, Pin-Yu Chen"
+    },
+    {
+        "paper_title": "Art Creation with Multi-Conditional StyleGANs",
+        "author_names": "Konstantin Dobler, Florian H\u00fcbscher, Jan Westphal, Alejandro Sierra-M\u00fanera, Gerard de Melo, Ralf Krestel"
+    },
+    {
+        "paper_title": "Threshold Designer Adaptation: Improved Adaptation for Designers in Co-creative Systems",
+        "author_names": "Emily Halina, Matthew Guzdial"
+    },
+    {
+        "paper_title": "Automated Sifting of Stories from Simulated Storyworlds",
+        "author_names": "Wilkins Leong, Julie Porteous, John Thangarajah"
+    },
+    {
+        "paper_title": "Universal Video Style Transfer via Crystallization, Separation, and Blending",
+        "author_names": "Haofei Lu, Zhizhong Wang"
+    },
+    {
+        "paper_title": "StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation",
+        "author_names": "Peter Schaldenbrand, Zhixuan Liu, Jean Oh"
+    },
+    {
+        "paper_title": "Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images",
+        "author_names": "Matthew I. Swindall, Timothy Player, Ben Keener, Alex C. Williams, James H. Brusuelas, Federica Nicolardi, Marzia D'Angelo, Claudio Vergara, Michael McOsker, John F. Wallin"
+    },
+    {
+        "paper_title": "DivSwapper: Towards Diversified Patch-based Arbitrary Style Transfer",
+        "author_names": "Zhizhong Wang, Lei Zhao, Haibo Chen, Zhiwen Zuo, Ailin Li, Wei Xing, Dongming Lu"
+    },
+    {
+        "paper_title": "Music-to-Dance Generation with Optimal Transport",
+        "author_names": "Shuang Wu, Shijian Lu, Li Cheng"
+    },
+    {
+        "paper_title": "Composition-aware Graphic Layout GAN for Visual-Textual Presentation Designs",
+        "author_names": "Min Zhou, Chenchen Xu, Ye Ma, Tiezheng Ge, Yuning Jiang, Weiwei Xu"
+    },
+    {
+        "paper_title": "Style Fader Generative Adversarial Networks for Style Degree Controllable Artistic Style Transfer",
+        "author_names": "Zhiwen Zuo, Lei Zhao, Shuobin Lian, Haibo Chen, Zhizhong Wang, Ailin Li, Wei Xing, Dongming Lu"
+    },
+    {
+        "paper_title": "Captioning Bosch: A Twitter Bot",
+        "author_names": "Cornelia Ferner"
+    },
+    {
+        "paper_title": "High-Resolution and Arbitrary-Sized Chinese Landscape Painting Creation Based on Generative Adversarial Networks",
+        "author_names": "Peixiang Luo, Jinchao Zhang, Jie Zhou"
+    },
+    {
+        "paper_title": "Learning to Generate Poetic Chinese Landscape Painting with Calligraphy",
+        "author_names": "Shaozu Yuan, Aijun Dai, Zhiling Yan, Ruixue Liu, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He"
+    },
+    {
+        "paper_title": "Learning Pollution Maps from Mobile Phone Images",
+        "author_names": "Ankit Bhardwaj, Shiva Iyer, Yash Jalan, Lakshminarayanan Subramanian"
+    },
+    {
+        "paper_title": "Deciphering Environmental Air Pollution with Large Scale City Data",
+        "author_names": "Mayukh Bhattacharyya, Sayan Nag, Udita Ghosh"
+    },
+    {
+        "paper_title": "Chronic Disease Management with Personalized Lab Test Response Prediction",
+        "author_names": "Suman Bhoi, Mong Li Lee, Wynne Hsu, Hao Sen Andrew Fang, Ngiap Chuan Tan"
+    },
+    {
+        "paper_title": "AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation",
+        "author_names": "Xu Cao, Xiaoye Li, Liya Ma, Yi Huang, Xuan Feng, Zening Chen, Hongwu Zeng, Jianguo Cao"
+    },
+    {
+        "paper_title": "Forecasting Patient Outcomes in Kidney Exchange",
+        "author_names": "Naveen Durvasula, Aravind Srinivasan, John Dickerson"
+    },
+    {
+        "paper_title": "A Murder and Protests, the Capitol Riot, and the Chauvin Trial: Estimating Disparate News Media Stance",
+        "author_names": "Sujan Dutta, Beibei Li, Daniel S. Nagin, Ashiqur R. KhudaBukhsh"
+    },
+    {
+        "paper_title": "Monitoring Vegetation From Space at Extremely Fine Resolutions via Coarsely-Supervised Smooth U-Net",
+        "author_names": "Joshua Fan, Di Chen, Jiaming Wen, Ying Sun, Carla Gomes"
+    },
+    {
+        "paper_title": "Am I No Good? Towards Detecting Perceived Burdensomeness and Thwarted Belongingness from Suicide Notes",
+        "author_names": "Soumitra Ghosh, Asif Ekbal, Pushpak Bhattacharyya"
+    },
+    {
+        "paper_title": "AI Facilitated Isolations? The Impact of Recommendation-based Influence Diffusion in Human Society",
+        "author_names": "Yuxuan Hu, Shiqing Wu, Chenting Jiang, Weihua Li, Quan Bai, Erin Roehrer"
+    },
+    {
+        "paper_title": "Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection",
+        "author_names": "Ziyi Kou, Lanyu Shang, Yang Zhang, Zhenrui Yue, Huimin Zeng, Dong Wang"
+    },
+    {
+        "paper_title": "Towards the Quantitative Interpretability Analysis of Citizens Happiness Prediction",
+        "author_names": "Lin Li, Xiaohua Wu, Miao Kong, Dong Zhou, Xiaohui Tao"
+    },
+    {
+        "paper_title": "S2SNet: A Pretrained Neural Network for Superconductivity Discovery",
+        "author_names": "Ke Liu, Kaifan Yang, Jiahong Zhang, Renjun Xu"
+    },
+    {
+        "paper_title": "Creating Dynamic Checklists via Bayesian Case-Based Reasoning: Towards Decent Working Conditions for All",
+        "author_names": "Eirik Lund  Flogard, Ole Jakob Mengshoel, Kerstin Bach"
+    },
+    {
+        "paper_title": "A Reliability-aware Distributed Framework to Schedule Residential Charging of Electric Vehicles",
+        "author_names": "Rounak Meyur, Swapna Thorve, Madhav Marathe, Anil Vullikanti, Samarth Swarup, Henning Mortveit"
+    },
+    {
+        "paper_title": "Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers",
+        "author_names": "Ashish Nair, Rahul Yadav, Anjali Gupta, Abhijnan Chakraborty, Sayan Ranu, Amitabha Bagchi"
+    },
+    {
+        "paper_title": "ADVISER: AI-Driven Vaccination Intervention Optimiser for Increasing Vaccine Uptake in Nigeria",
+        "author_names": "Vineet Nair, Kritika Prakash, Michael Wilbur, Aparna Taneja, Corrine Namblard, Oyindamola Adeyemo, Abhishek Dubey, Abiodun Adereni, Milind Tambe, Ayan Mukhopadhyay"
+    },
+    {
+        "paper_title": "Ownership Concentration and Wealth Inequality in Russia",
+        "author_names": "Kirill Polovnikov, Nikita Pospelov, Dmitriy Skougarevskiy"
+    },
+    {
+        "paper_title": "DiRe Committee : Diversity and Representation Constraints in Multiwinner Elections",
+        "author_names": "Kunal Relia"
+    },
+    {
+        "paper_title": "AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition",
+        "author_names": "Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li"
+    },
+    {
+        "paper_title": "CounterGeDi: A Controllable Approach to Generate Polite, Detoxified and Emotional Counterspeech",
+        "author_names": "Punyajoy Saha, Kanishk Singh, Adarsh Kumar, Binny Mathew, Animesh Mukherjee"
+    },
+    {
+        "paper_title": "Scalable and Memory-Efficient Algorithms for Controlling Networked Epidemic Processes Using Multiplicative Weights Update Method",
+        "author_names": "Prathyush Sambaturu, Marco Minutoli, Mahantesh Halappanavar, Ananth Kalyanaraman, Anil Vullikanti"
+    },
+    {
+        "paper_title": "Revealing the Excitation Causality between Climate and Political Violence via a Neural Forward-Intensity Poisson Process",
+        "author_names": "Schyler C. Sun, Bailu Jin, Zhuangkun Wei, Weisi Guo"
+    },
+    {
+        "paper_title": "Forecasting the Number of Tenants At-Risk of Formal Eviction: A Machine Learning Approach to Inform Public Policy",
+        "author_names": "Maryam Tabar, Wooyong Jung, Amulya Yadav, Owen Wilson Chavez, Ashley Flores, Dongwon Lee"
+    },
+    {
+        "paper_title": "Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture",
+        "author_names": "Anoushka Vyas, Sambaran Bandyopadhyay"
+    },
+    {
+        "paper_title": "Quantifying Health Inequalities Induced by Data and AI Models",
+        "author_names": "Honghan Wu, Aneeta Sylolypavan, Minhong Wang, Sarah Wild"
+    },
+    {
+        "paper_title": "Sequential Vaccine Allocation with Delayed Feedback",
+        "author_names": "Yichen Xiao, Han-Ching Ou, Haipeng Chen, Van Thieu Nguyen, Long Tran-Thanh"
+    },
+    {
+        "paper_title": "Ranked Prioritization of Groups in Combinatorial Bandit Allocation",
+        "author_names": "Lily Xu, Arpita Biswas, Fei Fang, Milind Tambe"
+    },
+    {
+        "paper_title": "Conversational Inequality Through the Lens of Political Interruption",
+        "author_names": "Clay H. Yoo, Jiachen Wang, Yuxi Luo, Kunal Khadilkar, Ashiqur R. KhudaBukhsh"
+    },
+    {
+        "paper_title": "Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression",
+        "author_names": "Zhiling Zhang, Siyuan Chen, Mengyue Wu, Kenny Q. Zhu"
+    },
+    {
+        "paper_title": "A norm optimisation approach to SDGs: tackling poverty by acting on discrimination",
+        "author_names": "Georgina Curto, Nieves Montes, Carles Sierra, Nardine Osman, Flavio Comim"
+    },
+    {
+        "paper_title": "Interactive concept-map based summaries for SEND children",
+        "author_names": "Martina Galletti, Michael Anslow, Francesca Bianchi, Manuela Calanca, Donatella Tomaiuoli, Remi Van Trijp, Diletta Vedovelli, Eleonora Pasqua"
+    },
+    {
+        "paper_title": "Argo: Towards Small Vessel Detection for Humanitarian Purposes",
+        "author_names": "Elisabeth Moser, Selina Meyer, Maximilian Schmidhuber, Daniel Ketterer, Matthias Eberhardt"
+    },
+    {
+        "paper_title": "Climate Bot: A Machine Reading Comprehension System for Climate Change Question Answering",
+        "author_names": "Md Rashad Al Hasan Rony, Ying Zuo, Liubov Kovriguina, Roman Teucher, Jens Lehmann"
+    },
+    {
+        "paper_title": "On the Expressivity of Markov Reward (Extended Abstract)",
+        "author_names": "David Abel, Will Dabney, Anna Harutyunyan, Mark K. Ho, Michael L. Littman, Doina Precup, Satinder Singh"
+    },
+    {
+        "paper_title": "Improving Inductive Link Prediction Using Hyper-Relational Facts (Extended Abstract)",
+        "author_names": "Mehdi Ali, Max Berrendorf, Mikhail Galkin, Veronika Thost, Tengfei Ma, Volker Tresp, Jens Lehmann"
+    },
+    {
+        "paper_title": "Utilizing Treewidth for Quantitative Reasoning on Epistemic Logic Programs (Extended Abstract)",
+        "author_names": "Viktor Besin, Markus Hecher, Stefan Woltran"
+    },
+    {
+        "paper_title": "Capturing Homomorphism-Closed Decidable Queries with Existential Rules (Extended Abstract)",
+        "author_names": "Camille Bourgaux, David Carral, Markus Kr\u00f6tzsch, Sebastian Rudolph, Micha\u00ebl Thomazo"
+    },
+    {
+        "paper_title": "Deep Cooperation of CDCL and Local Search for SAT (Extended Abstract)",
+        "author_names": "Shaowei Cai, Xindi Zhang"
+    },
+    {
+        "paper_title": "Scalable Anytime Planning for Multi-Agent MDPs (Extended Abstract)",
+        "author_names": "Shushman Choudhury, Jayesh K. Gupta, Mykel J. Kochenderfer"
+    },
+    {
+        "paper_title": "Measuring Data Leakage in Machine-Learning Models with Fisher Information (Extended Abstract)",
+        "author_names": "Awni Hannun, Chuan Guo, Laurens van der Maaten"
+    },
+    {
+        "paper_title": "Allocating Opportunities in a Dynamic Model of Intergenerational Mobility (Extended Abstract)",
+        "author_names": "Hoda Heidari, Jon Kleinberg"
+    },
+    {
+        "paper_title": "Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent (Extended Abstract)",
+        "author_names": "Frederik Kunstner, Raunak Kumar, Mark Schmidt"
+    },
+    {
+        "paper_title": "Combining Clause Learning and Branch and Bound for MaxSAT (Extended Abstract)",
+        "author_names": "Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Many\u00e0, Djamal Habet, Kun He"
+    },
+    {
+        "paper_title": "Open Data Science to Fight COVID-19: Winning the 500k XPRIZE Pandemic Response Challenge (Extended Abstract)",
+        "author_names": "Miguel Angel Lozano, \u00d2scar Garibo-i-Orts, Eloy Pi\u00f1ol, Miguel Rebollo, Kristina Polotskaya, Miguel \u00c1ngel Garc\u00eda-March, J. Alberto Conejero, Francisco Escolano, Nuria Oliver"
+    },
+    {
+        "paper_title": "Complex Query Answering with Neural Link Predictors (Extended Abstract)*",
+        "author_names": "Pasquale Minervini, Erik Arakelyan, Daniel Daza, Michael Cochez"
+    },
+    {
+        "paper_title": "Detect, Understand, Act: A Neuro-Symbolic Hierarchical Reinforcement Learning Framework (Extended Abstract)",
+        "author_names": "Ludovico Mitchener, David Tuckey, Matthew Crosby, Alessandra Russo"
+    },
+    {
+        "paper_title": "Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness (Extended Abstract)",
+        "author_names": "Harrie Oosterhuis"
+    },
+    {
+        "paper_title": "Logic Rules Meet Deep Learning: A Novel Approach for Ship Type Classification (Extended Abstract)",
+        "author_names": "Manolis Pitsikalis, Thanh-Toan Do, Alexei Lisitsa, Shan Luo"
+    },
+    {
+        "paper_title": "Asymmetric Hybrids: Dialogues for Computational Concept Combination (Extended Abstract)",
+        "author_names": "Guendalina Righetti, Daniele Porello, Nicolas Troquard, Oliver Kutz, Maria Hedblom, Pietro Galliani"
+    },
+    {
+        "paper_title": "Computing Programs for Generalized Planning as Heuristic Search (Extended Abstract)",
+        "author_names": "Javier Segovia-Aguas, Sergio Jim\u00e9nez Celorrio, Anders Jonsson"
+    },
+    {
+        "paper_title": "Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach (Extended Abstract)",
+        "author_names": "Ashish Sharma, Inna W. Lin, Adam S. Miner, Dave C. Atkins, Tim Althoff"
+    },
+    {
+        "paper_title": "ProtoAI: Model-Informed Prototyping for AI-Powered Interfaces (Extended Abstract)",
+        "author_names": "Hariharan Subramonyam, Colleen Seifert, Eytan Adar"
+    },
+    {
+        "paper_title": "Black-box Audit of YouTube's Video Recommendation: Investigation of Misinformation Filter Bubble Dynamics (Extended Abstract)",
+        "author_names": "Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Maria Bielikova"
+    },
+    {
+        "paper_title": "Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies (Extended Abstract)",
+        "author_names": "Paul Vicol, Luke Metz, Jascha Sohl-Dickstein"
+    },
+    {
+        "paper_title": "The Min-Max Complexity of Distributed Stochastic Convex Optimization with Intermittent Communication (Extended Abstract)",
+        "author_names": "Blake Woodworth, Brian Bullins, Ohad Shamir, Nathan Srebro"
+    },
+    {
+        "paper_title": "Statistically-Guided Deep Network Transformation to Harness Heterogeneity in Space (Extended Abstract)",
+        "author_names": "Yiqun Xie, Erhu He, Xiaowei Jia, Han Bao, Xun Zhou, Rahul Ghosh, Praveen Ravirathinam"
+    },
+    {
+        "paper_title": "Including Signed Languages in Natural Language Processing (Extended Abstract)",
+        "author_names": "Kayo Yin, Malihe Alikhani"
+    },
+    {
+        "paper_title": "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval (Extended Abstract)",
+        "author_names": "Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma"
+    },
+    {
+        "paper_title": "Rx-refill Graph Neural Network to Reduce Drug Overprescribing Risks (Extended Abstract)",
+        "author_names": "Jianfei Zhang, Ai-Te Kuo, Jianan Zhao, Qianlong Wen, Erin Winstanley, Chuxu Zhang, Yanfang Ye"
+    },
+    {
+        "paper_title": "Fair Division of Indivisible Goods: A  Survey",
+        "author_names": "Georgios Amanatidis, Georgios Birmpas, Aris Filos-Ratsikas, Alexandros A. Voudouris"
+    },
+    {
+        "paper_title": "Text Transformations in Contrastive Self-Supervised Learning: A Review",
+        "author_names": "Amrita Bhattacharjee, Mansooreh Karami, Huan Liu"
+    },
+    {
+        "paper_title": "A Survey on Word Meta-Embedding Learning",
+        "author_names": "Danushka Bollegala, James O' Neill"
+    },
+    {
+        "paper_title": "Image-text Retrieval: A Survey on Recent Research and Development",
+        "author_names": "Min Cao, Shiping Li, Juntao Li, Liqiang Nie, Min Zhang"
+    },
+    {
+        "paper_title": "Evidential Reasoning and Learning: a Survey",
+        "author_names": "Federico Cerutti, Lance M. Kaplan, Murat \u015eensoy"
+    },
+    {
+        "paper_title": "Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks",
+        "author_names": "Haoyu Dong, Zhoujun Cheng, Xinyi He, Mengyu Zhou, Anda Zhou, Fan Zhou, Ao Liu, Shi Han, Dongmei Zhang"
+    },
+    {
+        "paper_title": "A Survey of Vision-Language Pre-Trained Models",
+        "author_names": "Yifan Du, Zikang Liu, Junyi Li, Wayne Xin Zhao"
+    },
+    {
+        "paper_title": "A Survey on Machine Learning Approaches for Modelling Intuitive Physics",
+        "author_names": "Jiafei Duan, Arijit Dasgupta, Jason Fischer, Cheston Tan"
+    },
+    {
+        "paper_title": "A Survey on Dialogue Summarization: Recent Advances and New Frontiers",
+        "author_names": "Xiachong Feng, Xiaocheng Feng, Bing Qin"
+    },
+    {
+        "paper_title": "Legal Judgment Prediction: A Survey of the State of the Art",
+        "author_names": "Yi Feng, Chuanyi Li, Vincent Ng"
+    },
+    {
+        "paper_title": "Differential Privacy and Fairness in Decisions and Learning Tasks: A Survey",
+        "author_names": "Ferdinando Fioretto, Cuong Tran, Pascal Van Hentenryck, Keyu Zhu"
+    },
+    {
+        "paper_title": "Deep Learning with Logical Constraints",
+        "author_names": "Eleonora Giunchiglia, Mihaela Catalina Stoian, Thomas Lukasiewicz"
+    },
+    {
+        "paper_title": "Who Says What to Whom: A Survey of Multi-Party Conversations",
+        "author_names": "Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling"
+    },
+    {
+        "paper_title": "Survey on Efficient Training of Large Neural Networks",
+        "author_names": "Julia Gusak, Daria Cherniuk, Alena Shilova, Alexandr Katrutsa, Daniel Bershatsky, Xunyi Zhao, Lionel Eyraud-Dubois, Oleh Shliazhko, Denis Dimitrov, Ivan Oseledets, Olivier Beaumont"
+    },
+    {
+        "paper_title": "Goal-Conditioned Reinforcement Learning: Problems and Solutions",
+        "author_names": "Minghuan Liu, Menghui Zhu, Weinan Zhang"
+    },
+    {
+        "paper_title": "Neural Re-ranking in Multi-stage Recommender Systems: A Review",
+        "author_names": "Weiwen Liu, Yunjia Xi, Jiarui Qin, Fei Sun, Bo Chen, Weinan Zhang, Rui Zhang, Ruiming Tang"
+    },
+    {
+        "paper_title": "Survey on Graph Neural Network Acceleration: An Algorithmic Perspective",
+        "author_names": "Xin Liu, Mingyu Yan, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan, Shirui Pan, Yuan Xie"
+    },
+    {
+        "paper_title": "Vision-and-Language Pretrained Models: A Survey",
+        "author_names": "Siqu Long, Feiqi Cao, Soyeon Caren Han, Haiqin Yang"
+    },
+    {
+        "paper_title": "Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation?",
+        "author_names": "Beren Millidge, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz"
+    },
+    {
+        "paper_title": "Deep Learning Meets Software Engineering: A Survey on Pre-Trained Models of Source Code",
+        "author_names": "Changan Niu, Chuanyi Li, Bin Luo, Vincent Ng"
+    },
+    {
+        "paper_title": "Evaluation Methods for Representation Learning: A Survey",
+        "author_names": "Kento Nozawa, Issei Sato"
+    },
+    {
+        "paper_title": "A Unified View of Relational Deep Learning for Drug Pair Scoring",
+        "author_names": "Benedek Rozemberczki, Stephen Bonner, Andriy Nikolov, Micha\u00ebl Ughetto, Sebastian Nilsson, Eliseo Papa"
+    },
+    {
+        "paper_title": "The Shapley Value in Machine Learning",
+        "author_names": "Benedek Rozemberczki, Lauren Watson, P\u00e9ter Bayer, Hao-Tsung Yang, Oliv\u00e9r Kiss, Sebastian Nilsson, Rik Sarkar"
+    },
+    {
+        "paper_title": "A Survey of Machine Narrative Reading Comprehension Assessments",
+        "author_names": "Yisi Sang, Xiangyang Mou, Jing Li, Jeffrey Stanton, Mo Yu"
+    },
+    {
+        "paper_title": "Abstraction for Deep Reinforcement Learning",
+        "author_names": "Murray Shanahan, Melanie Mitchell"
+    },
+    {
+        "paper_title": "Detecting and Understanding Harmful Memes: A Survey",
+        "author_names": "Shivam Sharma, Firoj Alam, Md. Shad Akhtar, Dimitar Dimitrov, Giovanni Da San Martino, Hamed Firooz, Alon Halevy, Fabrizio Silvestri, Preslav Nakov, Tanmoy Chakraborty"
+    },
+    {
+        "paper_title": "Data Valuation in Machine Learning: \"Ingredients\", Strategies, and Open Challenges",
+        "author_names": "Rachael Hwee Ling Sim, Xinyi Xu, Bryan Kian Hsiang Low"
+    },
+    {
+        "paper_title": "Problem Compilation for Multi-Agent Path Finding: a Survey",
+        "author_names": "Pavel Surynek"
+    },
+    {
+        "paper_title": "A Survey of Risk-Aware Multi-Armed Bandits",
+        "author_names": "Vincent Y. F. Tan, Prashanth L.A., Krishna Jagannathan"
+    },
+    {
+        "paper_title": "Vision-based Intention and Trajectory Prediction in Autonomous Vehicles: A Survey",
+        "author_names": "Izzeddin Teeti, Salman Khan, Ajmal Shahbaz, Andrew Bradley, Fabio Cuzzolin"
+    },
+    {
+        "paper_title": "Recent Advances on Neural Network Pruning at Initialization",
+        "author_names": "Huan Wang, Can Qin, Yue Bai, Yulun Zhang, Yun Fu"
+    },
+    {
+        "paper_title": "On the Opportunity of Causal Learning in Recommendation Systems: Foundation, Estimation, Prediction and Challenges",
+        "author_names": "Peng Wu, Haoxuan Li, Yuhao Deng, Wenjie Hu, Quanyu Dai, Zhenhua Dong, Jie Sun, Rui Zhang, Xiao-Hua Zhou"
+    },
+    {
+        "paper_title": "Recent Advances in Concept Drift Adaptation Methods for Deep Learning",
+        "author_names": "Liheng Yuan, Heng Li, Beihao Xia, Cuiying Gao, Mingyue Liu, Wei Yuan, Xinge You"
+    },
+    {
+        "paper_title": "Few-Shot Learning on Graphs",
+        "author_names": "Chuxu Zhang, Kaize Ding, Jundong Li, Xiangliang Zhang, Yanfang Ye, Nitesh V. Chawla, Huan Liu"
+    },
+    {
+        "paper_title": "Recent Advances and New Frontiers in Spiking Neural Networks",
+        "author_names": "Duzhen Zhang, Shuncheng Jia, Qingyu Wang"
+    },
+    {
+        "paper_title": "A Survey on Gradient Inversion: Attacks, Defenses and Future Directions",
+        "author_names": "Rui Zhang, Song Guo, Junxiao Wang, Xin Xie, Dacheng Tao"
+    },
+    {
+        "paper_title": "Towards Verifiable Federated Learning",
+        "author_names": "Yanci Zhang, Han Yu"
+    },
+    {
+        "paper_title": "A Survey on Neural Open Information Extraction: Current Status and Future Directions",
+        "author_names": "Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun"
+    },
+    {
+        "paper_title": "On the First-Order Rewritability of Ontology-Mediated Queries in Linear Temporal Logic (Extended Abstract)",
+        "author_names": "Alessandro Artale, Roman Kontchakov, Alisa Kovtunova, Vladislav Ryzhikov, Frank Wolter, Michael Zakharyaschev"
+    },
+    {
+        "paper_title": "Bayesian Auctions with Efficient Queries (Extended Abstract)",
+        "author_names": "Jing Chen, Bo Li, Yingkai Li, Pinyan Lu"
+    },
+    {
+        "paper_title": "Overlapping Communities and Roles in Networks with Node Attributes: Probabilistic Graphical Modeling, Bayesian Formulation and Variational Inference (Extended Abstract)",
+        "author_names": "Gianni Costa, Riccardo Ortale"
+    },
+    {
+        "paper_title": "On Quantifying Literals in Boolean Logic and its Applications to Explainable AI (Extended Abstract)",
+        "author_names": "Adnan Darwiche, Pierre Marquis"
+    },
+    {
+        "paper_title": "Situation Calculus for Controller Synthesis in Manufacturing Systems with First-Order State Representation (Extended Abstract)",
+        "author_names": "Giuseppe De Giacomo, Paolo Felli, Brian Logan, Fabio Patrizi, Sebastian Sardi\u00f1a"
+    },
+    {
+        "paper_title": "Making Sense of Raw Input (Extended Abstract)",
+        "author_names": "Richard Evans, Matko Bo\u0161njak, Lars Buesing, Kevin Ellis, David Pfau, Pushmeet Kohli, Marek Sergot"
+    },
+    {
+        "paper_title": "Abstraction in Data-Sparse Task Transfer (Extended Abstract)",
+        "author_names": "Tesca Fitzgerald, Ashok Goel, Andrea Thomaz"
+    },
+    {
+        "paper_title": "Experimental Comparison and Survey of Twelve Time Series Anomaly Detection Algorithms (Extended Abstract)",
+        "author_names": "Cynthia Freeman, Jonathan Merriman, Ian Beaver, Abdullah Mueen"
+    },
+    {
+        "paper_title": "Dimensional Inconsistency Measures and Postulates in Spatio-Temporal Databases (Extended Abstract)",
+        "author_names": "John Grant, Maria Vanina Martinez, Cristian Molinaro, Francesco Parisi"
+    },
+    {
+        "paper_title": "Local and Global Explanations of Agent Behavior: Integrating Strategy Summaries with Saliency Maps (Extended Abstract)",
+        "author_names": "Tobias Huber, Katharina Weitz, Elisabeth Andr\u00e9, Ofra Amir"
+    },
+    {
+        "paper_title": "sunny-as2: Enhancing SUNNY for Algorithm Selection (Extended Abstract)",
+        "author_names": "Tong Liu, Roberto Amadini, Maurizio Gabbrielli, Jacopo Mauro"
+    },
+    {
+        "paper_title": "Intelligence in Strategic Games (Extended Abstract)",
+        "author_names": "Pavel Naumov, Yuan Yuan"
+    },
+    {
+        "paper_title": "Learning  Realistic Patterns from Visually Unrealistic Stimuli: Generalization and Data Anonymization (Extended Abstract)",
+        "author_names": "Konstantinos Nikolaidis, Stein Kristiansen, Thomas Plagemann, Vera Goebel, Knut Liest\u00f8l, Mohan Kankanhalli, Gunn-Marit Traaen, Britt \u00d8verland, Harriet Akre, Lars Aakeroy, Sigurd Steinshamn"
+    },
+    {
+        "paper_title": "Abstraction for Non-Ground Answer Set Programs (Extended Abstract)",
+        "author_names": "Zeynep G. Saribatur, Thomas Eiter, Peter Sch\u00fcller"
+    },
+    {
+        "paper_title": "A Theoretical Perspective on Hyperdimensional Computing (Extended Abstract)",
+        "author_names": "Anthony Thomas, Sanjoy Dasgupta, Tajana Rosing"
+    },
+    {
+        "paper_title": "Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks (Extended Abstract)*",
+        "author_names": "Song\u00fcl Tolan, Annarosa Pesole, Fernando Mart\u00ednez-Plumed, Enrique Fern\u00e1ndez-Mac\u00edas, Jos\u00e9 Hern\u00e1ndez-Orallo, Emilia G\u00f3mez"
+    },
+    {
+        "paper_title": "Why Bad Coffee? Explaining BDI Agent Behaviour with Valuings (Extended Abstract)",
+        "author_names": "Michael Winikoff, Galina Sidorenko, Virginia Dignum, Frank Dignum"
+    },
+    {
+        "paper_title": "Ethics and Governance of Artificial Intelligence: A Survey of Machine Learning Researchers (Extended Abstract)",
+        "author_names": "Baobao Zhang, Markus Anderljung, Lauren Kahn, Noemi Dreksler, Michael C. Horowitz, Allan Dafoe"
+    },
+    {
+        "paper_title": "Improving the Effectiveness and Efficiency of Stochastic Neighbour Embedding with Isolation Kernel (Extended Abstract)",
+        "author_names": "Ye Zhu, Kai Ming Ting"
+    },
+    {
+        "paper_title": "Irrational, but Adaptive and Goal Oriented: Humans Interacting with Autonomous Agents",
+        "author_names": "Amos Azaria"
+    },
+    {
+        "paper_title": "Analyzing and Designing Strategic Environments in Social Domains",
+        "author_names": "Hau Chan"
+    },
+    {
+        "paper_title": "Integrating Machine Learning and Optimization to Boost Decision Making",
+        "author_names": "Ferdinando Fioretto"
+    },
+    {
+        "paper_title": "Interaction and Expressivity in Collective Decision-Making",
+        "author_names": "Umberto Grandi"
+    },
+    {
+        "paper_title": "Counting, Sampling, and Synthesis: The Quest for Scalability",
+        "author_names": "Kuldeep S. Meel"
+    },
+    {
+        "paper_title": "Controllable Text Generation for Open-Domain Creativity and Fairness",
+        "author_names": "Nanyun (Violet) Peng"
+    },
+    {
+        "paper_title": "Towards Theoretically Grounded Evolutionary Learning",
+        "author_names": "Chao Qian"
+    },
+    {
+        "paper_title": "Mechanism Design Powered by Social Interactions: A Call to Arms",
+        "author_names": "Dengji Zhao"
+    },
+    {
+        "paper_title": "Towards New Optimized Artificial Immune Recognition Systems under the Belief Function Theory",
+        "author_names": "Rihab Abdelkhalek"
+    },
+    {
+        "paper_title": "Extending Decision Tree to Handle Multiple Fairness Criteria",
+        "author_names": "Alessandro Castelnovo"
+    },
+    {
+        "paper_title": "Dynamic Bandits with Temporal Structure",
+        "author_names": "Qinyi Chen"
+    },
+    {
+        "paper_title": "Hybrid Learning System for Large-scale Medical Image Analysis",
+        "author_names": "Zehua Cheng, Lianlong Wu"
+    },
+    {
+        "paper_title": "KRAKEN: A Novel Semantic-Based Approach for Keyphrases Extraction",
+        "author_names": "Simone D'Amico"
+    },
+    {
+        "paper_title": "Building a Visual Semantics Aware Object Hierarchy",
+        "author_names": "Xiaolei Diao"
+    },
+    {
+        "paper_title": "Decomposition Methods for Solving Scheduling Problem Using Answer Set Programming",
+        "author_names": "Mohammed  M. S. El-Kholany"
+    },
+    {
+        "paper_title": "Decentralized Autonomous Organizations and Multi-agent Systems for Artificial Intelligence Applications and Data Analysis",
+        "author_names": "Sante Dino Facchini"
+    },
+    {
+        "paper_title": "A Unified Framework for Intrinsic Evaluation of Word-Embedding Algorithms",
+        "author_names": "Anna Giabelli"
+    },
+    {
+        "paper_title": "Early Diagnosis of Lyme Disease by Recognizing Erythema Migrans Skin Lesion from Images Utilizing Deep Learning Techniques",
+        "author_names": "Sk Imran Hossain"
+    },
+    {
+        "paper_title": "Scalable ML Methods to Optimize KPIs in Real-World Manufacturing Processes",
+        "author_names": "Benjamin Kov\u00e1cs"
+    },
+    {
+        "paper_title": "Equilibria in Strategic Nominee Selection",
+        "author_names": "Grzegorz Lisowski"
+    },
+    {
+        "paper_title": "Engineering Socially-Oriented Autonomous Agents and Multiagent Systems",
+        "author_names": "Nieves Montes"
+    },
+    {
+        "paper_title": "Application of Neurosymbolic AI to Sequential Decision Making",
+        "author_names": "Carlos N\u00fa\u00f1ez-Molina"
+    },
+    {
+        "paper_title": "Multivariate Times Series Classification Using Multichannel CNN",
+        "author_names": "YongKyung Oh"
+    },
+    {
+        "paper_title": "Anchors Selection for Cross-lingual Embedding Alignment through Time",
+        "author_names": "Filippo Pallucchini"
+    },
+    {
+        "paper_title": "Transferability and Stability of Learning with Limited Labelled Data in Multilingual Text Document Classification",
+        "author_names": "Branislav Pecher"
+    },
+    {
+        "paper_title": "Towards Contextually Sensitive Analysis of Memes: Meme Genealogy and Knowledge Base",
+        "author_names": "Victoria Sherratt"
+    },
+    {
+        "paper_title": "Data-Efficient Algorithms and Neural Natural Language Processing: Applications in the Healthcare Domain",
+        "author_names": "Heereen Shim"
+    },
+    {
+        "paper_title": "A Model-Oriented Approach for Lifting Symmetry-Breaking Constraints in Answer Set Programming",
+        "author_names": "Alice Tarzariol"
+    },
+    {
+        "paper_title": "Adaptive Artificial Intelligence Scheduling Methods for Large-Scale, Stochastic, Industrial Applications",
+        "author_names": "Pierre Tassel"
+    },
+    {
+        "paper_title": "Information Injection to Deep Learning Solutions in Knowledge Transfer",
+        "author_names": "Paulina Tomaszewska"
+    },
+    {
+        "paper_title": "Automatic Multimodal Emotion Recognition Using Facial Expression, Voice, and Text",
+        "author_names": "H\u00e9l\u00e8ne Tran"
+    },
+    {
+        "paper_title": "Anomaly Explanation",
+        "author_names": "V\u00e9ronne Yepmo"
+    },
+    {
+        "paper_title": "Diffusion Incentives in Cooperative Games",
+        "author_names": "Yao Zhang"
+    },
+    {
+        "paper_title": "Together about Dementia",
+        "author_names": "Nicklas Sindlev Andersen, Marco Chiarandini"
+    },
+    {
+        "paper_title": "Displaying Justifications for Collective Decisions",
+        "author_names": "Arthur Boixel, Ulle Endriss, Oliviero Nardi"
+    },
+    {
+        "paper_title": "Itero: An Online Iterative Voting Application",
+        "author_names": "Joseph Boudou, Rachael Colley, Umberto Grandi"
+    },
+    {
+        "paper_title": "Interactive Reinforcement Learning for Symbolic Regression from Multi-Format Human-Preference Feedbacks",
+        "author_names": "Laure Crochepierre, Lydia Boudjeloud-Assala, Vincent Barbesant"
+    },
+    {
+        "paper_title": "Knowledge-Based News Event Analysis and Forecasting Toolkit",
+        "author_names": "Oktie Hassanzadeh, Parul Awasthy, Ken Barker, Onkar Bhardwaj, Debarun Bhattacharjya, Mark Feblowitz, Lee Martie, Jian Ni, Kavitha Srinivas, Lucy Yip"
+    },
+    {
+        "paper_title": "CARBEN: Composite Adversarial Robustness Benchmark",
+        "author_names": "Lei Hsiung, Yun-Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho"
+    },
+    {
+        "paper_title": "A Speech-driven Sign Language Avatar Animation System for Hearing Impaired Applications",
+        "author_names": "Li Hu, Jiahui Li, Jiashuo Zhang, Qi Wang, Bang Zhang, Ping Tan"
+    },
+    {
+        "paper_title": "ExplainIt!: A Tool for Computing Robust Attributions of DNNs",
+        "author_names": "Sumit Jha, Alvaro Velasquez, Rickard Ewetz, Laura Pullum, Susmit Jha"
+    },
+    {
+        "paper_title": "PillGood: Automated and Interactive Pill Dispenser Using Facial Recognition for Safe and Personalized Medication",
+        "author_names": "Jonghyeok Kim, Hosung Kwon, Jonghyeon Kim, Jinsoo Park, Soong-Un Choi, Sookyung Kim"
+    },
+    {
+        "paper_title": "Sign-to-Speech Model for Sign Language Understanding: A Case Study of Nigerian Sign Language",
+        "author_names": "Steven Kolawole, Opeyemi Osakuade, Nayan Saxena, Babatunde Kazeem Olorisade"
+    },
+    {
+        "paper_title": "Real-Time Portrait Stylization on the Edge",
+        "author_names": "Yanyu Li, Xuan Shen, Geng Yuan, Jiexiong Guan, Wei Niu, Hao Tang, Bin Ren, Yanzhi Wang"
+    },
+    {
+        "paper_title": "AMICA: An Argumentative Search Engine for COVID-19 Literature",
+        "author_names": "Marco Lippi, Francesco Antici, Gianfranco Brambilla, Evaristo Cisbani, Andrea Galassi, Daniele Giansanti, Fabio Magurano, Antonella Rosi, Federico Ruggeri, Paolo Torroni"
+    },
+    {
+        "paper_title": "The Good, the Bad, and the Explainer: A Tool for Contrastive Explanations of Text Classifiers",
+        "author_names": "Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Navid Nobani, Andrea Seveso"
+    },
+    {
+        "paper_title": "ACTA 2.0: A Modular Architecture for Multi-Layer Argumentative Analysis of Clinical Trials",
+        "author_names": "Benjamin Molinet, Santiago Marro, Elena Cabrio, Serena Villata, Tobias Mayer"
+    },
+    {
+        "paper_title": "VMAgent: A Practical Virtual Machine Scheduling Platform",
+        "author_names": "Junjie Sheng, Shengliang Cai, Haochuan Cui, Wenhao Li, Yun Hua, Bo Jin, Wenli Zhou, Yiqiu Hu, Lei Zhu, Qian Peng, Hongyuan Zha, Xiangfeng Wang"
+    },
+    {
+        "paper_title": "Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images",
+        "author_names": "Jiafu Wei, Haoran Xie, Chia-Ming Chang, Xi Yang"
+    },
+    {
+        "paper_title": "AutoVideo: An Automated Video Action Recognition System",
+        "author_names": "Daochen Zha, Zaid Pervaiz Bhat, Yi-Wei Chen, Yicheng Wang, Sirui Ding, Jiaben Chen, Kwei-Herng Lai, Mohammad Qazim Bhat, Anmoll Kumar Jain, Alfredo Costilla Reyes, Na Zou, Xia Hu"
+    },
+    {
+        "paper_title": "Text/Speech-Driven Full-Body Animation",
+        "author_names": "Wenlin Zhuang, Jinwei Qi, Peng Zhang, Bang Zhang, Ping Tan"
+    }
+]
