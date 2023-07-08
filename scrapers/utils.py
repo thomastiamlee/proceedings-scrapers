@@ -19,6 +19,6 @@ def get_html(url):
     return html
 
 def write_result_to_file(results, file_name):
-    json_object = json.dumps(results, indent=4)
-    with open(results_path + file_name, "w") as outfile:
-        outfile.write(json_object)
+    json_object = json.dumps(results, indent=4, ensure_ascii=False).encode('utf8')
+    with open(results_path + file_name, "w", encoding='utf8') as outfile:
+        outfile.write(json_object.decode())
