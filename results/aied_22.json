@@ -1,0 +1,202 @@
+[
+    {
+        "paper_title": "How to Give Imperfect Automated Guidance to Learners: A Case-Study in Workplace Learning",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_1",
+        "author_names": "Jacob Whitehill, Amitai Erfanian"
+    },
+    {
+        "paper_title": "A Causal Inference Study on the Effects of First Year Workload on the Dropout Rate of Undergraduates",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_2",
+        "author_names": "Marzieh Karimi-Haghighi, Carlos Castillo, Davinia Hernández-Leo"
+    },
+    {
+        "paper_title": "Adaptive Scaffolding in Block-Based Programming via Synthesizing New Tasks as Pop Quizzes",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_3",
+        "author_names": "Ahana Ghosh, Sebastian Tschiatschek, Sam Devlin, Adish Singla"
+    },
+    {
+        "paper_title": "Learning Profiles to Assess Educational Prediction Systems",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_4",
+        "author_names": "Amal Ben Soussia, Célina Treuillier, Azim Roussanaly, Anne Boyer"
+    },
+    {
+        "paper_title": "Identifying Student Struggle by Analyzing Facial Movement During Asynchronous Video Lecture Viewing: Towards an Automated Tool to Support Instructors",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_5",
+        "author_names": "Adam Linson, Yucheng Xu, Andrea R. English, Robert B. Fisher"
+    },
+    {
+        "paper_title": "Preparing Future Learning with Novel Visuals by Supporting Representational Competencies",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_6",
+        "author_names": "Jihyun Rho, Martina A. Rau, Barry D. Van Veen"
+    },
+    {
+        "paper_title": "Leveraging Student Goal Setting for Real-Time Plan Recognition in Game-Based Learning",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_7",
+        "author_names": "Alex Goslen, Dan Carpenter, Jonathan P. Rowe, Nathan Henderson, Roger Azevedo, James Lester"
+    },
+    {
+        "paper_title": "Identifying and Comparing Multi-dimensional Student Profiles Across Flipped Classrooms",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_8",
+        "author_names": "Paola Mejia-Domenzain, Mirko Marras, Christian Giang, Tanja Käser"
+    },
+    {
+        "paper_title": "Embodied Learning with Physical and Virtual Manipulatives in an Intelligent Tutor for Chemistry",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_9",
+        "author_names": "Joel P. Beier, Martina A. Rau"
+    },
+    {
+        "paper_title": "How do A/B Testing and Secondary Data Analysis on AIED Systems Influence Future Research?",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_10",
+        "author_names": "Nidhi Nasiar, Ryan S. Baker, Jillian Li, Weiyi Gong"
+    },
+    {
+        "paper_title": "Investigating the Effectiveness of Visual Learning Analytics in Active Video Watching",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_11",
+        "author_names": "Negar Mohammadhassan, Antonija Mitrovic"
+    },
+    {
+        "paper_title": "Debiasing Politically Motivated Reasoning with Value-Adaptive Instruction",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_12",
+        "author_names": "Nicholas Diana, John Stamper, Ken Koedinger, Jessica Hammer"
+    },
+    {
+        "paper_title": "Towards Human-Like Educational Question Generation with Large Language Models",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_13",
+        "author_names": "Zichao Wang, Jakob Valdez, Debshila Basu Mallick, Richard G. Baraniuk"
+    },
+    {
+        "paper_title": "Towards the Automated Evaluation of Legal Casenote Essays",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_14",
+        "author_names": "Mladen Raković, Lele Sha, Gerry Nagtzaam, Nick Young, Patrick Stratmann, Dragan Gašević et al."
+    },
+    {
+        "paper_title": "Fully Automated Short Answer Scoring of the Trial Tests for Common Entrance Examinations for Japanese University",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_15",
+        "author_names": "Haruki Oka, Hung Tuan Nguyen, Cuong Tuan Nguyen, Masaki Nakagawa, Tsunenori Ishioka"
+    },
+    {
+        "paper_title": "Machine Learning Techniques to Evaluate Lesson Objectives",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_16",
+        "author_names": "Pei Hua Cher, Jason Wen Yau Lee, Fernando Bello"
+    },
+    {
+        "paper_title": "Towards Generating Counterfactual Examples as Automatic Short Answer Feedback",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_17",
+        "author_names": "Anna Filighera, Joel Tschesche, Tim Steuer, Thomas Tregel, Lisa Wernet"
+    },
+    {
+        "paper_title": "Combining Artificial Intelligence and Edge Computing to Reshape Distance Education (Case Study: K-12 Learners)",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_18",
+        "author_names": "Chahrazed Labba, Rabie Ben Atitallah, Anne Boyer"
+    },
+    {
+        "paper_title": "Plausibility and Faithfulness of Feature Attribution-Based Explanations in Automated Short Answer Scoring",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_19",
+        "author_names": "Tasuku Sato, Hiroaki Funayama, Kazuaki Hanawa, Kentaro Inui"
+    },
+    {
+        "paper_title": "Experts’ View on Challenges and Needs for Fairness in Artificial Intelligence for Education",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_20",
+        "author_names": "Gianni Fenu, Roberta Galici, Mirko Marras"
+    },
+    {
+        "paper_title": "Balancing Fined-Tuned Machine Learning Models Between Continuous and Discrete Variables - A Comprehensive Analysis Using Educational Data",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_21",
+        "author_names": "Efthyvoulos Drousiotis, Panagiotis Pentaliotis, Lei Shi, Alexandra I. Cristea"
+    },
+    {
+        "paper_title": "“Teacher, Can You Say It Again?\" Improving Automatic Speech Recognition Performance over Classroom Environments with Limited Data",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_22",
+        "author_names": "Danner Schlotterbeck, Abelino Jiménez, Roberto Araya, Daniela Caballero, Pablo Uribe, Johan Van der Molen Moris"
+    },
+    {
+        "paper_title": "Deep Learning or Deep Ignorance? Comparing Untrained Recurrent Models in Educational Contexts",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_23",
+        "author_names": "Anthony F. Botelho, Ethan Prihar, Neil T. Heffernan"
+    },
+    {
+        "paper_title": "Fine-grained Main Ideas Extraction and Clustering of Online Course Reviews",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_24",
+        "author_names": "Chenghao Xiao, Lei Shi, Alexandra Cristea, Zhaoxing Li, Ziqi Pan"
+    },
+    {
+        "paper_title": "Assessing Readability by Filling Cloze Items with Transformers",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_25",
+        "author_names": "Andrew M. Olney"
+    },
+    {
+        "paper_title": "CurriculumTutor: An Adaptive Algorithm for Mastering a Curriculum",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26",
+        "author_names": "K. M. Shabana, Chandrashekar Lakshminarayanan, Jude K. Anil"
+    },
+    {
+        "paper_title": "Pedagogical Agent Support and Its Relationship to Learners’ Self-regulated Learning Strategy Use with an Intelligent Tutoring System",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_27",
+        "author_names": "Daryn A. Dever, Nathan A. Sonnenfeld, Megan D. Wiedbusch, Roger Azevedo"
+    },
+    {
+        "paper_title": "Evaluating AI-Generated Questions: A Mixed-Methods Analysis Using Question Data and Student Perceptions",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_28",
+        "author_names": "Rachel Van Campenhout, Martha Hubertz, Benny G. Johnson"
+    },
+    {
+        "paper_title": "Representing Scoring Rubrics as Graphs for Automatic Short Answer Grading",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_29",
+        "author_names": "Aubrey Condor, Zachary Pardos, Marcia Linn"
+    },
+    {
+        "paper_title": "Educational Equity Through Combined Human-AI Personalization: A Propensity Matching Evaluation",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_30",
+        "author_names": "Danielle R. Chine, Cassandra Brentley, Carmen Thomas-Browne, J. Elizabeth Richey, Abdulmenaf Gul, Paulo F. Carvalho et al."
+    },
+    {
+        "paper_title": "Eye to Eye: Gaze Patterns Predict Remote Collaborative Problem Solving Behaviors in Triads",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_31",
+        "author_names": "Angelina Abitino, Samuel L. Pugh, Candace E. Peacock, Sidney K. D’Mello"
+    },
+    {
+        "paper_title": "Improving Automated Evaluation of Formative Assessments with Text Data Augmentation",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_32",
+        "author_names": "Keith Cochran, Clayton Cohn, Nicole Hutchins, Gautam Biswas, Peter Hastings"
+    },
+    {
+        "paper_title": "Clustering Learner’s Metacognitive Judgment Accuracy and Bias to Explore Learning with AIEd Systems",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_33",
+        "author_names": "Megan D. Wiedbusch, Nathan Sonnenfeld, Daryn Dever, Roger Azevedo"
+    },
+    {
+        "paper_title": "Towards an Inclusive and Socially Committed Community in Artificial Intelligence in Education: A Social Network Analysis of the Evolution of Authorship and Research Topics over 8 Years and 2509 Papers",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_34",
+        "author_names": "Yipu Zheng, Zhuqian Zhou, Paulo Blikstein"
+    },
+    {
+        "paper_title": "Scaling Mixed-Methods Formative Assessments (mixFA) in Classrooms: A Clustering Pipeline to Identify Student Knowledge",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_35",
+        "author_names": "Xinyue Chen, Xu Wang"
+    },
+    {
+        "paper_title": "Student-Tutor Mixed-Initiative Decision-Making Supported by Deep Reinforcement Learning",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_36",
+        "author_names": "Song Ju, Xi Yang, Tiffany Barnes, Min Chi"
+    },
+    {
+        "paper_title": "An Intelligent Interactive Support System for Word Usage Learning in Second Languages",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_37",
+        "author_names": "Yo Ehara"
+    },
+    {
+        "paper_title": "Balancing Cost and Quality: An Exploration of Human-in-the-Loop Frameworks for Automated Short Answer Scoring",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_38",
+        "author_names": "Hiroaki Funayama, Tasuku Sato, Yuichiroh Matsubayashi, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui"
+    },
+    {
+        "paper_title": "Auxiliary Task Guided Interactive Attention Model for Question Difficulty Prediction",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_39",
+        "author_names": "V. Venktesh, Md. Shad Akhtar, Mukesh Mohania, Vikram Goyal"
+    },
+    {
+        "paper_title": "A Basic Study on Educational Growth Indicators Based on Quantitative Evaluation of Strokes Quality in Drawing Works",
+        "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-11644-5_40",
+        "author_names": "Kanato Sugii, Takashi Nagai, Mizue Kayama"
+    }
+]

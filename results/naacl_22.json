@@ -1,0 +1,2212 @@
+[
+    {
+        "paper_title": "Social Norms Guide Reference Resolution",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.1/",
+        "author_names": "Mitchell Abrams, Matthias Scheutz"
+    },
+    {
+        "paper_title": "Learning Natural Language Generation with Truncated Reinforcement Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.2/",
+        "author_names": "Alice Martin, Guillaume Quispe, Charles Ollion, Sylvain Le Corff, Florian Strub, Olivier Pietquin"
+    },
+    {
+        "paper_title": "Language Model Augmented Monotonic Attention for Simultaneous Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.3/",
+        "author_names": "Sathish Reddy Indurthi, Mohd Abbas Zaidi, Beomseok Lee, Nikhil Kumar Lakumarapu, Sangha Kim"
+    },
+    {
+        "paper_title": "What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.4/",
+        "author_names": "Maartje Ter Hoeve, Julia Kiseleva, Maarten Rijke"
+    },
+    {
+        "paper_title": "ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.5/",
+        "author_names": "Xun Yuan, Derek Pham, Sam Davidson, Zhou Yu"
+    },
+    {
+        "paper_title": "Semantic Diversity in Dialogue with Natural Language Inference",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.6/",
+        "author_names": "Katherine Stasaski, Marti Hearst"
+    },
+    {
+        "paper_title": "LEA: Meta Knowledge-Driven Self-Attentive Document Embedding for Few-Shot Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.7/",
+        "author_names": "S. K. Hong, Tae Young Jang"
+    },
+    {
+        "paper_title": "Enhancing Self-Attention with Knowledge-Assisted Attention Maps",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.8/",
+        "author_names": "Jiangang Bai, Yujing Wang, Hong Sun, Ruonan Wu, Tianmeng Yang, Pengfei Tang, Defu Cao, Mingliang Zhang1, Yunhai Tong, Yaming Yang, Jing Bai, Ruofei Zhang, Hao Sun, Wei Shen"
+    },
+    {
+        "paper_title": "Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.9/",
+        "author_names": "Anton Chernyavskiy, Dmitry Ilvovsky, Pavel Kalinin, Preslav Nakov"
+    },
+    {
+        "paper_title": "NewsEdits: A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.10/",
+        "author_names": "Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng"
+    },
+    {
+        "paper_title": "Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.11/",
+        "author_names": "Samee Ibraheem, Gaoyue Zhou, John DeNero"
+    },
+    {
+        "paper_title": "SUBS: Subtree Substitution for Compositional Semantic Parsing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.12/",
+        "author_names": "Jingfeng Yang, Le Zhang, Diyi Yang"
+    },
+    {
+        "paper_title": "Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.13/",
+        "author_names": "Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet Pierrehumbert"
+    },
+    {
+        "paper_title": "Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.14/",
+        "author_names": "Zijie Zeng, Xinyu Li, Dragan Gasevic, Guanliang Chen"
+    },
+    {
+        "paper_title": "Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.15/",
+        "author_names": "Yu Li, Baolin Peng, Yelong Shen, Yi Mao, Lars Liden, Zhou Yu, Jianfeng Gao"
+    },
+    {
+        "paper_title": "CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.16/",
+        "author_names": "Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang"
+    },
+    {
+        "paper_title": "Political Ideology and Polarization: A Multi-dimensional Approach",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.17/",
+        "author_names": "Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li"
+    },
+    {
+        "paper_title": "Cooperative Self-training of Machine Reading Comprehension",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.18/",
+        "author_names": "Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James Glass"
+    },
+    {
+        "paper_title": "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.19/",
+        "author_names": "Ali Modarressi, Mohsen Fayyaz, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar"
+    },
+    {
+        "paper_title": "A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.20/",
+        "author_names": "Shu Liu, Kaiwen Li, Zuhe Li"
+    },
+    {
+        "paper_title": "Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.21/",
+        "author_names": "Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han"
+    },
+    {
+        "paper_title": "Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.22/",
+        "author_names": "Xu Wang, Simin Fan, Jessica Houghton, Lu Wang"
+    },
+    {
+        "paper_title": "SwahBERT: Language Model of Swahili",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.23/",
+        "author_names": "Gati Martin, Medard Edmund Mswahili, Young-Seob Jeong, Jiyoung Woo"
+    },
+    {
+        "paper_title": "Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.24/",
+        "author_names": "Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daum\u00e9 III, Kaheer Suleman, Alexandra Olteanu"
+    },
+    {
+        "paper_title": "TSTR: Too Short to Represent, Summarize with Details! Intro-Guided Extended Summary Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.25/",
+        "author_names": "Sajad Sotudeh, Nazli Goharian"
+    },
+    {
+        "paper_title": "Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.26/",
+        "author_names": "Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Anil Nelakanti, Vineet Gandhi"
+    },
+    {
+        "paper_title": "The Why and The How: A Survey on Natural Language Interaction in Visualization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.27/",
+        "author_names": "Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrie\u00df"
+    },
+    {
+        "paper_title": "Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.28/",
+        "author_names": "Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang"
+    },
+    {
+        "paper_title": "User-Driven Research of Medical Note Generation Software",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.29/",
+        "author_names": "Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov"
+    },
+    {
+        "paper_title": "Ask Me Anything in Your Native Language",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.30/",
+        "author_names": "Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh"
+    },
+    {
+        "paper_title": "Diversifying Neural Dialogue Generation via Negative Distillation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.31/",
+        "author_names": "Yiwei Li, Shaoxiong Feng, Bin Sun, Kan Li"
+    },
+    {
+        "paper_title": "On Synthetic Data for Back Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.32/",
+        "author_names": "Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu"
+    },
+    {
+        "paper_title": "Mapping the Design Space of Human-AI Interaction in Text Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.33/",
+        "author_names": "Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel Tetreault, Alejandro Jaimes-Larrarte"
+    },
+    {
+        "paper_title": "Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Style Transfer",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.34/",
+        "author_names": "Sharan Narasimhan, Suvodip Dey, Maunendra Desarkar"
+    },
+    {
+        "paper_title": "An Exploration of Post-Editing Effectiveness in Text Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.35/",
+        "author_names": "Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel Tetreault, Alejandro Jaimes-Larrarte"
+    },
+    {
+        "paper_title": "Automatic Correction of Human Translations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.36/",
+        "author_names": "Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero"
+    },
+    {
+        "paper_title": "On the Robustness of Reading Comprehension Models to Entity Renaming",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.37/",
+        "author_names": "Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren"
+    },
+    {
+        "paper_title": "Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.38/",
+        "author_names": "Jamar Sullivan Jr., Will Brackenbury, Andrew McNutt, Kevin Bryson, Kwam Byll, Yuxin Chen, Michael Littman, Chenhao Tan, Blase Ur"
+    },
+    {
+        "paper_title": "Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.39/",
+        "author_names": "Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Lam"
+    },
+    {
+        "paper_title": "Cross-document Misinformation Detection based on Event Graph Reasoning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.40/",
+        "author_names": "Xueqing Wu, Kung-Hsiang Huang, Yi Fung, Heng Ji"
+    },
+    {
+        "paper_title": "Disentangled Action Recognition with Knowledge Bases",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.41/",
+        "author_names": "Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu"
+    },
+    {
+        "paper_title": "Machine-in-the-Loop Rewriting for Creative Image Captioning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.42/",
+        "author_names": "Vishakh Padmakumar, He He"
+    },
+    {
+        "paper_title": "A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.43/",
+        "author_names": "Yong Xie, Dakuo Wang, Pin-Yu Chen, Jinjun Xiong, Sijia Liu, Oluwasanmi Koyejo"
+    },
+    {
+        "paper_title": "Building Multilingual Machine Translation Systems That Serve Arbitrary XY Translations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.44/",
+        "author_names": "Akiko Eriguchi, Shufang Xie, Tao Qin, Hany Hassan"
+    },
+    {
+        "paper_title": "Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.45/",
+        "author_names": "Minghao Zhu, Junli Wang, Chungang Yan"
+    },
+    {
+        "paper_title": "User-Centric Gender Rewriting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.46/",
+        "author_names": "Bashar Alhafni, Nizar Habash, Houda Bouamor"
+    },
+    {
+        "paper_title": "Reframing Human-AI Collaboration for Generating Free-Text Explanations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.47/",
+        "author_names": "Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi"
+    },
+    {
+        "paper_title": "EmRel: Joint Representation of Entities and Embedded Relations for Multi-triple Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.48/",
+        "author_names": "Benfeng Xu, Quan Wang, Yajuan Lyu, Yabing Shi, Yong Zhu, Jie Gao, Zhendong Mao"
+    },
+    {
+        "paper_title": "Meta Learning for Natural Language Processing: A Survey",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.49/",
+        "author_names": "Hung-yi Lee, Shang-Wen Li, Thang Vu"
+    },
+    {
+        "paper_title": "Analyzing Modality Robustness in Multimodal Sentiment Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.50/",
+        "author_names": "Devamanyu Hazarika, Yingting Li, Bo Cheng, Shuai Zhao, Roger Zimmermann, Soujanya Poria"
+    },
+    {
+        "paper_title": "Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.51/",
+        "author_names": "Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie"
+    },
+    {
+        "paper_title": "Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.52/",
+        "author_names": "Xiaolei Huang"
+    },
+    {
+        "paper_title": "On the Use of External Data for Spoken Named Entity Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.53/",
+        "author_names": "Ankita Pasad, Felix Wu, Suwon Shon, Karen Livescu, Kyu Han"
+    },
+    {
+        "paper_title": "Long-term Control for Dialogue Generation: Methods and Evaluation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.54/",
+        "author_names": "Ramya Ramakrishnan, Hashan Narangodage, Mauro Schilman, Kilian Weinberger, Ryan McDonald"
+    },
+    {
+        "paper_title": "Learning Dialogue Representations from Consecutive Utterances",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.55/",
+        "author_names": "Zhihan Zhou, Dejiao Zhang, Wei Xiao, Nicholas Dingwall, Xiaofei Ma, Andrew Arnold, Bing Xiang"
+    },
+    {
+        "paper_title": "On the Machine Learning of Ethical Judgments from Natural Language",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.56/",
+        "author_names": "Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams"
+    },
+    {
+        "paper_title": "NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.57/",
+        "author_names": "Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah A. Smith, Yejin Choi"
+    },
+    {
+        "paper_title": "PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.58/",
+        "author_names": "Machel Reid, Mikel Artetxe"
+    },
+    {
+        "paper_title": "Explaining Toxic Text via Knowledge Enhanced Text Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.59/",
+        "author_names": "Rohit Sridhar, Diyi Yang"
+    },
+    {
+        "paper_title": "Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.60/",
+        "author_names": "Angelica Chen, Vicky Zayats, Daniel Walker, Dirk Padfield"
+    },
+    {
+        "paper_title": "GRAM: Fast Fine-tuning of Pre-trained Language Models for Content-based Collaborative Filtering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.61/",
+        "author_names": "Yoonseok Yang, Kyu Seok Kim, Minsam Kim, Juneyoung Park"
+    },
+    {
+        "paper_title": "Generating Repetitions with Appropriate Repeated Words",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.62/",
+        "author_names": "Toshiki Kawamoto, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura"
+    },
+    {
+        "paper_title": "Textless Speech-to-Speech Translation on Real Data",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.63/",
+        "author_names": "Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu"
+    },
+    {
+        "paper_title": "WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.64/",
+        "author_names": "Guoqing Zheng, Giannis Karamanolakis, Kai Shu, Ahmed Awadallah"
+    },
+    {
+        "paper_title": "CompactIE: Compact Facts in Open Information Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.65/",
+        "author_names": "Farima Fatahi Bayat, Nikita Bhutani, H. Jagadish"
+    },
+    {
+        "paper_title": "CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.66/",
+        "author_names": "Hyounghun Kim, Abhay Zala, Mohit Bansal"
+    },
+    {
+        "paper_title": "Abstraction not Memory: BERT and the English Article System",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.67/",
+        "author_names": "Harish Tayyar Madabushi, Dagmar Divjak, Petar Milin"
+    },
+    {
+        "paper_title": "OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.68/",
+        "author_names": "Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen"
+    },
+    {
+        "paper_title": "Provably Confidential Language Modelling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.69/",
+        "author_names": "Xuandong Zhao, Lei Li, Yu-Xiang Wang"
+    },
+    {
+        "paper_title": "KAT: A Knowledge Augmented Transformer for Vision-and-Language",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.70/",
+        "author_names": "Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander Hauptmann, Yonatan Bisk, Jianfeng Gao"
+    },
+    {
+        "paper_title": "When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.71/",
+        "author_names": "Sebastian Schuster, Tal Linzen"
+    },
+    {
+        "paper_title": "On Curriculum Learning for Commonsense Reasoning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.72/",
+        "author_names": "Adyasha Maharana, Mohit Bansal"
+    },
+    {
+        "paper_title": "DocTime: A Document-level Temporal Dependency Graph Parser",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.73/",
+        "author_names": "Puneet Mathur, Vlad Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Tran, Ani Nenkova, Dinesh Manocha, Rajiv Jain"
+    },
+    {
+        "paper_title": "FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.74/",
+        "author_names": "David Wan, Mohit Bansal"
+    },
+    {
+        "paper_title": "ScAN: Suicide Attempt and Ideation Events Dataset",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.75/",
+        "author_names": "Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon"
+    },
+    {
+        "paper_title": "Socially Aware Bias Measurements for Hindi Language Representations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.76/",
+        "author_names": "Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang"
+    },
+    {
+        "paper_title": "AmbiPun: Generating Humorous Puns with Ambiguous Context",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.77/",
+        "author_names": "Anirudh Mittal, Yufei Tian, Nanyun Peng"
+    },
+    {
+        "paper_title": "EmpHi: Generating Empathetic Responses with Human-like Intents",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.78/",
+        "author_names": "Mao Yan Chen, Siheng Li, Yujiu Yang"
+    },
+    {
+        "paper_title": "Yes, No or IDK: The Challenge of Unanswerable Yes/No Questions",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.79/",
+        "author_names": "Elior Sulem, Jamaal Hay, Dan Roth"
+    },
+    {
+        "paper_title": "Inducing and Using Alignments for Transition-based AMR Parsing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.80/",
+        "author_names": "Andrew Drozdov, Jiawei Zhou, Radu Florian, Andrew McCallum, Tahira Naseem, Yoon Kim, Ram\u00f3n Astudillo"
+    },
+    {
+        "paper_title": "Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.81/",
+        "author_names": "Xiang Zhou, Shiyue Zhang, Mohit Bansal"
+    },
+    {
+        "paper_title": "DREAM: Improving Situational QA by First Elaborating the Situation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.82/",
+        "author_names": "Yuling Gu, Bhavana Dalvi, Peter Clark"
+    },
+    {
+        "paper_title": "CoSe-Co: Text Conditioned Generative CommonSense Contextualizer",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.83/",
+        "author_names": "Rachit Bansal, Milan Aggarwal, Sumit Bhatia, Jivat Kaur, Balaji Krishnamurthy"
+    },
+    {
+        "paper_title": "Probing via Prompting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.84/",
+        "author_names": "Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan"
+    },
+    {
+        "paper_title": "Database Search Results Disambiguation for Task-Oriented Dialog Systems",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.85/",
+        "author_names": "Kun Qian, Satwik Kottur, Ahmad Beirami, Shahin Shayandeh, Paul Crook, Alborz Geramifard, Zhou Yu, Chinnadhurai Sankar"
+    },
+    {
+        "paper_title": "Unsupervised Slot Schema Induction for Task-oriented Dialog",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.86/",
+        "author_names": "Dian Yu, Mingqiu Wang, Yuan Cao, Izhak Shafran, Laurent Shafey, Hagen Soltau"
+    },
+    {
+        "paper_title": "Towards a Progression-Aware Autonomous Dialogue Agent",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.87/",
+        "author_names": "Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang, Deepanshu Dey, Jonas Braasch, Dakuo Wang"
+    },
+    {
+        "paper_title": "Cross-Domain Detection of GPT-2-Generated Technical Text",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.88/",
+        "author_names": "Juan Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan"
+    },
+    {
+        "paper_title": "DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.89/",
+        "author_names": "Neha Kennard, Tim O\u2019Gorman, Rajarshi Das, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Hamed Zamani, Andrew McCallum"
+    },
+    {
+        "paper_title": "MultiSpanQA: A Dataset for Multi-Span Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.90/",
+        "author_names": "Haonan Li, Martin Tomko, Maria Vasardani, Timothy Baldwin"
+    },
+    {
+        "paper_title": "Context-Aware Abbreviation Expansion Using Large Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.91/",
+        "author_names": "Shanqing Cai, Subhashini Venugopalan, Katrin Tomanek, Ajit Narayanan, Meredith Morris, Michael Brenner"
+    },
+    {
+        "paper_title": "Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.92/",
+        "author_names": "Yang Trista Cao, Anna Sotnikova, Hal Daum\u00e9 III, Rachel Rudinger, Linda Zou"
+    },
+    {
+        "paper_title": "Sort by Structure: Language Model Ranking as Dependency Probing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.93/",
+        "author_names": "Max M\u00fcller-Eberstein, Rob van der Goot, Barbara Plank"
+    },
+    {
+        "paper_title": "Quantifying Synthesis and Fusion and their Impact on Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.94/",
+        "author_names": "Arturo Oncevay, Duygu Ataman, Niels Van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva"
+    },
+    {
+        "paper_title": "Commonsense and Named Entity Aware Knowledge Grounded Dialogue Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.95/",
+        "author_names": "Deeksha Varshney, Akshara Prabhakar, Asif Ekbal"
+    },
+    {
+        "paper_title": "Efficient Hierarchical Domain Adaptation for Pretrained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.96/",
+        "author_names": "Alexandra Chronopoulou, Matthew Peters, Jesse Dodge"
+    },
+    {
+        "paper_title": "Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.97/",
+        "author_names": "Hannah Kirk, Bertie Vidgen, Paul Rottger, Tristan Thrush, Scott Hale"
+    },
+    {
+        "paper_title": "On the Economics of Multilingual Few-shot Learning: Modeling the Cost-Performance Trade-offs of Machine Translated and Manual Data",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.98/",
+        "author_names": "Kabir Ahuja, Monojit Choudhury, Sandipan Dandapat"
+    },
+    {
+        "paper_title": "Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.99/",
+        "author_names": "Haiyan Yin, Dingcheng Li, Ping Li"
+    },
+    {
+        "paper_title": "Quality-Aware Decoding for Neural Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.100/",
+        "author_names": "Patrick Fernandes, Ant\u00f3nio Farinhas, Ricardo Rei, Jos\u00e9 G. C. de Souza, Perez Ogayo, Graham Neubig, Andre Martins"
+    },
+    {
+        "paper_title": "Pretrained Models for Multilingual Federated Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.101/",
+        "author_names": "Orion Weller, Marc Marone, Vladimir Braverman, Dawn Lawrie, Benjamin Van Durme"
+    },
+    {
+        "paper_title": "AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.102/",
+        "author_names": "Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang"
+    },
+    {
+        "paper_title": "Label Anchored Contrastive Learning for Language Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.103/",
+        "author_names": "Zhenyu Zhang, Yuming Zhao, Meng Chen, Xiaodong He"
+    },
+    {
+        "paper_title": "Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.104/",
+        "author_names": "Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng"
+    },
+    {
+        "paper_title": "Forecasting COVID-19 Caseloads Using Unsupervised Embedding Clusters of Social Media Posts",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.105/",
+        "author_names": "Felix Drinkall, Stefan Zohren, Janet Pierrehumbert"
+    },
+    {
+        "paper_title": "Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.106/",
+        "author_names": "Rahul Kumar, Sandeep Mathias, Sriparna Saha, Pushpak Bhattacharyya"
+    },
+    {
+        "paper_title": "Natural Language Inference with Self-Attention for Veracity Assessment of Pandemic Claims",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.107/",
+        "author_names": "Miguel Arana-Catania, Elena Kochkina, Arkaitz Zubiaga, Maria Liakata, Robert Procter, Yulan He"
+    },
+    {
+        "paper_title": "Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.108/",
+        "author_names": "Ao Jia, Yu He, Yazhou Zhang, Sagar Uprety, Dawei Song, Christina Lioma"
+    },
+    {
+        "paper_title": "Relation-Specific Attentions over Entity Mentions for Enhanced Document-Level Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.109/",
+        "author_names": "Jiaxin Yu, Deqing Yang, Shuyu Tian"
+    },
+    {
+        "paper_title": "Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.110/",
+        "author_names": "Giscard Biamby, Grace Luo, Trevor Darrell, Anna Rohrbach"
+    },
+    {
+        "paper_title": "BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.111/",
+        "author_names": "Yuchen Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou"
+    },
+    {
+        "paper_title": "Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.112/",
+        "author_names": "Lixing Zhu, Zheng Fang, Gabriele Pergola, Robert Procter, Yulan He"
+    },
+    {
+        "paper_title": "SKILL: Structured Knowledge Infusion for Large Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.113/",
+        "author_names": "Fedor Moiseev, Zhe Dong, Enrique Alfonseca, Martin Jaggi"
+    },
+    {
+        "paper_title": "Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.114/",
+        "author_names": "Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein"
+    },
+    {
+        "paper_title": "Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.115/",
+        "author_names": "Jiahao Cao, Rui Liu, Huailiang Peng, Lei Jiang, Xu Bai"
+    },
+    {
+        "paper_title": "MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.116/",
+        "author_names": "Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao, Weizhu Chen"
+    },
+    {
+        "paper_title": "Implicit n-grams Induced by Recurrence",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.117/",
+        "author_names": "Xiaobing Sun, Wei Lu"
+    },
+    {
+        "paper_title": "Guiding Visual Question Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.118/",
+        "author_names": "Nihir Vedd, Zixu Wang, Marek Rei, Yishu Miao, Lucia Specia"
+    },
+    {
+        "paper_title": "OPERA: Operation-Pivoted Discrete Reasoning over Text",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.119/",
+        "author_names": "Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao"
+    },
+    {
+        "paper_title": "Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.120/",
+        "author_names": "Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai"
+    },
+    {
+        "paper_title": "Improving Constituent Representation with Hypertree Neural Networks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.121/",
+        "author_names": "Hao Zhou, Gongshen Liu, Kewei Tu"
+    },
+    {
+        "paper_title": "Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.122/",
+        "author_names": "Pieter Delobelle, Ewoenam Tokpo, Toon Calders, Bettina Berendt"
+    },
+    {
+        "paper_title": "MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.123/",
+        "author_names": "Yahui Liu, Haoping Yang, Chen Gong, Qingrong Xia, Zhenghua Li, Min Zhang"
+    },
+    {
+        "paper_title": "Representation Learning for Conversational Data using Discourse Mutual Information Maximization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.124/",
+        "author_names": "Bishal Santra, Sumegh Roychowdhury, Aishik Mandal, Vasu Gurram, Atharva Naik, Manish Gupta, Pawan Goyal"
+    },
+    {
+        "paper_title": "ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.125/",
+        "author_names": "Chuyun Deng, Mingxuan Liu, Yue Qin, Jia Zhang, Hai-Xin Duan, Donghong Sun"
+    },
+    {
+        "paper_title": "A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.126/",
+        "author_names": "Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, Yi Ren, Tao Qin, Tie-Yan Liu"
+    },
+    {
+        "paper_title": "CIAug: Equipping Interpolative Augmentation with Curriculum Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.127/",
+        "author_names": "Ramit Sawhney, Ritesh Soun, Shrey Pandit, Megh Thakkar, Sarvagya Malaviya, Yuval Pinter"
+    },
+    {
+        "paper_title": "Proposition-Level Clustering for Multi-Document Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.128/",
+        "author_names": "Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan"
+    },
+    {
+        "paper_title": "Non-Autoregressive Machine Translation: It\u2019s Not as Fast as it Seems",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.129/",
+        "author_names": "Jind\u0159ich Helcl, Barry Haddow, Alexandra Birch"
+    },
+    {
+        "paper_title": "BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.130/",
+        "author_names": "Marinela Parovi\u0107, Goran Glava\u0161, Ivan Vuli\u0107, Anna Korhonen"
+    },
+    {
+        "paper_title": "Combining Humor and Sarcasm for Improving Political Parody Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.131/",
+        "author_names": "Xiao Ao, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras"
+    },
+    {
+        "paper_title": "TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.132/",
+        "author_names": "Zihan Zhao, Lu Chen, Ruisheng Cao, Hongshen Xu, Xingyu Chen, Kai Yu"
+    },
+    {
+        "paper_title": "RSTGen: Imbuing Fine-Grained Interpretable Control into Long-FormText Generators",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.133/",
+        "author_names": "Rilwan Adewoyin, Ritabrata Dutta, Yulan He"
+    },
+    {
+        "paper_title": "Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.134/",
+        "author_names": "Rajat Kumar, Mayur Patidar, Vaibhav Varshney, Lovekesh Vig, Gautam Shroff"
+    },
+    {
+        "paper_title": "Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.135/",
+        "author_names": "Daniela Brook Weiss, Paul Roit, Ori Ernst, Ido Dagan"
+    },
+    {
+        "paper_title": "The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.136/",
+        "author_names": "Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber"
+    },
+    {
+        "paper_title": "MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.137/",
+        "author_names": "Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo"
+    },
+    {
+        "paper_title": "DEGREE: A Data-Efficient Generation-Based Event Extraction Model",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.138/",
+        "author_names": "I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng"
+    },
+    {
+        "paper_title": "Bridging the Gap between Language Models and Cross-Lingual Sequence Labeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.139/",
+        "author_names": "Nuo Chen, Linjun Shou, Ming Gong, Jian Pei, Daxin Jiang"
+    },
+    {
+        "paper_title": "Hero-Gang Neural Model For Named Entity Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.140/",
+        "author_names": "Jinpeng Hu, Yaling Shen, Yang Liu, Xiang Wan, Tsung-Hui Chang"
+    },
+    {
+        "paper_title": "MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.141/",
+        "author_names": "Jianhai Zhang, Mieradilijiang Maimaiti, Gao Xing, Yuanhang Zheng, Ji Zhang"
+    },
+    {
+        "paper_title": "All You May Need for VQA are Image Captions",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.142/",
+        "author_names": "Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut"
+    },
+    {
+        "paper_title": "Frustratingly Easy System Combination for Grammatical Error Correction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.143/",
+        "author_names": "Muhammad Qorib, Seung-Hoon Na, Hwee Tou Ng"
+    },
+    {
+        "paper_title": "Simple Local Attentions Remain Competitive for Long-Context Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.144/",
+        "author_names": "Wenhan Xiong, Barlas Oguz, Anchit Gupta, Xilun Chen, Diana Liskovich, Omer Levy, Scott Yih, Yashar Mehdad"
+    },
+    {
+        "paper_title": "Even the Simplest Baseline Needs Careful Re-investigation: A Case Study on XML-CNN",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.145/",
+        "author_names": "Si-An Chen, Jie-jyun Liu, Tsung-Han Yang, Hsuan-Tien Lin, Chih-Jen Lin"
+    },
+    {
+        "paper_title": "Multi-Relational Graph Transformer for Automatic Short Answer Grading",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.146/",
+        "author_names": "Rajat Agarwal, Varun Khurana, Karish Grover, Mukesh Mohania, Vikram Goyal"
+    },
+    {
+        "paper_title": "Event Schema Induction with Double Graph Autoencoders",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.147/",
+        "author_names": "Xiaomeng Jin, Manling Li, Heng Ji"
+    },
+    {
+        "paper_title": "CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.148/",
+        "author_names": "Changyoon Lee, Yeon Seonwoo, Alice Oh"
+    },
+    {
+        "paper_title": "Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.149/",
+        "author_names": "Kemal Kurniawan, Lea Frermann, Philip Schulz, Trevor Cohn"
+    },
+    {
+        "paper_title": "Don\u2019t Take It Literally: An Edit-Invariant Sequence Loss for Text Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.150/",
+        "author_names": "Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu"
+    },
+    {
+        "paper_title": "Modeling Exemplification in Long-form Question Answering via Retrieval",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.151/",
+        "author_names": "Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, Mohit Iyyer"
+    },
+    {
+        "paper_title": "D2U: Distance-to-Uniform Learning for Out-of-Scope Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.152/",
+        "author_names": "Eyup Yilmaz, Cagri Toraman"
+    },
+    {
+        "paper_title": "Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.153/",
+        "author_names": "Yizhu Liu, Qi Jia, Kenny Zhu"
+    },
+    {
+        "paper_title": "KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.154/",
+        "author_names": "Marzieh Tahaei, Ella Charlaix, Vahid Nia, Ali Ghodsi, Mehdi Rezagholizadeh"
+    },
+    {
+        "paper_title": "Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.155/",
+        "author_names": "Sanghwan Bae, Donghyun Kwak, Sungdong Kim, Donghoon Ham, Soyoung Kang, Sang-Woo Lee, Woomyoung Park"
+    },
+    {
+        "paper_title": "Sentence-Level Resampling for Named Entity Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.156/",
+        "author_names": "Xiaochen Wang, Yue Wang"
+    },
+    {
+        "paper_title": "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.157/",
+        "author_names": "Ryoma Sato"
+    },
+    {
+        "paper_title": "On the Diversity and Limits of Human Explanations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.158/",
+        "author_names": "Chenhao Tan"
+    },
+    {
+        "paper_title": "Locally Aggregated Feature Attribution on Natural Language Model Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.159/",
+        "author_names": "Sheng Zhang, Jin Wang, Haitao Jiang, Rui Song"
+    },
+    {
+        "paper_title": "Generic and Trend-aware Curriculum Learning for Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.160/",
+        "author_names": "Nidhi Vakil, Hadi Amiri"
+    },
+    {
+        "paper_title": "On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.161/",
+        "author_names": "Kelly Marchisio, Markus Freitag, David Grangier"
+    },
+    {
+        "paper_title": "Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.162/",
+        "author_names": "Akari Asai, Matt Gardner, Hannaneh Hajishirzi"
+    },
+    {
+        "paper_title": "Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.163/",
+        "author_names": "Yu Jin Kim, Beong-woo Kwak, Youngwook Kim, Reinald Kim Amplayo, Seung-won Hwang, Jinyoung Yeo"
+    },
+    {
+        "paper_title": "Learning to Express in Knowledge-Grounded Conversation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.164/",
+        "author_names": "Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan"
+    },
+    {
+        "paper_title": "End-to-End Chinese Speaker Identification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.165/",
+        "author_names": "Dian Yu, Ben Zhou, Dong Yu"
+    },
+    {
+        "paper_title": "MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.166/",
+        "author_names": "Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Thien Nguyen"
+    },
+    {
+        "paper_title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.167/",
+        "author_names": "Albert Webson, Ellie Pavlick"
+    },
+    {
+        "paper_title": "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.168/",
+        "author_names": "Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych"
+    },
+    {
+        "paper_title": "Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.169/",
+        "author_names": "Qinyuan Ye, Madian Khabsa, Mike Lewis, Sinong Wang, Xiang Ren, Aaron Jaech"
+    },
+    {
+        "paper_title": "Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.170/",
+        "author_names": "Patrick Huber, Giuseppe Carenini"
+    },
+    {
+        "paper_title": "SAIS: Supervising and Augmenting Intermediate Steps for Document-Level Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.171/",
+        "author_names": "Yuxin Xiao, Zecheng Zhang, Yuning Mao, Carl Yang, Jiawei Han"
+    },
+    {
+        "paper_title": "LITE: Intent-based Task Representation Learning Using Weak Supervision",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.172/",
+        "author_names": "Naoki Otani, Michael Gamon, Sujay Kumar Jauhar, Mei Yang, Sri Raghu Malireddi, Oriana Riva"
+    },
+    {
+        "paper_title": "Does Summary Evaluation Survive Translation to Other Languages?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.173/",
+        "author_names": "Spencer Braun, Oleg Vasilyev, Neslihan Iskender, John Bohannon"
+    },
+    {
+        "paper_title": "A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.174/",
+        "author_names": "Tulika Saha, Saichethan Reddy, Anindya Das, Sriparna Saha, Pushpak Bhattacharyya"
+    },
+    {
+        "paper_title": "SueNes: A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.175/",
+        "author_names": "Forrest Bao, Ge Luo, Hebi Li, Minghui Qiu, Yinfei Yang, Youbiao He, Cen Chen"
+    },
+    {
+        "paper_title": "Combating the Curse of Multilinguality in Cross-Lingual WSD by Aligning Sparse Contextualized Word Representations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.176/",
+        "author_names": "G\u00e1bor Berend"
+    },
+    {
+        "paper_title": "Cheat Codes to Quantify Missing Source Information in Neural Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.177/",
+        "author_names": "Proyag Pal, Kenneth Heafield"
+    },
+    {
+        "paper_title": "WiC = TSV = WSD: On the Equivalence of Three Semantic Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.178/",
+        "author_names": "Bradley Hauer, Grzegorz Kondrak"
+    },
+    {
+        "paper_title": "What do tokens know about their characters and how do they know it?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.179/",
+        "author_names": "Ayush Kaushal, Kyle Mahowald"
+    },
+    {
+        "paper_title": "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.180/",
+        "author_names": "Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona Diab"
+    },
+    {
+        "paper_title": "Paragraph-based Transformer Pre-training for Multi-Sentence Inference",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.181/",
+        "author_names": "Luca Di Liello, Siddhant Garg, Luca Soldaini, Alessandro Moschitti"
+    },
+    {
+        "paper_title": "Text Style Transfer via Optimal Transport",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.182/",
+        "author_names": "Nasim Nouri"
+    },
+    {
+        "paper_title": "Exploring the Role of Task Transferability in Large-Scale Multi-Task Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.183/",
+        "author_names": "Vishakh Padmakumar, Leonard Lausen, Miguel Ballesteros, Sheng Zha, He He, George Karypis"
+    },
+    {
+        "paper_title": "Interactive Query-Assisted Summarization via Deep Reinforcement Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.184/",
+        "author_names": "Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Ido Dagan, Yael Amsterdamer"
+    },
+    {
+        "paper_title": "Data Augmentation with Dual Training for Offensive Span Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.185/",
+        "author_names": "Nasim Nouri"
+    },
+    {
+        "paper_title": "Training Mixed-Domain Translation Models via Federated Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.186/",
+        "author_names": "Peyman Passban, Tanya Roosta, Rahul Gupta, Ankit Chadha, Clement Chung"
+    },
+    {
+        "paper_title": "QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.187/",
+        "author_names": "Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong"
+    },
+    {
+        "paper_title": "How Gender Debiasing Affects Internal Model Representations, and Why It Matters",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.188/",
+        "author_names": "Hadas Orgad, Seraphina Goldfarb-Tarrant, Yonatan Belinkov"
+    },
+    {
+        "paper_title": "A Structured Span Selector",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.189/",
+        "author_names": "Tianyu Liu, Yuchen Jiang, Ryan Cotterell, Mrinmaya Sachan"
+    },
+    {
+        "paper_title": "Unified Semantic Typing with Meaningful Label Inference",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.190/",
+        "author_names": "James Y. Huang, Bangzheng Li, Jiashu Xu, Muhao Chen"
+    },
+    {
+        "paper_title": "Learning To Retrieve Prompts for In-Context Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.191/",
+        "author_names": "Ohad Rubin, Jonathan Herzig, Jonathan Berant"
+    },
+    {
+        "paper_title": "Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.192/",
+        "author_names": "Esma Balkir, Isar Nejadgholi, Kathleen Fraser, Svetlana Kiritchenko"
+    },
+    {
+        "paper_title": "Learning to Retrieve Passages without Supervision",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.193/",
+        "author_names": "Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson"
+    },
+    {
+        "paper_title": "Re2G: Retrieve, Rerank, Generate",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.194/",
+        "author_names": "Michael Glass, Gaetano Rossiello, Md Faisal Mahbub Chowdhury, Ankita Naik, Pengshan Cai, Alfio Gliozzo"
+    },
+    {
+        "paper_title": "Don\u2019t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.195/",
+        "author_names": "Jonathan Rusert, Padmini Srinivasan"
+    },
+    {
+        "paper_title": "Federated Learning with Noisy User Feedback",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.196/",
+        "author_names": "Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta"
+    },
+    {
+        "paper_title": "Gender Bias in Masked Language Models for Multiple Languages",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.197/",
+        "author_names": "Masahiro Kaneko, Aizhan Imankulova, Danushka Bollegala, Naoaki Okazaki"
+    },
+    {
+        "paper_title": "Multi-Domain Targeted Sentiment Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.198/",
+        "author_names": "Orith Toledo-Ronen, Matan Orbach, Yoav Katz, Noam Slonim"
+    },
+    {
+        "paper_title": "Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.199/",
+        "author_names": "Prasetya Utama, Joshua Bambrick, Nafise Moosavi, Iryna Gurevych"
+    },
+    {
+        "paper_title": "Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.200/",
+        "author_names": "Besnik Fetahu, Anjie Fang, Oleg Rokhlenko, Shervin Malmasi"
+    },
+    {
+        "paper_title": "MetaICL: Learning to Learn In Context",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.201/",
+        "author_names": "Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi"
+    },
+    {
+        "paper_title": "Enhancing Knowledge Selection for Grounded Dialogues via Document Semantic Graphs",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.202/",
+        "author_names": "Sha Li, Mahdi Namazifar, Di Jin, Mohit Bansal, Heng Ji, Yang Liu, Dilek Hakkani-Tur"
+    },
+    {
+        "paper_title": "Using Natural Sentence Prompts for Understanding Biases in Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.203/",
+        "author_names": "Sarah Alnegheimish, Alicia Guo, Yi Sun"
+    },
+    {
+        "paper_title": "Robust Conversational Agents against Imperceptible Toxicity Triggers",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.204/",
+        "author_names": "Ninareh Mehrabi, Ahmad Beirami, Fred Morstatter, Aram Galstyan"
+    },
+    {
+        "paper_title": "Selective Differential Privacy for Language Modeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.205/",
+        "author_names": "Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu"
+    },
+    {
+        "paper_title": "Do Trajectories Encode Verb Meaning?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.206/",
+        "author_names": "Dylan Ebert, Chen Sun, Ellie Pavlick"
+    },
+    {
+        "paper_title": "Long Context Question Answering via Supervised Contrastive Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.207/",
+        "author_names": "Avi Caciularu, Ido Dagan, Jacob Goldberger, Arman Cohan"
+    },
+    {
+        "paper_title": "The USMLE\u00ae Step 2 Clinical Skills Patient Note Corpus",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.208/",
+        "author_names": "Victoria Yaneva, Janet Mee, Le Ha, Polina Harik, Michael Jodoin, Alex Mechaber"
+    },
+    {
+        "paper_title": "Learning to Borrow\u2013 Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.209/",
+        "author_names": "Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala"
+    },
+    {
+        "paper_title": "Improving Entity Disambiguation by Reasoning over a Knowledge Base",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.210/",
+        "author_names": "Tom Ayoola, Joseph Fisher, Andrea Pierleoni"
+    },
+    {
+        "paper_title": "Modal Dependency Parsing via Language Model Priming",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.211/",
+        "author_names": "Jiarui Yao, Nianwen Xue, Bonan Min"
+    },
+    {
+        "paper_title": "Document-Level Relation Extraction with Sentences Importance Estimation and Focusing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.212/",
+        "author_names": "Wang Xu, Kehai Chen, Lili Mou, Tiejun Zhao"
+    },
+    {
+        "paper_title": "Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.213/",
+        "author_names": "Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu"
+    },
+    {
+        "paper_title": "Triggerless Backdoor Attack for NLP Tasks with Clean Labels",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.214/",
+        "author_names": "Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan"
+    },
+    {
+        "paper_title": "PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.215/",
+        "author_names": "Antoine Chaffin, Vincent Claveau, Ewa Kijak"
+    },
+    {
+        "paper_title": "Interpretable Proof Generation via Iterative Backward Reasoning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.216/",
+        "author_names": "Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu"
+    },
+    {
+        "paper_title": "Domain Confused Contrastive Learning for Unsupervised Domain Adaptation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.217/",
+        "author_names": "Quanyu Long, Tianze Luo, Wenya Wang, Sinno Pan"
+    },
+    {
+        "paper_title": "Incorporating Centering Theory into Neural Coreference Resolution",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.218/",
+        "author_names": "Haixia Chai, Michael Strube"
+    },
+    {
+        "paper_title": "Progressive Class Semantic Matching for Semi-supervised Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.219/",
+        "author_names": "Haiming Xu, Lingqiao Liu, Ehsan Abbasnejad"
+    },
+    {
+        "paper_title": "Low Resource Style Transfer via Domain Adaptive Meta Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.220/",
+        "author_names": "Xiangyang Li, Xiang Long, Yu Xia, Sujian Li"
+    },
+    {
+        "paper_title": "Features or Spurious Artifacts? Data-centric Baselines for Fair and Robust Hate Speech Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.221/",
+        "author_names": "Alan Ramponi, Sara Tonelli"
+    },
+    {
+        "paper_title": "Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.222/",
+        "author_names": "Hanzhang Zhou, Kezhi Mao"
+    },
+    {
+        "paper_title": "A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.223/",
+        "author_names": "David Adelani, Jesujoba Alabi, Angela Fan, Julia Kreutzer, Xiaoyu Shen, Machel Reid, Dana Ruiter, Dietrich Klakow, Peter Nabende, Ernie Chang, Tajuddeen Gwadabe, Freshia Sackey, Bonaventure F. P. Dossou, Chris Emezue, Colin Leong, Michael Beukman, Shamsuddeen Muhammad, Guyo Jarso, Oreen Yousuf, Andre Niyongabo Rubungo, Gilles Hacheme, Eric Peter Wairagala, Muhammad Umair Nasir, Benjamin Ajibade, Tunde Ajayi, Yvonne Gitau, Jade Abbott, Mohamed Ahmed, Millicent Ochieng, Anuoluwapo Aremu, Perez Ogayo, Jonathan Mukiibi, Fatoumata Ouoba Kabore, Godson Kalipe, Derguene Mbaye, Allahsera Auguste Tapo, Victoire Memdjokam Koagne, Edwin Munkoh-Buabeng, Valencia Wagner, Idris Abdulmumin, Ayodele Awokoya, Happy Buzaaba, Blessing Sibanda, Andiswa Bukula, Sam Manthalu"
+    },
+    {
+        "paper_title": "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.224/",
+        "author_names": "Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, Bryan Hooi"
+    },
+    {
+        "paper_title": "Analyzing Encoded Concepts in Transformer Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.225/",
+        "author_names": "Hassan Sajjad, Nadir Durrani, Fahim Dalvi, Firoj Alam, Abdul Khan, Jia Xu"
+    },
+    {
+        "paper_title": "Boosted Dense Retriever",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.226/",
+        "author_names": "Patrick Lewis, Barlas Oguz, Wenhan Xiong, Fabio Petroni, Scott Yih, Sebastian Riedel"
+    },
+    {
+        "paper_title": "MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.227/",
+        "author_names": "Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang"
+    },
+    {
+        "paper_title": "NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.228/",
+        "author_names": "Nayeon Lee, Yejin Bang, Tiezheng Yu, Andrea Madotto, Pascale Fung"
+    },
+    {
+        "paper_title": "Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.229/",
+        "author_names": "Shumpei Inoue, Tsungwei Liu, Son Nguyen, Minh-Tien Nguyen"
+    },
+    {
+        "paper_title": "Efficient Constituency Tree based Encoding for Natural Language to Bash Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.230/",
+        "author_names": "Shikhar Bharadwaj, Shirish Shevade"
+    },
+    {
+        "paper_title": "Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.231/",
+        "author_names": "Garam Lee, Minsoo Kim, Jai Hyun Park, Seung-won Hwang, Jung Hee Cheon"
+    },
+    {
+        "paper_title": "ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.232/",
+        "author_names": "Xinyu Wang, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Kewei Tu"
+    },
+    {
+        "paper_title": "A Dataset for N-ary Relation Extraction of Drug Combinations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.233/",
+        "author_names": "Aryeh Tiktinsky, Vijay Viswanathan, Danna Niezni, Dana Meron Azagury, Yosi Shamay, Hillel Taub-Tabib, Tom Hope, Yoav Goldberg"
+    },
+    {
+        "paper_title": "Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.234/",
+        "author_names": "Zeming Chen, Qiyue Gao"
+    },
+    {
+        "paper_title": "Neural Language Taskonomy: Which NLP Tasks are the most Predictive of fMRI Brain Activity?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.235/",
+        "author_names": "Subba Reddy Oota, Jashn Arora, Veeral Agarwal, Mounika Marreddy, Manish Gupta, Bapi Surampudi"
+    },
+    {
+        "paper_title": "FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.236/",
+        "author_names": "Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal"
+    },
+    {
+        "paper_title": "Unsupervised Paraphrasability Prediction for Compound Nominalizations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.237/",
+        "author_names": "John Sie Yuen Lee, Ho Hung Lim, Carol Webster"
+    },
+    {
+        "paper_title": "Global Entity Disambiguation with BERT",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.238/",
+        "author_names": "Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto"
+    },
+    {
+        "paper_title": "Clues Before Answers: Generation-Enhanced Multiple-Choice QA",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.239/",
+        "author_names": "Zixian Huang, Ao Wu, Jiaying Zhou, Yu Gu, Yue Zhao, Gong Cheng"
+    },
+    {
+        "paper_title": "Towards Efficient NLP: A Standard Evaluation and A Strong Baseline",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.240/",
+        "author_names": "Xiangyang Liu, Tianxiang Sun, Junliang He, Jiawen Wu, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu"
+    },
+    {
+        "paper_title": "Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.241/",
+        "author_names": "Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang"
+    },
+    {
+        "paper_title": "LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.242/",
+        "author_names": "Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He"
+    },
+    {
+        "paper_title": "Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.243/",
+        "author_names": "Pei Chen, Haotian Xu, Cheng Zhang, Ruihong Huang"
+    },
+    {
+        "paper_title": "Tricks for Training Sparse Translation Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.244/",
+        "author_names": "Dheeru Dua, Shruti Bhosale, Vedanuj Goswami, James Cross, Mike Lewis, Angela Fan"
+    },
+    {
+        "paper_title": "Persona-Guided Planning for Controlling the Protagonist\u2019s Persona in Story Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.245/",
+        "author_names": "Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang"
+    },
+    {
+        "paper_title": "CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.246/",
+        "author_names": "Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip Yu"
+    },
+    {
+        "paper_title": "VGNMN: Video-grounded Neural Module Networks for Video-Grounded Dialogue Systems",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.247/",
+        "author_names": "Hung Le, Nancy Chen, Steven Hoi"
+    },
+    {
+        "paper_title": "Multimodal Dialogue State Tracking",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.248/",
+        "author_names": "Hung Le, Nancy Chen, Steven Hoi"
+    },
+    {
+        "paper_title": "On the Use of Bert for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.249/",
+        "author_names": "Yongjie Wang, Chuang Wang, Ruobing Li, Hui Lin"
+    },
+    {
+        "paper_title": "Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.250/",
+        "author_names": "Connor Baumler, Rachel Rudinger"
+    },
+    {
+        "paper_title": "TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.251/",
+        "author_names": "Prashanth Vijayaraghavan, Soroush Vosoughi"
+    },
+    {
+        "paper_title": "UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.252/",
+        "author_names": "Fatemehsadat Mireshghallah, Vaishnavi Shrivastava, Milad Shokouhi, Taylor Berg-Kirkpatrick, Robert Sim, Dimitrios Dimitriadis"
+    },
+    {
+        "paper_title": "Improving Neural Models for Radiology Report Retrieval with Lexicon-based Automated Annotation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.253/",
+        "author_names": "Luyao Shi, Tanveer Syeda-mahmood, Tyler Baldwin"
+    },
+    {
+        "paper_title": "Transparent Human Evaluation for Image Captioning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.254/",
+        "author_names": "Jungo Kasai, Keisuke Sakaguchi, Lavinia Dunagan, Jacob Morrison, Ronan Le Bras, Yejin Choi, Noah A. Smith"
+    },
+    {
+        "paper_title": "Lifting the Curse of Multilinguality by Pre-training Modular Transformers",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.255/",
+        "author_names": "Jonas Pfeiffer, Naman Goyal, Xi Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe"
+    },
+    {
+        "paper_title": "DocAMR: Multi-Sentence AMR Representation and Evaluation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.256/",
+        "author_names": "Tahira Naseem, Austin Blodgett, Sadhana Kumaravel, Tim O\u2019Gorman, Young-Suk Lee, Jeffrey Flanigan, Ram\u00f3n Astudillo, Radu Florian, Salim Roukos, Nathan Schneider"
+    },
+    {
+        "paper_title": "Learning to Transfer Prompts for Text Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.257/",
+        "author_names": "Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao"
+    },
+    {
+        "paper_title": "ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.258/",
+        "author_names": "Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen"
+    },
+    {
+        "paper_title": "Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.259/",
+        "author_names": "Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Morrison, Alexander Fabbri, Yejin Choi, Noah A. Smith"
+    },
+    {
+        "paper_title": "Improving In-Context Few-Shot Learning via Self-Supervised Training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.260/",
+        "author_names": "Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, Zornitsa Kozareva"
+    },
+    {
+        "paper_title": "Exposing the Limits of Video-Text Models through Contrast Sets",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.261/",
+        "author_names": "Jae Sung Park, Sheng Shen, Ali Farhadi, Trevor Darrell, Yejin Choi, Anna Rohrbach"
+    },
+    {
+        "paper_title": "Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.262/",
+        "author_names": "Yufei Tian, Nanyun Peng"
+    },
+    {
+        "paper_title": "Benchmarking Intersectional Biases in NLP",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.263/",
+        "author_names": "John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi"
+    },
+    {
+        "paper_title": "When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.264/",
+        "author_names": "Ameet Deshpande, Partha Talukdar, Karthik Narasimhan"
+    },
+    {
+        "paper_title": "How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.265/",
+        "author_names": "Stephanie Brandl, Ruixiang Cui, Anders S\u00f8gaard"
+    },
+    {
+        "paper_title": "Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.266/",
+        "author_names": "Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh, Yejin Choi"
+    },
+    {
+        "paper_title": "Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.267/",
+        "author_names": "Benjamin Hsu, Graham Horwood"
+    },
+    {
+        "paper_title": "Learning the Ordering of Coordinate Compounds and Elaborate Expressions in Hmong, Lahu, and Chinese",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.268/",
+        "author_names": "Chenxuan Cui, Katherine J. Zhang, David Mortensen"
+    },
+    {
+        "paper_title": "FRUIT: Faithfully Reflecting Updated Information in Text",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.269/",
+        "author_names": "Robert Iv, Alexandre Passos, Sameer Singh, Ming-Wei Chang"
+    },
+    {
+        "paper_title": "Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.270/",
+        "author_names": "Chia-Chien Hung, Anne Lauscher, Ivan Vuli\u0107, Simone Ponzetto, Goran Glava\u0161"
+    },
+    {
+        "paper_title": "ChapterBreak: A Challenge Dataset for Long-Range Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.271/",
+        "author_names": "Simeng Sun, Katherine Thai, Mohit Iyyer"
+    },
+    {
+        "paper_title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.272/",
+        "author_names": "Keshav Santhanam, Omar Khattab, Jon Saad-Falcon, Christopher Potts, Matei Zaharia"
+    },
+    {
+        "paper_title": "Quantifying Language Variation Acoustically with Few Resources",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.273/",
+        "author_names": "Martijn Bartelds, Martijn Wieling"
+    },
+    {
+        "paper_title": "Adaptable Adapters",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.274/",
+        "author_names": "Nafise Moosavi, Quentin Delfosse, Kristian Kersting, Iryna Gurevych"
+    },
+    {
+        "paper_title": "Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.275/",
+        "author_names": "Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela"
+    },
+    {
+        "paper_title": "GMN: Generative Multi-modal Network for Practical Document Information Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.276/",
+        "author_names": "Haoyu Cao, Jiefeng Ma, Antai Guo, Yiqing Hu, Hao Liu, Deqiang Jiang, Yinsong Liu, Bo Ren"
+    },
+    {
+        "paper_title": "One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.277/",
+        "author_names": "Chenze Shao, Xuanfu Wu, Yang Feng"
+    },
+    {
+        "paper_title": "Can Rationalization Improve Robustness?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.278/",
+        "author_names": "Howard Chen, Jacqueline He, Karthik Narasimhan, Danqi Chen"
+    },
+    {
+        "paper_title": "On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.279/",
+        "author_names": "Tingting Ma, Qianhui Wu, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin"
+    },
+    {
+        "paper_title": "A Computational Acquisition Model for Multimodal Word Categorization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.280/",
+        "author_names": "Uri Berger, Gabriel Stanovsky, Omri Abend, Lea Frermann"
+    },
+    {
+        "paper_title": "Residue-Based Natural Language Adversarial Attack Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.281/",
+        "author_names": "Vyas Raina, Mark Gales"
+    },
+    {
+        "paper_title": "Does it Really Generalize Well on Unseen Data? Systematic Evaluation of Relational Triple Extraction Methods",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.282/",
+        "author_names": "Juhyuk Lee, Min-Joong Lee, June Yong Yang, Eunho Yang"
+    },
+    {
+        "paper_title": "From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.283/",
+        "author_names": "Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou"
+    },
+    {
+        "paper_title": "EASE: Entity-Aware Contrastive Learning of Sentence Embedding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.284/",
+        "author_names": "Sosuke Nishikawa, Ryokan Ri, Ikuya Yamada, Yoshimasa Tsuruoka, Isao Echizen"
+    },
+    {
+        "paper_title": "Is Neural Topic Modelling Better than Clustering? An Empirical Study on Clustering with Contextual Embeddings for Topics",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.285/",
+        "author_names": "Zihan Zhang, Meng Fang, Ling Chen, Mohammad Reza Namazi Rad"
+    },
+    {
+        "paper_title": "Dynamic Multistep Reasoning based on Video Scene Graph for Video Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.286/",
+        "author_names": "Jianguo Mao, Wenbin Jiang, Xiangdong Wang, Zhifan Feng, Yajuan Lyu, Hong Liu, Yong Zhu"
+    },
+    {
+        "paper_title": "TRUE: Re-evaluating Factual Consistency Evaluation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.287/",
+        "author_names": "Or Honovich, Roee Aharoni, Jonathan Herzig, Hagai Taitelbaum, Doron Kukliansy, Vered Cohen, Thomas Scialom, Idan Szpektor, Avinatan Hassidim, Yossi Matias"
+    },
+    {
+        "paper_title": "Knowledge Inheritance for Pre-trained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.288/",
+        "author_names": "Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, Yusheng Su, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou"
+    },
+    {
+        "paper_title": "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.289/",
+        "author_names": "Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang"
+    },
+    {
+        "paper_title": "On Transferability of Prompt Tuning for Natural Language Processing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.290/",
+        "author_names": "Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou"
+    },
+    {
+        "paper_title": "DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.291/",
+        "author_names": "MeiHan Tong, Bin Xu, Shuai Wang, Meihuan Han, Yixin Cao, Jiangqi Zhu, Siyu Chen, Lei Hou, Juanzi Li"
+    },
+    {
+        "paper_title": "Towards Debiasing Translation Artifacts",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.292/",
+        "author_names": "Koel Dutta Chowdhury, Rricha Jalota, Cristina Espa\u00f1a-Bonet, Josef Genabith"
+    },
+    {
+        "paper_title": "WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.293/",
+        "author_names": "Benjamin Minixhofer, Fabian Paischer, Navid Rekabsaz"
+    },
+    {
+        "paper_title": "A New Concept of Knowledge based Question Answering (KBQA) System for Multi-hop Reasoning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.294/",
+        "author_names": "Yu Wang, V.srinivasan@samsung.com V.srinivasan@samsung.com, Hongxia Jin"
+    },
+    {
+        "paper_title": "Bilingual Tabular Inference: A Case Study on Indic Languages",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.295/",
+        "author_names": "Chaitanya Agarwal, Vivek Gupta, Anoop Kunchukuttan, Manish Shrivastava"
+    },
+    {
+        "paper_title": "Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.296/",
+        "author_names": "Hongyi Yuan, Zheng Yuan, Sheng Yu"
+    },
+    {
+        "paper_title": "Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.297/",
+        "author_names": "Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang"
+    },
+    {
+        "paper_title": "Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.298/",
+        "author_names": "Ramy Eskander, Cass Lowry, Sujay Khandagale, Judith Klavans, Maria Polinsky, Smaranda Muresan"
+    },
+    {
+        "paper_title": "Optimising Equal Opportunity Fairness in Model Training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.299/",
+        "author_names": "Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann"
+    },
+    {
+        "paper_title": "Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.300/",
+        "author_names": "Siyu Ren, Kenny Zhu"
+    },
+    {
+        "paper_title": "Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.301/",
+        "author_names": "Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura"
+    },
+    {
+        "paper_title": "Early Rumor Detection Using Neural Hawkes Process with a New Benchmark Dataset",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.302/",
+        "author_names": "Fengzhu Zeng, Wei Gao"
+    },
+    {
+        "paper_title": "Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.303/",
+        "author_names": "Wongyu Kim, Youbin Ahn, Donghyun Kim, Kyong-Ho Lee"
+    },
+    {
+        "paper_title": "KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.304/",
+        "author_names": "Wenqian Zhang, Shangbin Feng, Zilong Chen, Zhenyu Lei, Jundong Li, Minnan Luo"
+    },
+    {
+        "paper_title": "Collective Relevance Labeling for Passage Retrieval",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.305/",
+        "author_names": "Jihyuk Kim, Minsoo Kim, Seung-won Hwang"
+    },
+    {
+        "paper_title": "COGMEN: COntextualized GNN based Multimodal Emotion recognitioN",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.306/",
+        "author_names": "Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Singh, Ashutosh Modi"
+    },
+    {
+        "paper_title": "Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.307/",
+        "author_names": "Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu"
+    },
+    {
+        "paper_title": "AISFG: Abundant Information Slot Filling Generator",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.308/",
+        "author_names": "Yang Yan, Junda Ye, Zhongbao Zhang, Liwen Wang"
+    },
+    {
+        "paper_title": "Improving negation detection with negation-focused pre-training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.309/",
+        "author_names": "Thinh Truong, Timothy Baldwin, Trevor Cohn, Karin Verspoor"
+    },
+    {
+        "paper_title": "Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.310/",
+        "author_names": "Vivek Kumar, Rishabh Maheshwary, Vikram Pudi"
+    },
+    {
+        "paper_title": "DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.311/",
+        "author_names": "Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljacic, Shang-Wen Li, Scott Yih, Yoon Kim, James Glass"
+    },
+    {
+        "paper_title": "Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.312/",
+        "author_names": "Junjie Li, Jianfei Yu, Rui Xia"
+    },
+    {
+        "paper_title": "ProQA: Structural Prompt-based Pre-training for Unified Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.313/",
+        "author_names": "Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan"
+    },
+    {
+        "paper_title": "A Data Cartography based MixUp for Pre-trained Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.314/",
+        "author_names": "Seo Yeon Park, Cornelia Caragea"
+    },
+    {
+        "paper_title": "Grapheme-to-Phoneme Conversion for Thai using Neural Regression Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.315/",
+        "author_names": "Tomohiro Yamasaki"
+    },
+    {
+        "paper_title": "Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.316/",
+        "author_names": "Siyu Lai, Zhen Yang, Fandong Meng, Xue Zhang, Yufeng Chen, Jinan Xu, Jie Zhou"
+    },
+    {
+        "paper_title": "TVShowGuess: Character Comprehension in Stories as Speaker Guessing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.317/",
+        "author_names": "Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton"
+    },
+    {
+        "paper_title": "Causal Distillation for Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.318/",
+        "author_names": "Zhengxuan Wu, Atticus Geiger, Joshua Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah Goodman"
+    },
+    {
+        "paper_title": "FNet: Mixing Tokens with Fourier Transforms",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.319/",
+        "author_names": "James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon"
+    },
+    {
+        "paper_title": "Answer Consolidation: Formulation and Benchmarking",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.320/",
+        "author_names": "Wenxuan Zhou, Qiang Ning, Heba Elfardy, Kevin Small, Muhao Chen"
+    },
+    {
+        "paper_title": "Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.321/",
+        "author_names": "Jacob Eisenstein"
+    },
+    {
+        "paper_title": "FOAM: A Follower-aware Speaker Model For Vision-and-Language Navigation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.322/",
+        "author_names": "Zi-Yi Dou, Nanyun Peng"
+    },
+    {
+        "paper_title": "Improving Compositional Generalization with Latent Structure and Data Augmentation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.323/",
+        "author_names": "Linlu Qiu, Peter Shaw, Panupong Pasupat, Pawel Nowak, Tal Linzen, Fei Sha, Kristina Toutanova"
+    },
+    {
+        "paper_title": "Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.324/",
+        "author_names": "Minh Van Nguyen, Bonan Min, Franck Dernoncourt, Thien Nguyen"
+    },
+    {
+        "paper_title": "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.325/",
+        "author_names": "Jakob Prange, Nathan Schneider, Lingpeng Kong"
+    },
+    {
+        "paper_title": "Imagination-Augmented Natural Language Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.326/",
+        "author_names": "Yujie Lu, Wanrong Zhu, Xin Wang, Miguel Eckstein, William Yang Wang"
+    },
+    {
+        "paper_title": "What company do words keep? Revisiting the distributional semantics of J.R. Firth & Zellig Harris",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.327/",
+        "author_names": "Mikael Brunila, Jack LaViolette"
+    },
+    {
+        "paper_title": "Compositional Task-Oriented Parsing as Abstractive Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.328/",
+        "author_names": "Wenting Zhao, Konstantine Arkoudas, Weiqi Sun, Claire Cardie"
+    },
+    {
+        "paper_title": "Learning Cross-Lingual IR from an English Retriever",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.329/",
+        "author_names": "Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil"
+    },
+    {
+        "paper_title": "Testing the Ability of Language Models to Interpret Figurative Language",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.330/",
+        "author_names": "Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig"
+    },
+    {
+        "paper_title": "Multi-Vector Models with Textual Guidance for Fine-Grained Scientific Document Similarity",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.331/",
+        "author_names": "Sheshera Mysore, Arman Cohan, Tom Hope"
+    },
+    {
+        "paper_title": "CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.332/",
+        "author_names": "Siddharth Verma, Justin Fu, Sherry Yang, Sergey Levine"
+    },
+    {
+        "paper_title": "Connecting the Dots between Audio and Text without Parallel Data through Visual Knowledge Transfer",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.333/",
+        "author_names": "Yanpeng Zhao, Jack Hessel, Youngjae Yu, Ximing Lu, Rowan Zellers, Yejin Choi"
+    },
+    {
+        "paper_title": "SURF: Semantic-level Unsupervised Reward Function for Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.334/",
+        "author_names": "Atijit Anuchitanukul, Julia Ive"
+    },
+    {
+        "paper_title": "Disentangling Categorization in Multi-agent Emergent Communication",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.335/",
+        "author_names": "Washington Garcia, Hamilton Clouse, Kevin Butler"
+    },
+    {
+        "paper_title": "Show, Don\u2019t Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.336/",
+        "author_names": "Raghav Gupta, Harrison Lee, Jeffrey Zhao, Yuan Cao, Abhinav Rastogi, Yonghui Wu"
+    },
+    {
+        "paper_title": "Does Pre-training Induce Systematic Inference? How Masked Language Models Acquire Commonsense Knowledge",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.337/",
+        "author_names": "Ian Porada, Alessandro Sordoni, Jackie Cheung"
+    },
+    {
+        "paper_title": "Using Paraphrases to Study Properties of Contextual Embeddings",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.338/",
+        "author_names": "Laura Burdick, Jonathan K. Kummerfeld, Rada Mihalcea"
+    },
+    {
+        "paper_title": "Measure and Improve Robustness in NLP Models: A Survey",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.339/",
+        "author_names": "Xuezhi Wang, Haohan Wang, Diyi Yang"
+    },
+    {
+        "paper_title": "Learning to Generate Examples for Semantic Processing Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.340/",
+        "author_names": "Danilo Croce, Simone Filice, Giuseppe Castellucci, Roberto Basili"
+    },
+    {
+        "paper_title": "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.341/",
+        "author_names": "Peter West, Chandra Bhagavatula, Jack Hessel, Jena Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi"
+    },
+    {
+        "paper_title": "GenIE: Generative Information Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.342/",
+        "author_names": "Martin Josifoski, Nicola De Cao, Maxime Peyrard, Fabio Petroni, Robert West"
+    },
+    {
+        "paper_title": "Entity Linking via Explicit Mention-Mention Coreference Modeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.343/",
+        "author_names": "Dhruv Agarwal, Rico Angell, Nicholas Monath, Andrew McCallum"
+    },
+    {
+        "paper_title": "Massive-scale Decoding for Text Generation using Lattices",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.344/",
+        "author_names": "Jiacheng Xu, Siddhartha Jonnalagadda, Greg Durrett"
+    },
+    {
+        "paper_title": "Disentangling Indirect Answers to Yes-No Questions in Real Conversations",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.345/",
+        "author_names": "Krishna Sanagavarapu, Jathin Singaraju, Anusha Kakileti, Anirudh Kaza, Aaron Mathews, Helen Li, Nathan Brito, Eduardo Blanco"
+    },
+    {
+        "paper_title": "Quantifying Adaptability in Pre-trained Language Models with 500 Tasks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.346/",
+        "author_names": "Belinda Li, Jane Yu, Madian Khabsa, Luke Zettlemoyer, Alon Halevy, Jacob Andreas"
+    },
+    {
+        "paper_title": "Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.347/",
+        "author_names": "Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein"
+    },
+    {
+        "paper_title": "A Study of the Attention Abnormality in Trojaned BERTs",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.348/",
+        "author_names": "Weimin Lyu, Songzhu Zheng, Tengfei Ma, Chao Chen"
+    },
+    {
+        "paper_title": "EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.349/",
+        "author_names": "Minyi Zhao, Lu Zhang, Yi Xu, Jiandong Ding, Jihong Guan, Shuigeng Zhou"
+    },
+    {
+        "paper_title": "Partial-input baselines show that NLI models can ignore context, but they don\u2019t.",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.350/",
+        "author_names": "Neha Srikanth, Rachel Rudinger"
+    },
+    {
+        "paper_title": "Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.351/",
+        "author_names": "Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew Arnold, Xiang Ren"
+    },
+    {
+        "paper_title": "Learning as Conversation: Dialogue Systems Reinforced for Information Acquisition",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.352/",
+        "author_names": "Pengshan Cai, Hui Wan, Fei Liu, Mo Yu, Hong Yu, Sachindra Joshi"
+    },
+    {
+        "paper_title": "Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.353/",
+        "author_names": "Songlin Yang, Wei Liu, Kewei Tu"
+    },
+    {
+        "paper_title": "What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.354/",
+        "author_names": "Terne Thorn Jakobsen, Anna Rogers"
+    },
+    {
+        "paper_title": "Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.355/",
+        "author_names": "Niccol\u00f2 Campolungo, Tommaso Pasini, Denis Emelin, Roberto Navigli"
+    },
+    {
+        "paper_title": "Mining Clues from Incomplete Utterance: A Query-enhanced Network for Incomplete Utterance Rewriting",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.356/",
+        "author_names": "Shuzheng Si, Shuang Zeng, Baobao Chang"
+    },
+    {
+        "paper_title": "Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.357/",
+        "author_names": "Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu"
+    },
+    {
+        "paper_title": "Interactive Symbol Grounding with Complex Referential Expressions",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.358/",
+        "author_names": "Rimvydas Rubavicius, Alex Lascarides"
+    },
+    {
+        "paper_title": "Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.359/",
+        "author_names": "Ruixiang Cui, Daniel Hershcovich, Anders S\u00f8gaard"
+    },
+    {
+        "paper_title": "Exact Paired-Permutation Testing for Structured Test Statistics",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.360/",
+        "author_names": "Ran Zmigrod, Tim Vieira, Ryan Cotterell"
+    },
+    {
+        "paper_title": "A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.361/",
+        "author_names": "Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky"
+    },
+    {
+        "paper_title": "SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.362/",
+        "author_names": "Zheng Zhang, Zili Zhou, Yanna Wang"
+    },
+    {
+        "paper_title": "Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.363/",
+        "author_names": "Allison Lahnala, Charles Welch, B\u00e9la Neuendorf, Lucie Flek"
+    },
+    {
+        "paper_title": "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.364/",
+        "author_names": "Lin Tian, Xiuzhen Zhang, Jey Han Lau"
+    },
+    {
+        "paper_title": "Jam or Cream First? Modeling Ambiguity in Neural Machine Translation with SCONES",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.365/",
+        "author_names": "Felix Stahlberg, Shankar Kumar"
+    },
+    {
+        "paper_title": "SkillSpan: Hard and Soft Skill Extraction from English Job Postings",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.366/",
+        "author_names": "Mike Zhang, Kristian Jensen, Sif Sonniks, Barbara Plank"
+    },
+    {
+        "paper_title": "RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.367/",
+        "author_names": "Yuan Liang, Zhuoxuan Jiang, Di Yin, Bo Ren"
+    },
+    {
+        "paper_title": "A Double-Graph Based Framework for Frame Semantic Parsing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.368/",
+        "author_names": "Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang"
+    },
+    {
+        "paper_title": "An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.369/",
+        "author_names": "Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui"
+    },
+    {
+        "paper_title": "A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.370/",
+        "author_names": "Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui"
+    },
+    {
+        "paper_title": "Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.371/",
+        "author_names": "Fei Wang, Zhewei Xu, Pedro Szekely, Muhao Chen"
+    },
+    {
+        "paper_title": "JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.372/",
+        "author_names": "Yueqing Sun, Qi Shi, Le Qi, Yu Zhang"
+    },
+    {
+        "paper_title": "Models In a Spelling Bee: Language Models Implicitly Learn the Character Composition of Tokens",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.373/",
+        "author_names": "Itay Itzhak, Omer Levy"
+    },
+    {
+        "paper_title": "A Corpus for Understanding and Generating Moral Stories",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.374/",
+        "author_names": "Jian Guan, Ziqi Liu, Minlie Huang"
+    },
+    {
+        "paper_title": "Modeling Multi-Granularity Hierarchical Features for Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.375/",
+        "author_names": "Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li"
+    },
+    {
+        "paper_title": "Cross-modal Contrastive Learning for Speech Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.376/",
+        "author_names": "Rong Ye, Mingxuan Wang, Lei Li"
+    },
+    {
+        "paper_title": "Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.377/",
+        "author_names": "Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang"
+    },
+    {
+        "paper_title": "DynamicTOC: Persona-based Table of Contents for Consumption of Long Documents",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.378/",
+        "author_names": "Himanshu Maheshwari, Nethraa Sivakumar, Shelly Jain, Tanvi Karandikar, Vinay Aggarwal, Navita Goyal, Sumit Shekhar"
+    },
+    {
+        "paper_title": "KALA: Knowledge-Augmented Language Model Adaptation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.379/",
+        "author_names": "Minki Kang, Jinheon Baek, Sung Ju Hwang"
+    },
+    {
+        "paper_title": "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.380/",
+        "author_names": "Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung"
+    },
+    {
+        "paper_title": "Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.381/",
+        "author_names": "Yifan Chen, Qi Zeng, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang"
+    },
+    {
+        "paper_title": "Partner Personas Generation for Dialogue Response Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.382/",
+        "author_names": "Hongyuan Lu, Wai Lam, Hong Cheng, Helen Meng"
+    },
+    {
+        "paper_title": "Semantically Informed Slang Interpretation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.383/",
+        "author_names": "Zhewei Sun, Richard Zemel, Yang Xu"
+    },
+    {
+        "paper_title": "Dual-Channel Evidence Fusion for Fact Verification over Texts and Tables",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.384/",
+        "author_names": "Nan Hu, Zirui Wu, Yuxuan Lai, Xiao Liu, Yansong Feng"
+    },
+    {
+        "paper_title": "TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.385/",
+        "author_names": "Le Zhang, Zichao Yang, Diyi Yang"
+    },
+    {
+        "paper_title": "Syn2Vec: Synset Colexification Graphs for Lexical Semantic Similarity",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.386/",
+        "author_names": "John Harvill, Roxana Girju, Mark Hasegawa-Johnson"
+    },
+    {
+        "paper_title": "On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.387/",
+        "author_names": "Nouha Dziri, Sivan Milton, Mo Yu, Osmar Zaiane, Siva Reddy"
+    },
+    {
+        "paper_title": "Is \u201cMy Favorite New Movie\u201d My Favorite Movie? Probing the Understanding of Recursive Noun Phrases",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.388/",
+        "author_names": "Qing Lyu, Zheng Hua, Daoxin Li, Li Zhang, Marianna Apidianaki, Chris Callison-Burch"
+    },
+    {
+        "paper_title": "Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.389/",
+        "author_names": "Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Sch\u00f6lkopf"
+    },
+    {
+        "paper_title": "Visual Commonsense in Pretrained Unimodal and Multimodal Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.390/",
+        "author_names": "Chenyu Zhang, Benjamin Van Durme, Zhuowan Li, Elias Stengel-Eskin"
+    },
+    {
+        "paper_title": "QuALITY: Question Answering with Long Input Texts, Yes!",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.391/",
+        "author_names": "Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny Ma, Jana Thompson, He He, Samuel Bowman"
+    },
+    {
+        "paper_title": "ExSum: From Local Explanations to Model Understanding",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.392/",
+        "author_names": "Yilun Zhou, Marco Tulio Ribeiro, Julie Shah"
+    },
+    {
+        "paper_title": "Maximum Bayes Smatch Ensemble Distillation for AMR Parsing",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.393/",
+        "author_names": "Young-Suk Lee, Ram\u00f3n Astudillo, Hoang Thanh Lam, Tahira Naseem, Radu Florian, Salim Roukos"
+    },
+    {
+        "paper_title": "When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.394/",
+        "author_names": "Mycal Tucker, Tiwalayo Eisape, Peng Qian, Roger Levy, Julie Shah"
+    },
+    {
+        "paper_title": "Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.395/",
+        "author_names": "Liyan Xu, Jinho Choi"
+    },
+    {
+        "paper_title": "Few-Shot Semantic Parsing with Language Models Trained on Code",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.396/",
+        "author_names": "Richard Shin, Benjamin Van Durme"
+    },
+    {
+        "paper_title": "CORWA: A Citation-Oriented Related Work Annotation Dataset",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.397/",
+        "author_names": "Xiangci Li, Biswadip Mandal, Jessica Ouyang"
+    },
+    {
+        "paper_title": "Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.398/",
+        "author_names": "Dingcheng Li, Zheng Chen, Eunah Cho, Jie Hao, Xiaohu Liu, Fan Xing, Chenlei Guo, Yang Liu"
+    },
+    {
+        "paper_title": "Extreme Zero-Shot Learning for Extreme Text Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.399/",
+        "author_names": "Yuanhao Xiong, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit Dhillon"
+    },
+    {
+        "paper_title": "ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.400/",
+        "author_names": "Yibo Hu, MohammadSaleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick Brandt, Vito D\u2019Orazio"
+    },
+    {
+        "paper_title": "Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.401/",
+        "author_names": "Han Wang, Canwen Xu, Julian McAuley"
+    },
+    {
+        "paper_title": "Few-shot Subgoal Planning with Language Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.402/",
+        "author_names": "Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee"
+    },
+    {
+        "paper_title": "IDPG: An Instance-Dependent Prompt Generation Method",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.403/",
+        "author_names": "Zhuofeng Wu, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, V.G.Vinod Vydiswaran, Hao Ma"
+    },
+    {
+        "paper_title": "Embedding Hallucination for Few-shot Language Fine-tuning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.404/",
+        "author_names": "Yiren Jian, Chongyang Gao, Soroush Vosoughi"
+    },
+    {
+        "paper_title": "Cryptocurrency Bubble Detection: A New Stock Market Dataset, Financial Task & Hyperbolic Models",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.405/",
+        "author_names": "Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava"
+    },
+    {
+        "paper_title": "Nearest Neighbor Knowledge Distillation for Neural Machine Translation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.406/",
+        "author_names": "Zhixian Yang, Renliang Sun, Xiaojun Wan"
+    },
+    {
+        "paper_title": "DEMix Layers: Disentangling Domains for Modular Language Modeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.407/",
+        "author_names": "Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah A. Smith, Luke Zettlemoyer"
+    },
+    {
+        "paper_title": "Contrastive Learning for Prompt-based Few-shot Language Learners",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.408/",
+        "author_names": "Yiren Jian, Chongyang Gao, Soroush Vosoughi"
+    },
+    {
+        "paper_title": "Cross-Lingual Event Detection via Optimized Adversarial Training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.409/",
+        "author_names": "Luis Guzman-Nateras, Minh Van Nguyen, Thien Nguyen"
+    },
+    {
+        "paper_title": "Identifying Implicitly Abusive Remarks about Identity Groups using a Linguistically Informed Approach",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.410/",
+        "author_names": "Michael Wiegand, Elisabeth Eder, Josef Ruppenhofer"
+    },
+    {
+        "paper_title": "Label Definitions Improve Semantic Role Labeling",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.411/",
+        "author_names": "Li Zhang, Ishan Jindal, Yunyao Li"
+    },
+    {
+        "paper_title": "Shedding New Light on the Language of the Dark Web",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.412/",
+        "author_names": "Youngjin Jin, Eugene Jang, Yongjae Lee, Seungwon Shin, Jin-Woo Chung"
+    },
+    {
+        "paper_title": "Conceptualizing Treatment Leakage in Text-based Causal Inference",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.413/",
+        "author_names": "Adel Daoud, Connor Jerzak, Richard Johansson"
+    },
+    {
+        "paper_title": "Consistency Training with Virtual Adversarial Discrete Perturbation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.414/",
+        "author_names": "Jungsoo Park, Gyuwan Kim, Jaewoo Kang"
+    },
+    {
+        "paper_title": "CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.415/",
+        "author_names": "Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
+    },
+    {
+        "paper_title": "CoMPM: Context Modeling with Speaker\u2019s Pre-trained Memory Tracking for Emotion Recognition in Conversation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.416/",
+        "author_names": "Joosung Lee, Wooin Lee"
+    },
+    {
+        "paper_title": "Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.417/",
+        "author_names": "Xiangru Tang, Alexander Fabbri, Haoran Li, Ziming Mao, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev"
+    },
+    {
+        "paper_title": "DialSummEval: Revisiting Summarization Evaluation for Dialogues",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.418/",
+        "author_names": "Mingqi Gao, Xiaojun Wan"
+    },
+    {
+        "paper_title": "Hyperbolic Relevance Matching for Neural Keyphrase Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.419/",
+        "author_names": "Mingyang Song, Yi Feng, Liping Jing"
+    },
+    {
+        "paper_title": "Template-free Prompt Tuning for Few-shot NER",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.420/",
+        "author_names": "Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang"
+    },
+    {
+        "paper_title": "Few-Shot Document-Level Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.421/",
+        "author_names": "Nicholas Popovic, Michael F\u00e4rber"
+    },
+    {
+        "paper_title": "LaMemo: Language Modeling with Look-Ahead Memory",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.422/",
+        "author_names": "Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang"
+    },
+    {
+        "paper_title": "Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.423/",
+        "author_names": "Ghazi Felhi, Joseph Le Roux, Djam\u00e9 Seddah"
+    },
+    {
+        "paper_title": "Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.424/",
+        "author_names": "Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, Shimin Tao, Yanghua Xiao"
+    },
+    {
+        "paper_title": "What do Toothbrushes do in the Kitchen? How Transformers Think our World is Structured",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.425/",
+        "author_names": "Alexander Henlein, Alexander Mehler"
+    },
+    {
+        "paper_title": "Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.426/",
+        "author_names": "Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen"
+    },
+    {
+        "paper_title": "A Holistic Framework for Analyzing the COVID-19 Vaccine Debate",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.427/",
+        "author_names": "Maria Leonor Pacheco, Tunazzina Islam, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser"
+    },
+    {
+        "paper_title": "Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.428/",
+        "author_names": "Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou"
+    },
+    {
+        "paper_title": "You Don\u2019t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers\u2019 Private Personas",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.429/",
+        "author_names": "Haoran Li, Yangqiu Song, Lixin Fan"
+    },
+    {
+        "paper_title": "Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.430/",
+        "author_names": "Baber Khalid, Sungjin Lee"
+    },
+    {
+        "paper_title": "Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.431/",
+        "author_names": "Maarten Sap, Swabha Swayamdipta, Laura Vianna, Xuhui Zhou, Yejin Choi, Noah A. Smith"
+    },
+    {
+        "paper_title": "Non-Autoregressive Chinese ASR Error Correction with Phonological Training",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.432/",
+        "author_names": "Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao"
+    },
+    {
+        "paper_title": "Hate Speech and Counter Speech Detection: Conversational Context Does Matter",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.433/",
+        "author_names": "Xinchen Yu, Eduardo Blanco, Lingzi Hong"
+    },
+    {
+        "paper_title": "DACSA: A large-scale Dataset for Automatic summarization of Catalan and Spanish newspaper Articles",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.434/",
+        "author_names": "Encarnaci\u00f3n Segarra Soriano, Vicent Ahuir, Llu\u00eds-F. Hurtado, Jos\u00e9 Gonz\u00e1lez"
+    },
+    {
+        "paper_title": "Time Waits for No One! Analysis and Challenges of Temporal Misalignment",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.435/",
+        "author_names": "Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam, Noah A. Smith"
+    },
+    {
+        "paper_title": "MCSE: Multimodal Contrastive Learning of Sentence Embeddings",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.436/",
+        "author_names": "Miaoran Zhang, Marius Mosbach, David Adelani, Michael Hedderich, Dietrich Klakow"
+    },
+    {
+        "paper_title": "HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.437/",
+        "author_names": "Shuliang Liu, Xuming Hu, Chenwei Zhang, Shu\u2019ang Li, Lijie Wen, Philip Yu"
+    },
+    {
+        "paper_title": "Diagnosing Vision-and-Language Navigation: What Really Matters",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.438/",
+        "author_names": "Wanrong Zhu, Yuankai Qi, Pradyumna Narayana, Kazoo Sone, Sugato Basu, Xin Wang, Qi Wu, Miguel Eckstein, William Yang Wang"
+    },
+    {
+        "paper_title": "Aligning to Social Norms and Values in Interactive Narratives",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.439/",
+        "author_names": "Prithviraj Ammanabrolu, Liwei Jiang, Maarten Sap, Hannaneh Hajishirzi, Yejin Choi"
+    },
+    {
+        "paper_title": "MOVER: Mask, Over-generate and Rank for Hyperbole Generation",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.440/",
+        "author_names": "Yunxiang Zhang, Xiaojun Wan"
+    },
+    {
+        "paper_title": "Embarrassingly Simple Performance Prediction for Abductive Natural Language Inference",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.441/",
+        "author_names": "Em\u012bls Kadi\u0137is, Vaibhav Srivastav, Roman Klinger"
+    },
+    {
+        "paper_title": "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics",
+        "paper_link": "https://aclanthology.org/2022.naacl-main.442/",
+        "author_names": "Daniel Deutsch, Rotem Dror, Dan Roth"
+    }
+]
